@@ -1,0 +1,4029 @@
+INFO  16:57:59,308 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:57:59,328 - #2 program
+INFO  16:57:59,328 - #44 MJProgram
+INFO  16:57:59,329 - #44 int
+INFO  16:57:59,329 - #44 x
+INFO  16:57:59,329 - #31 ;
+INFO  16:57:59,329 - Deklarisana promenljiva x na liniji 2
+INFO  16:57:59,329 - #6 const
+INFO  16:57:59,329 - #44 bool
+INFO  16:57:59,329 - #44 y
+INFO  16:57:59,329 - #28 =
+INFO  16:57:59,330 - #40 true
+INFO  16:57:59,330 - #31 ;
+INFO  16:57:59,330 - Deklarisana konstanta y na liniji 2
+INFO  16:57:59,330 - #44 string
+INFO  16:57:59,330 - #44 s
+INFO  16:57:59,330 - #31 ;
+INFO  16:57:59,330 - Deklarisana promenljiva s na liniji 3
+INFO  16:57:59,330 - #44 int
+INFO  16:57:59,330 - #44 z
+INFO  16:57:59,350 - #31 ;
+INFO  16:57:59,350 - Deklarisana promenljiva z na liniji 3
+INFO  16:57:59,350 - #4 class
+INFO  16:57:59,350 - #44 Klasa
+INFO  16:57:59,350 - #38 {
+INFO  16:57:59,350 - Deklarisana klasa Klasa na liniji 4
+INFO  16:57:59,350 - #38 {
+INFO  16:57:59,351 - #44 int
+INFO  16:57:59,351 - #44 s
+INFO  16:57:59,351 - #34 (
+INFO  16:57:59,351 - Obradjuje se metoda s na liniji 6
+INFO  16:57:59,351 - #35 )
+INFO  16:57:59,351 - #38 {
+INFO  16:57:59,351 - #11 return
+INFO  16:57:59,351 - #43 3
+INFO  16:57:59,351 - #31 ;
+INFO  16:57:59,351 - #39 }
+INFO  16:57:59,352 - #39 }
+INFO  16:57:59,352 - #39 }
+INFO  16:57:59,352 - #4 class
+INFO  16:57:59,352 - #44 Pom
+INFO  16:57:59,352 - #14 extends
+INFO  16:57:59,352 - Deklarisana klasa Pom na liniji 10
+INFO  16:57:59,352 - #44 Klasa
+INFO  16:57:59,352 - #38 {
+INFO  16:57:59,352 - #38 {
+INFO  16:57:59,352 - #44 int
+INFO  16:57:59,352 - #44 se
+INFO  16:57:59,353 - #34 (
+INFO  16:57:59,353 - Obradjuje se metoda se na liniji 11
+INFO  16:57:59,353 - #35 )
+INFO  16:57:59,353 - #38 {
+INFO  16:57:59,353 - #11 return
+INFO  16:57:59,353 - #43 5
+INFO  16:57:59,353 - #31 ;
+INFO  16:57:59,353 - #39 }
+INFO  16:57:59,353 - #39 }
+INFO  16:57:59,353 - #39 }
+INFO  16:57:59,353 - #44 Pom
+INFO  16:57:59,353 - #44 t
+INFO  16:57:59,353 - #31 ;
+INFO  16:57:59,354 - Deklarisana promenljiva t na liniji 13
+INFO  16:57:59,354 - #44 Klasa
+INFO  16:57:59,354 - #44 k1
+INFO  16:57:59,354 - #31 ;
+INFO  16:57:59,354 - Deklarisana promenljiva k1 na liniji 13
+INFO  16:57:59,354 - #38 {
+INFO  16:57:59,354 - #12 void
+INFO  16:57:59,354 - #44 main
+INFO  16:57:59,354 - #34 (
+INFO  16:57:59,354 - Obradjuje se funkcija main na liniji 15
+INFO  16:57:59,354 - #35 )
+INFO  16:57:59,354 - #44 int
+INFO  16:57:59,354 - #44 g
+INFO  16:57:59,355 - #31 ;
+INFO  16:57:59,355 - Deklarisana promenljiva g na liniji 15
+INFO  16:57:59,355 - #38 {
+INFO  16:57:59,355 - #44 x
+INFO  16:57:59,355 - #28 =
+INFO  16:57:59,355 - #44 z
+INFO  16:57:59,355 - #31 ;
+INFO  16:57:59,355 - #44 kl
+INFO  16:57:59,355 - #28 =
+ERROR 16:57:59,355 - Greska na liniji 18 :ime klnije deklarisano
+INFO  16:57:59,355 - #44 t
+INFO  16:57:59,356 - #31 ;
+INFO  16:57:59,356 - #9 print
+INFO  17:06:09,864 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:06:09,883 - #2 program
+INFO  17:06:09,883 - #44 MJProgram
+INFO  17:06:09,883 - #44 int
+INFO  17:06:09,883 - #44 x
+INFO  17:06:09,884 - #31 ;
+INFO  17:06:09,884 - Deklarisana promenljiva x na liniji 2
+INFO  17:06:09,884 - #6 const
+INFO  17:06:09,884 - #44 bool
+INFO  17:06:09,884 - #44 y
+INFO  17:06:09,884 - #28 =
+INFO  17:06:09,884 - #40 true
+INFO  17:06:09,884 - #31 ;
+INFO  17:06:09,884 - Deklarisana konstanta y na liniji 2
+INFO  17:06:09,885 - #44 string
+INFO  17:06:09,885 - #44 s
+INFO  17:06:09,885 - #31 ;
+INFO  17:06:09,885 - Deklarisana promenljiva s na liniji 3
+INFO  17:06:09,885 - #44 int
+INFO  17:06:09,885 - #44 z
+INFO  17:06:09,885 - #31 ;
+INFO  17:06:09,885 - Deklarisana promenljiva z na liniji 3
+INFO  17:06:09,885 - #4 class
+INFO  17:06:09,885 - #44 Klasa
+INFO  17:06:09,886 - #38 {
+INFO  17:06:09,886 - Deklarisana klasa Klasa na liniji 4
+INFO  17:06:09,886 - #38 {
+INFO  17:06:09,886 - #44 int
+INFO  17:06:09,886 - #44 s
+INFO  17:06:09,886 - #34 (
+INFO  17:06:09,887 - Obradjuje se metoda s na liniji 6
+INFO  17:06:09,887 - #35 )
+INFO  17:06:09,887 - #38 {
+INFO  17:06:09,887 - #11 return
+INFO  17:06:09,887 - #43 3
+INFO  17:06:09,887 - #31 ;
+INFO  17:06:09,887 - #39 }
+INFO  17:06:09,888 - #39 }
+INFO  17:06:09,888 - #39 }
+INFO  17:06:09,888 - #4 class
+INFO  17:06:09,888 - #44 Pom
+INFO  17:06:09,888 - #14 extends
+INFO  17:06:09,888 - Deklarisana klasa Pom na liniji 10
+INFO  17:06:09,888 - #44 Klasa
+INFO  17:06:09,888 - #38 {
+INFO  17:06:09,888 - #38 {
+INFO  17:06:09,889 - #44 int
+INFO  17:06:09,889 - #44 se
+INFO  17:06:09,889 - #34 (
+INFO  17:06:09,889 - Obradjuje se metoda se na liniji 11
+INFO  17:06:09,889 - #35 )
+INFO  17:06:09,889 - #38 {
+INFO  17:06:09,889 - #11 return
+INFO  17:06:09,889 - #43 5
+INFO  17:06:09,889 - #31 ;
+INFO  17:06:09,890 - #39 }
+INFO  17:06:09,890 - #39 }
+INFO  17:06:09,890 - #39 }
+INFO  17:06:09,890 - #44 Pom
+INFO  17:06:09,890 - #44 t
+INFO  17:06:09,890 - #31 ;
+INFO  17:06:09,890 - Deklarisana promenljiva t na liniji 13
+INFO  17:06:09,890 - #44 Klasa
+INFO  17:06:09,890 - #44 k1
+INFO  17:06:09,891 - #31 ;
+INFO  17:06:09,891 - Deklarisana promenljiva k1 na liniji 13
+INFO  17:06:09,891 - #38 {
+INFO  17:06:09,891 - #12 void
+INFO  17:06:09,891 - #44 main
+INFO  17:06:09,891 - #34 (
+INFO  17:06:09,891 - Obradjuje se funkcija main na liniji 15
+INFO  17:06:09,891 - #35 )
+INFO  17:06:09,892 - #44 int
+INFO  17:06:09,892 - #44 g
+INFO  17:06:09,892 - #31 ;
+INFO  17:06:09,892 - Deklarisana promenljiva g na liniji 15
+INFO  17:06:09,892 - #38 {
+INFO  17:06:09,892 - #44 x
+INFO  17:06:09,892 - #28 =
+INFO  17:06:09,892 - #44 z
+INFO  17:06:09,893 - #31 ;
+INFO  17:06:09,893 - #44 kl
+ERROR 17:06:09,893 - Greska na liniji 17 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:06:09,893 - #28 =
+ERROR 17:06:09,893 - Greska na liniji 18 :ime klnije deklarisano
+INFO  17:06:09,893 - #44 t
+INFO  17:06:09,893 - #31 ;
+INFO  17:06:09,893 - #9 print
+ERROR 17:06:09,894 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:06:09,894 - #34 (
+INFO  17:06:09,894 - #43 1
+INFO  17:06:09,894 - #35 )
+INFO  17:06:09,894 - #31 ;
+INFO  17:06:09,894 - #9 print
+INFO  17:06:09,894 - #34 (
+INFO  17:06:09,894 - #43 2
+INFO  17:06:09,895 - #35 )
+INFO  17:06:09,895 - #31 ;
+INFO  17:06:09,895 - #39 }
+INFO  17:06:09,895 - #39 }
+INFO  17:06:09,895 - GlobalVar = 5
+INFO  17:06:09,895 - GlobalConst = 1
+INFO  17:06:09,895 - LocalMainVar = 1
+INFO  17:06:09,895 - GlobalArray = 0
+INFO  17:06:09,896 - FuncProg = 1
+INFO  17:06:09,896 - Blocks = 3
+INFO  17:06:09,896 - FuncCalls = 2
+INFO  17:06:09,896 - FormalArg = 0
+INFO  17:06:09,896 - DefClass = 2
+INFO  17:06:09,896 - DefMClass = 2
+INFO  17:06:09,896 - DeclFClass = 0
+ERROR 17:06:09,897 - Parsiranje nije uspesno
+INFO  17:07:26,968 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:07:26,983 - #2 program
+INFO  17:07:26,983 - #44 MJProgram
+INFO  17:07:26,983 - #4 class
+INFO  17:07:26,983 - #44 Klasa
+INFO  17:07:26,983 - #38 {
+INFO  17:07:26,984 - Deklarisana klasa Klasa na liniji 3
+INFO  17:07:26,984 - #38 {
+INFO  17:07:26,984 - #44 int
+INFO  17:07:26,984 - #44 s
+INFO  17:07:26,984 - #34 (
+INFO  17:07:26,984 - Obradjuje se metoda s na liniji 5
+INFO  17:07:26,984 - #35 )
+INFO  17:07:26,984 - #38 {
+INFO  17:07:26,984 - #11 return
+INFO  17:07:26,984 - #43 3
+INFO  17:07:26,984 - #31 ;
+INFO  17:07:26,985 - #39 }
+INFO  17:07:26,985 - #39 }
+INFO  17:07:26,985 - #39 }
+INFO  17:07:26,985 - #4 class
+INFO  17:07:26,985 - #44 Pom
+INFO  17:07:26,985 - #14 extends
+INFO  17:07:26,985 - Deklarisana klasa Pom na liniji 9
+INFO  17:07:26,985 - #44 Klasa
+INFO  17:07:26,985 - #38 {
+INFO  17:07:26,985 - #38 {
+INFO  17:07:26,986 - #44 int
+INFO  17:07:26,986 - #44 se
+INFO  17:07:26,986 - #34 (
+INFO  17:07:26,986 - Obradjuje se metoda se na liniji 10
+INFO  17:07:26,986 - #35 )
+INFO  17:07:26,986 - #38 {
+INFO  17:07:26,986 - #11 return
+INFO  17:07:26,986 - #43 5
+INFO  17:07:26,986 - #31 ;
+INFO  17:07:26,987 - #39 }
+INFO  17:07:26,987 - #39 }
+INFO  17:07:26,987 - #39 }
+INFO  17:07:26,987 - #44 Pom
+INFO  17:07:26,987 - #44 t
+INFO  17:07:26,987 - #31 ;
+INFO  17:07:26,987 - Deklarisana promenljiva t na liniji 12
+INFO  17:07:26,987 - #44 Klasa
+INFO  17:07:26,987 - #44 k1
+INFO  17:07:26,987 - #31 ;
+INFO  17:07:26,987 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:07:26,988 - #38 {
+INFO  17:07:26,988 - #12 void
+INFO  17:07:26,988 - #44 main
+INFO  17:07:26,988 - #34 (
+INFO  17:07:26,988 - Obradjuje se funkcija main na liniji 14
+INFO  17:07:26,988 - #35 )
+INFO  17:07:26,988 - #31 ;
+ERROR 17:07:26,988 - 
+Sintaksna greska na liniji 14
+INFO  17:07:26,988 - #38 {
+INFO  17:07:26,988 - #44 Pom
+INFO  17:07:26,988 - #44 p
+DEBUG 17:07:26,989 - uspesan oporavak
+ERROR 17:07:26,989 - 
+Sintaksna greska na liniji 16
+INFO  17:07:26,989 - #31 ;
+INFO  17:07:26,989 - #44 p
+INFO  17:07:26,989 - #28 =
+INFO  17:07:26,989 - #44 t
+INFO  17:07:26,990 - #31 ;
+INFO  17:07:26,990 - #39 }
+INFO  17:07:26,990 - #39 }
+ERROR 17:07:26,990 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 19
+INFO  17:07:26,990 - GlobalVar = 2
+INFO  17:07:26,990 - GlobalConst = 0
+INFO  17:07:26,990 - LocalMainVar = 0
+INFO  17:07:26,990 - GlobalArray = 0
+INFO  17:07:26,990 - FuncProg = 0
+INFO  17:07:26,990 - Blocks = 2
+INFO  17:07:26,990 - FuncCalls = 0
+INFO  17:07:26,990 - FormalArg = 0
+INFO  17:07:26,990 - DefClass = 2
+INFO  17:07:26,991 - DefMClass = 2
+INFO  17:07:26,991 - DeclFClass = 0
+ERROR 17:07:26,992 - Parsiranje nije uspesno
+INFO  17:07:57,815 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:07:57,830 - #2 program
+INFO  17:07:57,831 - #44 MJProgram
+INFO  17:07:57,831 - #4 class
+INFO  17:07:57,831 - #44 Klasa
+INFO  17:07:57,831 - #38 {
+INFO  17:07:57,831 - Deklarisana klasa Klasa na liniji 3
+INFO  17:07:57,831 - #38 {
+INFO  17:07:57,831 - #44 int
+INFO  17:07:57,831 - #44 s
+INFO  17:07:57,832 - #34 (
+INFO  17:07:57,832 - Obradjuje se metoda s na liniji 5
+INFO  17:07:57,832 - #35 )
+INFO  17:07:57,832 - #38 {
+INFO  17:07:57,832 - #11 return
+INFO  17:07:57,832 - #43 3
+INFO  17:07:57,832 - #31 ;
+INFO  17:07:57,832 - #39 }
+INFO  17:07:57,832 - #39 }
+INFO  17:07:57,832 - #39 }
+INFO  17:07:57,832 - #4 class
+INFO  17:07:57,833 - #44 Pom
+INFO  17:07:57,833 - #14 extends
+INFO  17:07:57,833 - Deklarisana klasa Pom na liniji 9
+INFO  17:07:57,833 - #44 Klasa
+INFO  17:07:57,833 - #38 {
+INFO  17:07:57,833 - #38 {
+INFO  17:07:57,833 - #44 int
+INFO  17:07:57,833 - #44 se
+INFO  17:07:57,833 - #34 (
+INFO  17:07:57,833 - Obradjuje se metoda se na liniji 10
+INFO  17:07:57,833 - #35 )
+INFO  17:07:57,833 - #38 {
+INFO  17:07:57,833 - #11 return
+INFO  17:07:57,834 - #43 5
+INFO  17:07:57,834 - #31 ;
+INFO  17:07:57,834 - #39 }
+INFO  17:07:57,834 - #39 }
+INFO  17:07:57,834 - #39 }
+INFO  17:07:57,834 - #44 Pom
+INFO  17:07:57,834 - #44 t
+INFO  17:07:57,834 - #32 ,
+INFO  17:07:57,834 - Deklarisana promenljiva t na liniji 12
+INFO  17:07:57,834 - #44 p
+INFO  17:07:57,835 - #31 ;
+INFO  17:07:57,835 - Deklarisana promenljiva p na liniji 12
+INFO  17:07:57,835 - #44 Klasa
+INFO  17:07:57,835 - #44 k1
+INFO  17:07:57,835 - #31 ;
+INFO  17:07:57,835 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:07:57,835 - #38 {
+INFO  17:07:57,835 - #12 void
+INFO  17:07:57,836 - #44 main
+INFO  17:07:57,836 - #34 (
+INFO  17:07:57,836 - Obradjuje se funkcija main na liniji 14
+INFO  17:07:57,836 - #35 )
+INFO  17:07:57,836 - #31 ;
+ERROR 17:07:57,836 - 
+Sintaksna greska na liniji 14
+INFO  17:07:57,836 - #38 {
+INFO  17:07:57,836 - #44 p
+INFO  17:07:57,836 - #28 =
+DEBUG 17:07:57,837 - uspesan oporavak
+INFO  17:07:57,837 - #44 t
+INFO  17:07:57,838 - #31 ;
+INFO  17:07:57,838 - #39 }
+ERROR 17:07:57,838 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:07:57,838 - #39 }
+INFO  17:07:57,838 - GlobalVar = 3
+INFO  17:07:57,838 - GlobalConst = 0
+INFO  17:07:57,838 - LocalMainVar = 0
+INFO  17:07:57,838 - GlobalArray = 0
+INFO  17:07:57,838 - FuncProg = 1
+INFO  17:07:57,838 - Blocks = 3
+INFO  17:07:57,839 - FuncCalls = 0
+INFO  17:07:57,839 - FormalArg = 0
+INFO  17:07:57,839 - DefClass = 2
+INFO  17:07:57,839 - DefMClass = 2
+INFO  17:07:57,839 - DeclFClass = 0
+ERROR 17:07:57,840 - Parsiranje nije uspesno
+INFO  17:08:46,468 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:08:46,483 - #2 program
+INFO  17:08:46,483 - #44 MJProgram
+INFO  17:08:46,483 - #4 class
+INFO  17:08:46,484 - #44 Klasa
+INFO  17:08:46,484 - #38 {
+INFO  17:08:46,484 - Deklarisana klasa Klasa na liniji 3
+INFO  17:08:46,484 - #38 {
+INFO  17:08:46,484 - #44 int
+INFO  17:08:46,484 - #44 s
+INFO  17:08:46,484 - #34 (
+INFO  17:08:46,484 - Obradjuje se metoda s na liniji 5
+INFO  17:08:46,484 - #35 )
+INFO  17:08:46,485 - #38 {
+INFO  17:08:46,485 - #11 return
+INFO  17:08:46,485 - #43 3
+INFO  17:08:46,485 - #31 ;
+INFO  17:08:46,485 - #39 }
+INFO  17:08:46,485 - #39 }
+INFO  17:08:46,485 - #39 }
+INFO  17:08:46,485 - #4 class
+INFO  17:08:46,485 - #44 Pom
+INFO  17:08:46,486 - #14 extends
+INFO  17:08:46,486 - Deklarisana klasa Pom na liniji 9
+INFO  17:08:46,486 - #44 Klasa
+INFO  17:08:46,486 - #38 {
+INFO  17:08:46,486 - #38 {
+INFO  17:08:46,486 - #44 int
+INFO  17:08:46,486 - #44 se
+INFO  17:08:46,486 - #34 (
+INFO  17:08:46,486 - Obradjuje se metoda se na liniji 10
+INFO  17:08:46,486 - #35 )
+INFO  17:08:46,487 - #38 {
+INFO  17:08:46,487 - #11 return
+INFO  17:08:46,487 - #43 5
+INFO  17:08:46,487 - #31 ;
+INFO  17:08:46,487 - #39 }
+INFO  17:08:46,487 - #39 }
+INFO  17:08:46,487 - #39 }
+INFO  17:08:46,487 - #44 Pom
+INFO  17:08:46,487 - #44 t
+INFO  17:08:46,487 - #32 ,
+INFO  17:08:46,487 - Deklarisana promenljiva t na liniji 12
+INFO  17:08:46,488 - #44 p
+INFO  17:08:46,488 - #31 ;
+INFO  17:08:46,488 - Deklarisana promenljiva p na liniji 12
+INFO  17:08:46,488 - #44 Klasa
+INFO  17:08:46,488 - #44 k1
+INFO  17:08:46,488 - #31 ;
+INFO  17:08:46,488 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:08:46,488 - #38 {
+INFO  17:08:46,488 - #12 void
+INFO  17:08:46,488 - #44 main
+INFO  17:08:46,488 - #34 (
+INFO  17:08:46,489 - Obradjuje se funkcija main na liniji 14
+INFO  17:08:46,489 - #35 )
+INFO  17:08:46,489 - #31 ;
+ERROR 17:08:46,489 - 
+Sintaksna greska na liniji 14
+INFO  17:08:46,489 - #38 {
+INFO  17:08:46,489 - #44 p
+INFO  17:08:46,489 - #28 =
+DEBUG 17:08:46,490 - uspesan oporavak
+INFO  17:08:46,490 - #43 5
+INFO  17:08:46,490 - #31 ;
+INFO  17:08:46,490 - #39 }
+ERROR 17:08:46,490 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:08:46,490 - #39 }
+INFO  17:08:46,491 - GlobalVar = 3
+INFO  17:08:46,491 - GlobalConst = 0
+INFO  17:08:46,491 - LocalMainVar = 0
+INFO  17:08:46,491 - GlobalArray = 0
+INFO  17:08:46,491 - FuncProg = 1
+INFO  17:08:46,491 - Blocks = 3
+INFO  17:08:46,491 - FuncCalls = 0
+INFO  17:08:46,491 - FormalArg = 0
+INFO  17:08:46,491 - DefClass = 2
+INFO  17:08:46,491 - DefMClass = 2
+INFO  17:08:46,491 - DeclFClass = 0
+ERROR 17:08:46,492 - Parsiranje nije uspesno
+INFO  17:09:03,135 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:09:03,151 - #2 program
+INFO  17:09:03,151 - #44 MJProgram
+INFO  17:09:03,151 - #4 class
+INFO  17:09:03,151 - #44 Klasa
+INFO  17:09:03,151 - #38 {
+INFO  17:09:03,151 - Deklarisana klasa Klasa na liniji 3
+INFO  17:09:03,152 - #38 {
+INFO  17:09:03,152 - #44 int
+INFO  17:09:03,152 - #44 s
+INFO  17:09:03,152 - #34 (
+INFO  17:09:03,152 - Obradjuje se metoda s na liniji 5
+INFO  17:09:03,152 - #35 )
+INFO  17:09:03,152 - #38 {
+INFO  17:09:03,152 - #11 return
+INFO  17:09:03,153 - #43 3
+INFO  17:09:03,153 - #31 ;
+INFO  17:09:03,153 - #39 }
+INFO  17:09:03,153 - #39 }
+INFO  17:09:03,153 - #39 }
+INFO  17:09:03,153 - #4 class
+INFO  17:09:03,153 - #44 Pom
+INFO  17:09:03,153 - #14 extends
+INFO  17:09:03,153 - Deklarisana klasa Pom na liniji 9
+INFO  17:09:03,153 - #44 Klasa
+INFO  17:09:03,153 - #38 {
+INFO  17:09:03,154 - #38 {
+INFO  17:09:03,154 - #44 int
+INFO  17:09:03,154 - #44 se
+INFO  17:09:03,154 - #34 (
+INFO  17:09:03,154 - Obradjuje se metoda se na liniji 10
+INFO  17:09:03,154 - #35 )
+INFO  17:09:03,154 - #38 {
+INFO  17:09:03,154 - #11 return
+INFO  17:09:03,154 - #43 5
+INFO  17:09:03,154 - #31 ;
+INFO  17:09:03,155 - #39 }
+INFO  17:09:03,155 - #39 }
+INFO  17:09:03,155 - #39 }
+INFO  17:09:03,155 - #44 Pom
+INFO  17:09:03,155 - #44 t
+INFO  17:09:03,155 - #32 ,
+INFO  17:09:03,155 - Deklarisana promenljiva t na liniji 12
+INFO  17:09:03,155 - #44 p
+INFO  17:09:03,155 - #31 ;
+INFO  17:09:03,155 - Deklarisana promenljiva p na liniji 12
+INFO  17:09:03,155 - #44 Klasa
+INFO  17:09:03,155 - #44 k1
+INFO  17:09:03,156 - #31 ;
+INFO  17:09:03,156 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:09:03,156 - #38 {
+INFO  17:09:03,156 - #12 void
+INFO  17:09:03,156 - #44 main
+INFO  17:09:03,156 - #34 (
+INFO  17:09:03,156 - Obradjuje se funkcija main na liniji 14
+INFO  17:09:03,156 - #35 )
+INFO  17:09:03,156 - #31 ;
+ERROR 17:09:03,156 - 
+Sintaksna greska na liniji 14
+INFO  17:09:03,157 - #38 {
+INFO  17:09:03,157 - #44 p
+INFO  17:09:03,157 - #28 =
+DEBUG 17:09:03,157 - uspesan oporavak
+INFO  17:09:03,158 - #44 t
+INFO  17:09:03,158 - #31 ;
+INFO  17:09:03,158 - #39 }
+ERROR 17:09:03,158 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:09:03,158 - #39 }
+INFO  17:09:03,158 - GlobalVar = 3
+INFO  17:09:03,158 - GlobalConst = 0
+INFO  17:09:03,158 - LocalMainVar = 0
+INFO  17:09:03,158 - GlobalArray = 0
+INFO  17:09:03,158 - FuncProg = 1
+INFO  17:09:03,158 - Blocks = 3
+INFO  17:09:03,159 - FuncCalls = 0
+INFO  17:09:03,159 - FormalArg = 0
+INFO  17:09:03,159 - DefClass = 2
+INFO  17:09:03,159 - DefMClass = 2
+INFO  17:09:03,159 - DeclFClass = 0
+ERROR 17:09:03,160 - Parsiranje nije uspesno
+INFO  17:09:23,829 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:09:23,843 - #2 program
+INFO  17:09:23,844 - #44 MJProgram
+INFO  17:09:23,844 - #4 class
+INFO  17:09:23,844 - #44 Klasa
+INFO  17:09:23,844 - #38 {
+INFO  17:09:23,844 - Deklarisana klasa Klasa na liniji 3
+INFO  17:09:23,844 - #38 {
+INFO  17:09:23,844 - #44 int
+INFO  17:09:23,844 - #44 s
+INFO  17:09:23,845 - #34 (
+INFO  17:09:23,845 - Obradjuje se metoda s na liniji 5
+INFO  17:09:23,845 - #35 )
+INFO  17:09:23,845 - #38 {
+INFO  17:09:23,845 - #11 return
+INFO  17:09:23,845 - #43 3
+INFO  17:09:23,845 - #31 ;
+INFO  17:09:23,845 - #39 }
+INFO  17:09:23,846 - #39 }
+INFO  17:09:23,846 - #39 }
+INFO  17:09:23,846 - #4 class
+INFO  17:09:23,846 - #44 Pom
+INFO  17:09:23,846 - #14 extends
+INFO  17:09:23,846 - Deklarisana klasa Pom na liniji 9
+INFO  17:09:23,846 - #44 Klasa
+INFO  17:09:23,846 - #38 {
+INFO  17:09:23,846 - #38 {
+INFO  17:09:23,847 - #44 int
+INFO  17:09:23,847 - #44 se
+INFO  17:09:23,847 - #34 (
+INFO  17:09:23,847 - Obradjuje se metoda se na liniji 10
+INFO  17:09:23,847 - #35 )
+INFO  17:09:23,847 - #38 {
+INFO  17:09:23,847 - #11 return
+INFO  17:09:23,847 - #43 5
+INFO  17:09:23,847 - #31 ;
+INFO  17:09:23,848 - #39 }
+INFO  17:09:23,848 - #39 }
+INFO  17:09:23,848 - #39 }
+INFO  17:09:23,848 - #44 Pom
+INFO  17:09:23,848 - #44 t
+INFO  17:09:23,848 - #32 ,
+INFO  17:09:23,848 - Deklarisana promenljiva t na liniji 12
+INFO  17:09:23,848 - #44 p
+INFO  17:09:23,848 - #31 ;
+INFO  17:09:23,848 - Deklarisana promenljiva p na liniji 12
+INFO  17:09:23,848 - #44 Klasa
+INFO  17:09:23,849 - #44 k1
+INFO  17:09:23,849 - #31 ;
+INFO  17:09:23,849 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:09:23,849 - #38 {
+INFO  17:09:23,849 - #12 void
+INFO  17:09:23,849 - #44 main
+INFO  17:09:23,849 - #34 (
+INFO  17:09:23,849 - Obradjuje se funkcija main na liniji 14
+INFO  17:09:23,849 - #35 )
+INFO  17:09:23,849 - #31 ;
+ERROR 17:09:23,849 - 
+Sintaksna greska na liniji 14
+INFO  17:09:23,849 - #38 {
+INFO  17:09:23,850 - #39 }
+INFO  17:09:23,850 - #39 }
+DEBUG 17:09:23,850 - uspesan oporavak
+INFO  17:09:23,851 - GlobalVar = 3
+INFO  17:09:23,851 - GlobalConst = 0
+INFO  17:09:23,851 - LocalMainVar = 0
+INFO  17:09:23,851 - GlobalArray = 0
+INFO  17:09:23,851 - FuncProg = 1
+INFO  17:09:23,851 - Blocks = 3
+INFO  17:09:23,851 - FuncCalls = 0
+INFO  17:09:23,851 - FormalArg = 0
+INFO  17:09:23,851 - DefClass = 2
+INFO  17:09:23,851 - DefMClass = 2
+INFO  17:09:23,851 - DeclFClass = 0
+ERROR 17:09:23,852 - Parsiranje nije uspesno
+INFO  17:09:44,566 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:09:44,581 - #2 program
+INFO  17:09:44,581 - #44 MJProgram
+INFO  17:09:44,581 - #4 class
+INFO  17:09:44,581 - #44 Klasa
+INFO  17:09:44,581 - #38 {
+INFO  17:09:44,581 - Deklarisana klasa Klasa na liniji 3
+INFO  17:09:44,582 - #38 {
+INFO  17:09:44,582 - #44 int
+INFO  17:09:44,582 - #44 s
+INFO  17:09:44,582 - #34 (
+INFO  17:09:44,582 - Obradjuje se metoda s na liniji 5
+INFO  17:09:44,582 - #35 )
+INFO  17:09:44,582 - #38 {
+INFO  17:09:44,582 - #11 return
+INFO  17:09:44,583 - #43 3
+INFO  17:09:44,583 - #31 ;
+INFO  17:09:44,583 - #39 }
+INFO  17:09:44,583 - #39 }
+INFO  17:09:44,583 - #39 }
+INFO  17:09:44,583 - #4 class
+INFO  17:09:44,583 - #44 Pom
+INFO  17:09:44,583 - #14 extends
+INFO  17:09:44,583 - Deklarisana klasa Pom na liniji 9
+INFO  17:09:44,583 - #44 Klasa
+INFO  17:09:44,583 - #38 {
+INFO  17:09:44,583 - #38 {
+INFO  17:09:44,584 - #44 int
+INFO  17:09:44,584 - #44 se
+INFO  17:09:44,584 - #34 (
+INFO  17:09:44,584 - Obradjuje se metoda se na liniji 10
+INFO  17:09:44,584 - #35 )
+INFO  17:09:44,584 - #38 {
+INFO  17:09:44,584 - #11 return
+INFO  17:09:44,584 - #43 5
+INFO  17:09:44,584 - #31 ;
+INFO  17:09:44,584 - #39 }
+INFO  17:09:44,584 - #39 }
+INFO  17:09:44,584 - #39 }
+INFO  17:09:44,585 - #44 Pom
+INFO  17:09:44,585 - #44 t
+INFO  17:09:44,585 - #32 ,
+INFO  17:09:44,585 - Deklarisana promenljiva t na liniji 12
+INFO  17:09:44,585 - #44 p
+INFO  17:09:44,585 - #31 ;
+INFO  17:09:44,585 - Deklarisana promenljiva p na liniji 12
+INFO  17:09:44,585 - #44 Klasa
+INFO  17:09:44,585 - #44 k1
+INFO  17:09:44,585 - #31 ;
+INFO  17:09:44,585 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:09:44,586 - #38 {
+INFO  17:09:44,586 - #12 void
+INFO  17:09:44,586 - #44 main
+INFO  17:09:44,586 - #34 (
+INFO  17:09:44,586 - Obradjuje se funkcija main na liniji 14
+INFO  17:09:44,586 - #35 )
+INFO  17:09:44,586 - #38 {
+INFO  17:09:44,586 - #39 }
+INFO  17:09:44,586 - #39 }
+INFO  17:09:44,586 - GlobalVar = 3
+INFO  17:09:44,587 - GlobalConst = 0
+INFO  17:09:44,587 - LocalMainVar = 0
+INFO  17:09:44,587 - GlobalArray = 0
+INFO  17:09:44,587 - FuncProg = 1
+INFO  17:09:44,587 - Blocks = 3
+INFO  17:09:44,587 - FuncCalls = 0
+INFO  17:09:44,587 - FormalArg = 0
+INFO  17:09:44,587 - DefClass = 2
+INFO  17:09:44,587 - DefMClass = 2
+INFO  17:09:44,587 - DeclFClass = 0
+INFO  17:09:44,588 - Parsiranje uspesno
+INFO  17:09:54,033 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:09:54,050 - #2 program
+INFO  17:09:54,050 - #44 MJProgram
+INFO  17:09:54,050 - #4 class
+INFO  17:09:54,050 - #44 Klasa
+INFO  17:09:54,051 - #38 {
+INFO  17:09:54,051 - Deklarisana klasa Klasa na liniji 3
+INFO  17:09:54,051 - #38 {
+INFO  17:09:54,051 - #44 int
+INFO  17:09:54,051 - #44 s
+INFO  17:09:54,051 - #34 (
+INFO  17:09:54,051 - Obradjuje se metoda s na liniji 5
+INFO  17:09:54,051 - #35 )
+INFO  17:09:54,051 - #38 {
+INFO  17:09:54,051 - #11 return
+INFO  17:09:54,052 - #43 3
+INFO  17:09:54,052 - #31 ;
+INFO  17:09:54,052 - #39 }
+INFO  17:09:54,052 - #39 }
+INFO  17:09:54,052 - #39 }
+INFO  17:09:54,052 - #4 class
+INFO  17:09:54,052 - #44 Pom
+INFO  17:09:54,052 - #14 extends
+INFO  17:09:54,052 - Deklarisana klasa Pom na liniji 9
+INFO  17:09:54,052 - #44 Klasa
+INFO  17:09:54,052 - #38 {
+INFO  17:09:54,053 - #38 {
+INFO  17:09:54,053 - #44 int
+INFO  17:09:54,053 - #44 se
+INFO  17:09:54,053 - #34 (
+INFO  17:09:54,053 - Obradjuje se metoda se na liniji 10
+INFO  17:09:54,053 - #35 )
+INFO  17:09:54,053 - #38 {
+INFO  17:09:54,053 - #11 return
+INFO  17:09:54,053 - #43 5
+INFO  17:09:54,053 - #31 ;
+INFO  17:09:54,053 - #39 }
+INFO  17:09:54,054 - #39 }
+INFO  17:09:54,054 - #39 }
+INFO  17:09:54,054 - #44 Pom
+INFO  17:09:54,054 - #44 t
+INFO  17:09:54,054 - #32 ,
+INFO  17:09:54,054 - Deklarisana promenljiva t na liniji 12
+INFO  17:09:54,054 - #44 p
+INFO  17:09:54,055 - #31 ;
+INFO  17:09:54,055 - Deklarisana promenljiva p na liniji 12
+INFO  17:09:54,055 - #44 Klasa
+INFO  17:09:54,055 - #44 k1
+INFO  17:09:54,055 - #31 ;
+INFO  17:09:54,055 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:09:54,055 - #38 {
+INFO  17:09:54,056 - #12 void
+INFO  17:09:54,056 - #44 main
+INFO  17:09:54,056 - #34 (
+INFO  17:09:54,056 - Obradjuje se funkcija main na liniji 14
+INFO  17:09:54,056 - #35 )
+INFO  17:09:54,056 - #38 {
+INFO  17:09:54,056 - #44 p
+INFO  17:09:54,057 - #28 =
+INFO  17:09:54,057 - #44 t
+INFO  17:09:54,057 - #31 ;
+INFO  17:09:54,057 - #39 }
+ERROR 17:09:54,057 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:09:54,057 - #39 }
+INFO  17:09:54,058 - GlobalVar = 3
+INFO  17:09:54,058 - GlobalConst = 0
+INFO  17:09:54,058 - LocalMainVar = 0
+INFO  17:09:54,058 - GlobalArray = 0
+INFO  17:09:54,058 - FuncProg = 1
+INFO  17:09:54,058 - Blocks = 3
+INFO  17:09:54,058 - FuncCalls = 0
+INFO  17:09:54,059 - FormalArg = 0
+INFO  17:09:54,059 - DefClass = 2
+INFO  17:09:54,059 - DefMClass = 2
+INFO  17:09:54,059 - DeclFClass = 0
+ERROR 17:09:54,060 - Parsiranje nije uspesno
+INFO  17:10:18,525 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:10:18,541 - #2 program
+INFO  17:10:18,541 - #44 MJProgram
+INFO  17:10:18,541 - #4 class
+INFO  17:10:18,541 - #44 Klasa
+INFO  17:10:18,541 - #38 {
+INFO  17:10:18,542 - Deklarisana klasa Klasa na liniji 3
+INFO  17:10:18,542 - #38 {
+INFO  17:10:18,542 - #44 int
+INFO  17:10:18,542 - #44 s
+INFO  17:10:18,542 - #34 (
+INFO  17:10:18,542 - Obradjuje se metoda s na liniji 5
+INFO  17:10:18,542 - #35 )
+INFO  17:10:18,542 - #38 {
+INFO  17:10:18,542 - #11 return
+INFO  17:10:18,543 - #43 3
+INFO  17:10:18,543 - #31 ;
+INFO  17:10:18,543 - #39 }
+INFO  17:10:18,543 - #39 }
+INFO  17:10:18,543 - #39 }
+INFO  17:10:18,543 - #4 class
+INFO  17:10:18,543 - #44 Pom
+INFO  17:10:18,543 - #14 extends
+INFO  17:10:18,543 - Deklarisana klasa Pom na liniji 9
+INFO  17:10:18,543 - #44 Klasa
+INFO  17:10:18,543 - #38 {
+INFO  17:10:18,544 - #38 {
+INFO  17:10:18,544 - #44 int
+INFO  17:10:18,544 - #44 se
+INFO  17:10:18,544 - #34 (
+INFO  17:10:18,544 - Obradjuje se metoda se na liniji 10
+INFO  17:10:18,544 - #35 )
+INFO  17:10:18,544 - #38 {
+INFO  17:10:18,544 - #11 return
+INFO  17:10:18,544 - #43 5
+INFO  17:10:18,544 - #31 ;
+INFO  17:10:18,544 - #39 }
+INFO  17:10:18,545 - #39 }
+INFO  17:10:18,545 - #39 }
+INFO  17:10:18,545 - #44 Pom
+INFO  17:10:18,545 - #44 t
+INFO  17:10:18,545 - #32 ,
+INFO  17:10:18,545 - Deklarisana promenljiva t na liniji 12
+INFO  17:10:18,545 - #44 p
+INFO  17:10:18,545 - #31 ;
+INFO  17:10:18,545 - Deklarisana promenljiva p na liniji 12
+INFO  17:10:18,545 - #44 Klasa
+INFO  17:10:18,545 - #44 k1
+INFO  17:10:18,546 - #31 ;
+INFO  17:10:18,546 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:10:18,546 - #38 {
+INFO  17:10:18,546 - #12 void
+INFO  17:10:18,546 - #44 main
+INFO  17:10:18,546 - #34 (
+INFO  17:10:18,546 - Obradjuje se funkcija main na liniji 14
+INFO  17:10:18,546 - #35 )
+INFO  17:10:18,546 - #44 int
+INFO  17:10:18,546 - #44 g
+INFO  17:10:18,546 - #31 ;
+INFO  17:10:18,546 - Deklarisana promenljiva g na liniji 14
+INFO  17:10:18,546 - #38 {
+INFO  17:10:18,547 - #44 g
+INFO  17:10:18,547 - #28 =
+INFO  17:10:18,547 - #43 5
+INFO  17:10:18,547 - #31 ;
+INFO  17:10:18,547 - #39 }
+ERROR 17:10:18,547 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  17:10:18,547 - #39 }
+INFO  17:10:18,548 - GlobalVar = 3
+INFO  17:10:18,548 - GlobalConst = 0
+INFO  17:10:18,548 - LocalMainVar = 1
+INFO  17:10:18,548 - GlobalArray = 0
+INFO  17:10:18,548 - FuncProg = 1
+INFO  17:10:18,548 - Blocks = 3
+INFO  17:10:18,548 - FuncCalls = 0
+INFO  17:10:18,548 - FormalArg = 0
+INFO  17:10:18,548 - DefClass = 2
+INFO  17:10:18,548 - DefMClass = 2
+INFO  17:10:18,548 - DeclFClass = 0
+ERROR 17:10:18,550 - Parsiranje nije uspesno
+INFO  17:17:53,848 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:17:53,892 - #2 program
+INFO  17:17:53,892 - #44 MJProgram
+INFO  17:17:53,893 - #4 class
+INFO  17:17:53,893 - #44 Klasa
+INFO  17:17:53,893 - #38 {
+INFO  17:17:53,893 - Deklarisana klasa Klasa na liniji 3
+INFO  17:17:53,894 - #38 {
+INFO  17:17:53,894 - #44 int
+INFO  17:17:53,894 - #44 s
+INFO  17:17:53,894 - #34 (
+INFO  17:17:53,894 - Obradjuje se metoda s na liniji 5
+INFO  17:17:53,894 - #35 )
+INFO  17:17:53,894 - #38 {
+INFO  17:17:53,894 - #11 return
+INFO  17:17:53,894 - #43 3
+INFO  17:17:53,895 - #31 ;
+INFO  17:17:53,895 - #39 }
+INFO  17:17:53,895 - #39 }
+INFO  17:17:53,895 - #39 }
+INFO  17:17:53,895 - #4 class
+INFO  17:17:53,895 - #44 Pom
+INFO  17:17:53,895 - #14 extends
+INFO  17:17:53,895 - Deklarisana klasa Pom na liniji 9
+INFO  17:17:53,895 - #44 Klasa
+INFO  17:17:53,896 - #38 {
+INFO  17:17:53,896 - #38 {
+INFO  17:17:53,896 - #44 int
+INFO  17:17:53,896 - #44 se
+INFO  17:17:53,896 - #34 (
+INFO  17:17:53,896 - Obradjuje se metoda se na liniji 10
+INFO  17:17:53,897 - #35 )
+INFO  17:17:53,897 - #38 {
+INFO  17:17:53,897 - #11 return
+INFO  17:17:53,897 - #43 5
+INFO  17:17:53,897 - #31 ;
+INFO  17:17:53,897 - #39 }
+INFO  17:17:53,897 - #39 }
+INFO  17:17:53,898 - #39 }
+INFO  17:17:53,898 - #44 Pom
+INFO  17:17:53,898 - #44 t
+INFO  17:17:53,898 - #32 ,
+INFO  17:17:53,898 - Deklarisana promenljiva t na liniji 12
+INFO  17:17:53,898 - #44 p
+INFO  17:17:53,898 - #31 ;
+INFO  17:17:53,898 - Deklarisana promenljiva p na liniji 12
+INFO  17:17:53,899 - #44 Klasa
+INFO  17:17:53,899 - #44 k1
+INFO  17:17:53,899 - #31 ;
+INFO  17:17:53,899 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:17:53,899 - #38 {
+INFO  17:17:53,899 - #12 void
+INFO  17:17:53,899 - #44 main
+INFO  17:17:53,900 - #34 (
+INFO  17:17:53,900 - Obradjuje se funkcija main na liniji 14
+INFO  17:17:53,900 - #35 )
+INFO  17:17:53,900 - #44 int
+INFO  17:17:53,900 - #44 g
+INFO  17:17:53,900 - #31 ;
+INFO  17:17:53,900 - Deklarisana promenljiva g na liniji 14
+INFO  17:17:53,900 - #38 {
+INFO  17:17:53,901 - #44 g
+INFO  17:17:53,901 - #28 =
+INFO  17:17:53,901 - #43 5
+INFO  17:17:53,901 - #31 ;
+INFO  17:17:53,901 - #39 }
+INFO  17:19:32,079 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  17:19:32,117 - #2 program
+INFO  17:19:32,117 - #44 MJProgram
+INFO  17:19:32,118 - #4 class
+INFO  17:19:32,118 - #44 Klasa
+INFO  17:19:32,118 - #38 {
+INFO  17:19:32,118 - Deklarisana klasa Klasa na liniji 3
+INFO  17:19:32,118 - #38 {
+INFO  17:19:32,118 - #44 int
+INFO  17:19:32,118 - #44 s
+INFO  17:19:32,119 - #34 (
+INFO  17:19:32,119 - Obradjuje se metoda s na liniji 5
+INFO  17:19:32,119 - #35 )
+INFO  17:19:32,119 - #38 {
+INFO  17:19:32,119 - #11 return
+INFO  17:19:32,119 - #43 3
+INFO  17:19:32,119 - #31 ;
+INFO  17:19:32,119 - #39 }
+INFO  17:19:32,119 - #39 }
+INFO  17:19:32,119 - #39 }
+INFO  17:19:32,119 - #4 class
+INFO  17:19:32,120 - #44 Pom
+INFO  17:19:32,120 - #14 extends
+INFO  17:19:32,120 - Deklarisana klasa Pom na liniji 9
+INFO  17:19:32,120 - #44 Klasa
+INFO  17:19:32,120 - #38 {
+INFO  17:19:32,120 - #38 {
+INFO  17:19:32,120 - #44 int
+INFO  17:19:32,120 - #44 se
+INFO  17:19:32,120 - #34 (
+INFO  17:19:32,120 - Obradjuje se metoda se na liniji 10
+INFO  17:19:32,120 - #35 )
+INFO  17:19:32,121 - #38 {
+INFO  17:19:32,121 - #11 return
+INFO  17:19:32,121 - #43 5
+INFO  17:19:32,121 - #31 ;
+INFO  17:19:32,121 - #39 }
+INFO  17:19:32,121 - #39 }
+INFO  17:19:32,121 - #39 }
+INFO  17:19:32,121 - #44 Pom
+INFO  17:19:32,122 - #44 t
+INFO  17:19:32,122 - #32 ,
+INFO  17:19:32,122 - Deklarisana promenljiva t na liniji 12
+INFO  17:19:32,122 - #44 p
+INFO  17:19:32,122 - #31 ;
+INFO  17:19:32,122 - Deklarisana promenljiva p na liniji 12
+INFO  17:19:32,122 - #44 Klasa
+INFO  17:19:32,123 - #44 k1
+INFO  17:19:32,123 - #31 ;
+INFO  17:19:32,123 - Deklarisana promenljiva k1 na liniji 12
+INFO  17:19:32,123 - #38 {
+INFO  17:19:32,123 - #12 void
+INFO  17:19:32,123 - #44 main
+INFO  17:19:32,124 - #34 (
+INFO  17:19:32,124 - Obradjuje se funkcija main na liniji 14
+INFO  17:19:32,124 - #35 )
+INFO  17:19:32,124 - #44 int
+INFO  17:19:32,124 - #44 g
+INFO  17:19:32,124 - #31 ;
+INFO  17:19:32,124 - Deklarisana promenljiva g na liniji 14
+INFO  17:19:32,124 - #38 {
+INFO  17:19:32,124 - #44 g
+INFO  17:19:32,124 - #28 =
+INFO  17:19:32,125 - #43 5
+INFO  17:19:32,125 - #31 ;
+INFO  17:19:32,125 - #39 }
+INFO  18:10:30,983 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:10:30,999 - #2 program
+INFO  18:10:30,999 - #44 MJProgram
+INFO  18:10:30,999 - #4 class
+INFO  18:10:30,999 - #44 Klasa
+INFO  18:10:30,999 - #38 {
+INFO  18:10:30,999 - Deklarisana klasa Klasa na liniji 3
+INFO  18:10:31,000 - #38 {
+INFO  18:10:31,000 - #44 int
+INFO  18:10:31,000 - #44 s
+INFO  18:10:31,000 - #34 (
+INFO  18:10:31,000 - Obradjuje se metoda s na liniji 5
+INFO  18:10:31,000 - #35 )
+INFO  18:10:31,000 - #38 {
+INFO  18:10:31,000 - #11 return
+INFO  18:10:31,000 - #43 3
+INFO  18:10:31,000 - #31 ;
+INFO  18:10:31,000 - #39 }
+INFO  18:11:46,793 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:11:46,809 - #2 program
+INFO  18:11:46,809 - #44 MJProgram
+INFO  18:11:46,809 - #4 class
+INFO  18:11:46,809 - #44 Klasa
+INFO  18:11:46,810 - #38 {
+INFO  18:11:46,810 - Deklarisana klasa Klasa na liniji 3
+INFO  18:11:46,810 - #38 {
+INFO  18:11:46,810 - #44 int
+INFO  18:11:46,810 - #44 s
+INFO  18:11:46,810 - #34 (
+INFO  18:11:46,810 - Obradjuje se metoda s na liniji 5
+INFO  18:11:46,810 - #35 )
+INFO  18:11:46,810 - #38 {
+INFO  18:11:46,811 - #11 return
+INFO  18:11:46,811 - #43 3
+INFO  18:11:46,811 - #31 ;
+INFO  18:11:46,811 - #39 }
+INFO  18:11:46,811 - #39 }
+INFO  18:11:46,811 - #39 }
+INFO  18:11:46,811 - #4 class
+INFO  18:11:46,811 - #44 Pom
+INFO  18:11:46,811 - #14 extends
+INFO  18:11:46,811 - Deklarisana klasa Pom na liniji 9
+INFO  18:11:46,811 - #44 Klasa
+INFO  18:11:46,811 - #38 {
+INFO  18:11:46,812 - #38 {
+INFO  18:11:46,812 - #44 int
+INFO  18:11:46,812 - #44 se
+INFO  18:11:46,812 - #34 (
+INFO  18:11:46,812 - Obradjuje se metoda se na liniji 10
+INFO  18:11:46,812 - #35 )
+INFO  18:11:46,812 - #38 {
+INFO  18:11:46,812 - #11 return
+INFO  18:11:46,812 - #43 5
+INFO  18:11:46,812 - #31 ;
+INFO  18:11:46,812 - #39 }
+INFO  18:11:46,813 - #39 }
+INFO  18:11:46,813 - #39 }
+INFO  18:11:46,813 - #44 Pom
+INFO  18:11:46,813 - #44 t
+INFO  18:11:46,813 - #32 ,
+INFO  18:11:46,813 - Deklarisana promenljiva t na liniji 12
+INFO  18:11:46,813 - #44 p
+INFO  18:11:46,813 - #31 ;
+INFO  18:11:46,813 - Deklarisana promenljiva p na liniji 12
+INFO  18:11:46,814 - #44 Klasa
+INFO  18:11:46,814 - #44 k1
+INFO  18:11:46,814 - #31 ;
+INFO  18:11:46,814 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:11:46,814 - #38 {
+INFO  18:11:46,814 - #12 void
+INFO  18:11:46,814 - #44 main
+INFO  18:11:46,814 - #34 (
+INFO  18:11:46,815 - Obradjuje se funkcija main na liniji 14
+INFO  18:11:46,815 - #35 )
+INFO  18:11:46,815 - #44 int
+INFO  18:11:46,815 - #44 g
+INFO  18:11:46,815 - #31 ;
+INFO  18:11:46,815 - Deklarisana promenljiva g na liniji 14
+INFO  18:11:46,815 - #38 {
+INFO  18:11:46,815 - #44 g
+INFO  18:11:46,815 - #28 =
+INFO  18:11:46,815 - #43 5
+INFO  18:11:46,815 - #31 ;
+INFO  18:11:46,815 - #39 }
+ERROR 18:11:46,816 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  18:11:46,816 - #39 }
+INFO  18:11:46,816 - GlobalVar = 3
+INFO  18:11:46,816 - GlobalConst = 0
+INFO  18:11:46,816 - LocalMainVar = 1
+INFO  18:11:46,816 - GlobalArray = 0
+INFO  18:11:46,816 - FuncProg = 1
+INFO  18:11:46,816 - Blocks = 3
+INFO  18:11:46,816 - FuncCalls = 0
+INFO  18:11:46,816 - FormalArg = 0
+INFO  18:11:46,816 - DefClass = 2
+INFO  18:11:46,816 - DefMClass = 2
+INFO  18:11:46,816 - DeclFClass = 0
+ERROR 18:11:46,817 - Parsiranje nije uspesno
+INFO  18:12:00,181 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:12:00,218 - #2 program
+INFO  18:12:00,218 - #44 MJProgram
+INFO  18:12:00,218 - #4 class
+INFO  18:12:00,218 - #44 Klasa
+INFO  18:12:00,218 - #38 {
+INFO  18:12:00,219 - Deklarisana klasa Klasa na liniji 3
+INFO  18:12:00,219 - #38 {
+INFO  18:12:00,219 - #44 int
+INFO  18:12:00,219 - #44 s
+INFO  18:12:00,219 - #34 (
+INFO  18:12:00,220 - Obradjuje se metoda s na liniji 5
+INFO  18:12:00,220 - #35 )
+INFO  18:12:00,220 - #38 {
+INFO  18:12:00,220 - #11 return
+INFO  18:12:00,220 - #43 3
+INFO  18:12:00,220 - #31 ;
+INFO  18:12:00,220 - #39 }
+INFO  18:12:00,220 - #39 }
+INFO  18:12:00,221 - #39 }
+INFO  18:12:00,221 - #4 class
+INFO  18:12:00,221 - #44 Pom
+INFO  18:12:00,221 - #14 extends
+INFO  18:12:00,221 - Deklarisana klasa Pom na liniji 9
+INFO  18:12:00,221 - #44 Klasa
+INFO  18:12:00,221 - #38 {
+INFO  18:12:00,221 - #38 {
+INFO  18:12:00,221 - #44 int
+INFO  18:12:00,222 - #44 se
+INFO  18:12:00,222 - #34 (
+INFO  18:12:00,222 - Obradjuje se metoda se na liniji 10
+INFO  18:12:00,222 - #35 )
+INFO  18:12:00,222 - #38 {
+INFO  18:12:00,222 - #11 return
+INFO  18:12:00,222 - #43 5
+INFO  18:12:00,222 - #31 ;
+INFO  18:12:00,222 - #39 }
+INFO  18:12:00,223 - #39 }
+INFO  18:12:00,223 - #39 }
+INFO  18:12:00,223 - #44 Pom
+INFO  18:12:00,223 - #44 t
+INFO  18:12:00,223 - #32 ,
+INFO  18:12:00,223 - Deklarisana promenljiva t na liniji 12
+INFO  18:12:00,223 - #44 p
+INFO  18:12:00,224 - #31 ;
+INFO  18:12:00,224 - Deklarisana promenljiva p na liniji 12
+INFO  18:12:00,224 - #44 Klasa
+INFO  18:12:00,224 - #44 k1
+INFO  18:12:00,224 - #31 ;
+INFO  18:12:00,224 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:12:00,224 - #38 {
+INFO  18:12:00,224 - #12 void
+INFO  18:12:00,225 - #44 main
+INFO  18:12:00,225 - #34 (
+INFO  18:12:00,225 - Obradjuje se funkcija main na liniji 14
+INFO  18:12:00,225 - #35 )
+INFO  18:12:00,225 - #44 int
+INFO  18:12:00,225 - #44 g
+INFO  18:12:00,225 - #31 ;
+INFO  18:12:00,225 - Deklarisana promenljiva g na liniji 14
+INFO  18:12:00,226 - #38 {
+INFO  18:12:00,226 - #44 g
+INFO  18:12:00,226 - #28 =
+INFO  18:12:00,226 - #43 5
+INFO  18:12:00,226 - #31 ;
+INFO  18:12:00,226 - #39 }
+INFO  18:12:35,906 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:12:35,922 - #2 program
+INFO  18:12:35,922 - #44 MJProgram
+INFO  18:12:35,922 - #4 class
+INFO  18:12:35,922 - #44 Klasa
+INFO  18:12:35,923 - #38 {
+INFO  18:12:35,923 - Deklarisana klasa Klasa na liniji 3
+INFO  18:12:35,923 - #38 {
+INFO  18:12:35,923 - #44 int
+INFO  18:12:35,923 - #44 s
+INFO  18:12:35,923 - #34 (
+INFO  18:12:35,923 - Obradjuje se metoda s na liniji 5
+INFO  18:12:35,923 - #35 )
+INFO  18:12:35,923 - #38 {
+INFO  18:12:35,924 - #11 return
+INFO  18:12:35,924 - #43 3
+INFO  18:12:35,924 - #31 ;
+INFO  18:12:35,924 - #39 }
+INFO  18:12:35,924 - #39 }
+INFO  18:12:35,924 - #39 }
+INFO  18:12:35,924 - #4 class
+INFO  18:12:35,924 - #44 Pom
+INFO  18:12:35,924 - #14 extends
+INFO  18:12:35,924 - Deklarisana klasa Pom na liniji 9
+INFO  18:12:35,924 - #44 Klasa
+INFO  18:12:35,924 - #38 {
+INFO  18:12:35,925 - #38 {
+INFO  18:12:35,925 - #44 int
+INFO  18:12:35,925 - #44 se
+INFO  18:12:35,925 - #34 (
+INFO  18:12:35,925 - Obradjuje se metoda se na liniji 10
+INFO  18:12:35,925 - #35 )
+INFO  18:12:35,925 - #38 {
+INFO  18:12:35,925 - #11 return
+INFO  18:12:35,925 - #43 5
+INFO  18:12:35,925 - #31 ;
+INFO  18:12:35,926 - #39 }
+INFO  18:12:35,926 - #39 }
+INFO  18:12:35,926 - #39 }
+INFO  18:12:35,926 - #44 Pom
+INFO  18:12:35,926 - #44 t
+INFO  18:12:35,926 - #32 ,
+INFO  18:12:35,926 - Deklarisana promenljiva t na liniji 12
+INFO  18:12:35,926 - #44 p
+INFO  18:12:35,926 - #31 ;
+INFO  18:12:35,926 - Deklarisana promenljiva p na liniji 12
+INFO  18:12:35,926 - #44 Klasa
+INFO  18:12:35,927 - #44 k1
+INFO  18:12:35,927 - #31 ;
+INFO  18:12:35,927 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:12:35,927 - #38 {
+INFO  18:12:35,927 - #12 void
+INFO  18:12:35,927 - #44 main
+INFO  18:12:35,927 - #34 (
+INFO  18:12:35,927 - Obradjuje se funkcija main na liniji 14
+INFO  18:12:35,927 - #35 )
+INFO  18:12:35,927 - #44 int
+INFO  18:12:35,927 - #44 g
+INFO  18:12:35,927 - #31 ;
+INFO  18:12:35,928 - Deklarisana promenljiva g na liniji 14
+INFO  18:12:35,928 - #38 {
+INFO  18:12:35,928 - #44 g
+INFO  18:12:35,928 - #28 =
+INFO  18:12:35,928 - #43 5
+INFO  18:12:35,928 - #31 ;
+INFO  18:12:35,928 - #39 }
+ERROR 18:12:35,928 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  18:12:35,928 - #39 }
+INFO  18:12:35,928 - GlobalVar = 3
+INFO  18:12:35,928 - GlobalConst = 0
+INFO  18:12:35,929 - LocalMainVar = 1
+INFO  18:12:35,929 - GlobalArray = 0
+INFO  18:12:35,929 - FuncProg = 1
+INFO  18:12:35,929 - Blocks = 3
+INFO  18:12:35,929 - FuncCalls = 0
+INFO  18:12:35,929 - FormalArg = 0
+INFO  18:12:35,929 - DefClass = 2
+INFO  18:12:35,929 - DefMClass = 2
+INFO  18:12:35,929 - DeclFClass = 0
+ERROR 18:12:35,930 - Parsiranje nije uspesno
+INFO  18:16:27,655 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:16:27,685 - #2 program
+INFO  18:16:27,685 - #44 MJProgram
+INFO  18:16:27,686 - #4 class
+INFO  18:16:27,686 - #44 Klasa
+INFO  18:16:27,686 - #38 {
+INFO  18:16:27,686 - Deklarisana klasa Klasa na liniji 3
+INFO  18:16:27,686 - #38 {
+INFO  18:16:27,686 - #44 int
+INFO  18:16:27,686 - #44 s
+INFO  18:16:27,687 - #34 (
+INFO  18:16:27,687 - Obradjuje se metoda s na liniji 5
+INFO  18:16:27,687 - #35 )
+INFO  18:16:27,687 - #38 {
+INFO  18:16:27,687 - #11 return
+INFO  18:16:27,687 - #43 3
+INFO  18:16:27,687 - #31 ;
+INFO  18:16:27,687 - #39 }
+INFO  18:16:27,687 - #39 }
+INFO  18:16:27,688 - #39 }
+INFO  18:16:27,688 - #4 class
+INFO  18:16:27,688 - #44 Pom
+INFO  18:16:27,688 - #14 extends
+INFO  18:16:27,688 - Deklarisana klasa Pom na liniji 9
+INFO  18:16:27,688 - #44 Klasa
+INFO  18:16:27,688 - #38 {
+INFO  18:16:27,688 - #38 {
+INFO  18:16:27,688 - #44 int
+INFO  18:16:27,688 - #44 se
+INFO  18:16:27,688 - #34 (
+INFO  18:16:27,688 - Obradjuje se metoda se na liniji 10
+INFO  18:16:27,689 - #35 )
+INFO  18:16:27,689 - #38 {
+INFO  18:16:27,689 - #11 return
+INFO  18:16:27,689 - #43 5
+INFO  18:16:27,689 - #31 ;
+INFO  18:16:27,689 - #39 }
+INFO  18:16:27,689 - #39 }
+INFO  18:16:27,689 - #39 }
+INFO  18:16:27,689 - #44 Pom
+INFO  18:16:27,689 - #44 t
+INFO  18:16:27,690 - #32 ,
+INFO  18:16:27,690 - Deklarisana promenljiva t na liniji 12
+INFO  18:16:27,690 - #44 p
+INFO  18:16:27,690 - #31 ;
+INFO  18:16:27,690 - Deklarisana promenljiva p na liniji 12
+INFO  18:16:27,690 - #44 Klasa
+INFO  18:16:27,690 - #44 k1
+INFO  18:16:27,690 - #31 ;
+INFO  18:16:27,690 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:16:27,690 - #38 {
+INFO  18:16:27,690 - #12 void
+INFO  18:16:27,691 - #44 main
+INFO  18:16:27,691 - #34 (
+INFO  18:16:27,691 - Obradjuje se funkcija main na liniji 14
+INFO  18:16:27,691 - #35 )
+INFO  18:16:27,691 - #44 int
+INFO  18:16:27,691 - #44 g
+INFO  18:16:27,691 - #31 ;
+INFO  18:16:27,691 - Deklarisana promenljiva g na liniji 14
+INFO  18:16:27,691 - #38 {
+INFO  18:16:27,691 - #44 g
+INFO  18:16:27,691 - #28 =
+INFO  18:16:27,691 - #43 5
+INFO  18:16:27,692 - #31 ;
+INFO  18:16:27,692 - #39 }
+INFO  18:17:53,052 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:17:53,084 - #2 program
+INFO  18:17:53,084 - #44 MJProgram
+INFO  18:17:53,084 - #4 class
+INFO  18:17:53,085 - #44 Klasa
+INFO  18:17:53,085 - #38 {
+INFO  18:17:53,085 - Deklarisana klasa Klasa na liniji 3
+INFO  18:17:53,085 - #38 {
+INFO  18:17:53,085 - #44 int
+INFO  18:17:53,085 - #44 s
+INFO  18:17:53,085 - #34 (
+INFO  18:17:53,086 - Obradjuje se metoda s na liniji 5
+INFO  18:17:53,086 - #35 )
+INFO  18:17:53,086 - #38 {
+INFO  18:17:53,086 - #11 return
+INFO  18:17:53,086 - #43 3
+INFO  18:17:53,086 - #31 ;
+INFO  18:17:53,086 - #39 }
+INFO  18:17:53,086 - #39 }
+INFO  18:17:53,086 - #39 }
+INFO  18:17:53,086 - #4 class
+INFO  18:17:53,086 - #44 Pom
+INFO  18:17:53,087 - #14 extends
+INFO  18:17:53,087 - Deklarisana klasa Pom na liniji 9
+INFO  18:17:53,087 - #44 Klasa
+INFO  18:17:53,087 - #38 {
+INFO  18:17:53,087 - #38 {
+INFO  18:17:53,087 - #44 int
+INFO  18:17:53,087 - #44 se
+INFO  18:17:53,087 - #34 (
+INFO  18:17:53,087 - Obradjuje se metoda se na liniji 10
+INFO  18:17:53,087 - #35 )
+INFO  18:17:53,087 - #38 {
+INFO  18:17:53,088 - #11 return
+INFO  18:17:53,088 - #43 5
+INFO  18:17:53,088 - #31 ;
+INFO  18:17:53,088 - #39 }
+INFO  18:17:53,088 - #39 }
+INFO  18:17:53,088 - #39 }
+INFO  18:17:53,088 - #44 Pom
+INFO  18:17:53,088 - #44 t
+INFO  18:17:53,088 - #32 ,
+INFO  18:17:53,088 - Deklarisana promenljiva t na liniji 12
+INFO  18:17:53,089 - #44 p
+INFO  18:17:53,089 - #31 ;
+INFO  18:17:53,089 - Deklarisana promenljiva p na liniji 12
+INFO  18:17:53,089 - #44 Klasa
+INFO  18:17:53,089 - #44 k1
+INFO  18:17:53,089 - #31 ;
+INFO  18:17:53,089 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:17:53,089 - #38 {
+INFO  18:17:53,089 - #12 void
+INFO  18:17:53,089 - #44 main
+INFO  18:17:53,089 - #34 (
+INFO  18:17:53,089 - Obradjuje se funkcija main na liniji 14
+INFO  18:17:53,090 - #35 )
+INFO  18:17:53,090 - #44 int
+INFO  18:17:53,090 - #44 g
+INFO  18:17:53,090 - #31 ;
+INFO  18:17:53,090 - Deklarisana promenljiva g na liniji 14
+INFO  18:17:53,090 - #38 {
+INFO  18:17:53,090 - #44 g
+INFO  18:17:53,090 - #28 =
+INFO  18:17:53,090 - #43 5
+INFO  18:17:53,090 - #31 ;
+INFO  18:17:53,090 - #39 }
+INFO  18:19:15,220 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:19:15,251 - #2 program
+INFO  18:19:15,251 - #44 MJProgram
+INFO  18:19:15,251 - #4 class
+INFO  18:19:15,251 - #44 Klasa
+INFO  18:19:15,251 - #38 {
+INFO  18:19:15,252 - Deklarisana klasa Klasa na liniji 3
+INFO  18:19:15,252 - #38 {
+INFO  18:19:15,252 - #44 int
+INFO  18:19:15,252 - #44 s
+INFO  18:19:15,252 - #34 (
+INFO  18:19:15,252 - Obradjuje se metoda s na liniji 5
+INFO  18:19:15,252 - #35 )
+INFO  18:19:15,252 - #38 {
+INFO  18:19:15,252 - #11 return
+INFO  18:19:15,253 - #43 3
+INFO  18:19:15,253 - #31 ;
+INFO  18:19:15,253 - #39 }
+INFO  18:19:15,253 - #39 }
+INFO  18:19:15,253 - #39 }
+INFO  18:19:15,253 - #4 class
+INFO  18:19:15,253 - #44 Pom
+INFO  18:19:15,253 - #14 extends
+INFO  18:19:15,253 - Deklarisana klasa Pom na liniji 9
+INFO  18:19:15,253 - #44 Klasa
+INFO  18:19:15,254 - #38 {
+INFO  18:19:15,254 - #38 {
+INFO  18:19:15,254 - #44 int
+INFO  18:19:15,254 - #44 se
+INFO  18:19:15,254 - #34 (
+INFO  18:19:15,254 - Obradjuje se metoda se na liniji 10
+INFO  18:19:15,254 - #35 )
+INFO  18:19:15,254 - #38 {
+INFO  18:19:15,254 - #11 return
+INFO  18:19:15,254 - #43 5
+INFO  18:19:15,254 - #31 ;
+INFO  18:19:15,254 - #39 }
+INFO  18:19:15,255 - #39 }
+INFO  18:19:15,255 - #39 }
+INFO  18:19:15,255 - #44 Pom
+INFO  18:19:15,255 - #44 t
+INFO  18:19:15,255 - #32 ,
+INFO  18:19:15,255 - Deklarisana promenljiva t na liniji 12
+INFO  18:19:15,255 - #44 p
+INFO  18:19:15,255 - #31 ;
+INFO  18:19:15,255 - Deklarisana promenljiva p na liniji 12
+INFO  18:19:15,255 - #44 Klasa
+INFO  18:19:15,255 - #44 k1
+INFO  18:19:15,255 - #31 ;
+INFO  18:19:15,256 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:19:15,256 - #38 {
+INFO  18:19:15,256 - #12 void
+INFO  18:19:15,256 - #44 main
+INFO  18:19:15,256 - #34 (
+INFO  18:19:15,256 - Obradjuje se funkcija main na liniji 14
+INFO  18:19:15,256 - #35 )
+INFO  18:19:15,256 - #44 int
+INFO  18:19:15,256 - #44 g
+INFO  18:19:15,256 - #31 ;
+INFO  18:19:15,256 - Deklarisana promenljiva g na liniji 14
+INFO  18:19:15,257 - #38 {
+INFO  18:19:15,257 - #44 g
+INFO  18:19:15,257 - #28 =
+INFO  18:19:15,257 - #43 5
+INFO  18:19:15,257 - #31 ;
+INFO  18:19:15,257 - #39 }
+INFO  18:27:26,071 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:27:26,090 - #2 program
+INFO  18:27:26,090 - #44 MJProgram
+INFO  18:27:26,090 - #4 class
+INFO  18:27:26,090 - #44 Klasa
+INFO  18:27:26,090 - #38 {
+INFO  18:27:26,090 - Deklarisana klasa Klasa na liniji 3
+INFO  18:27:26,091 - #38 {
+INFO  18:27:26,091 - #44 int
+INFO  18:27:26,091 - #44 s
+INFO  18:27:26,091 - #34 (
+INFO  18:27:26,091 - Obradjuje se metoda s na liniji 5
+INFO  18:27:26,091 - #35 )
+INFO  18:27:26,091 - #38 {
+INFO  18:27:26,091 - #11 return
+INFO  18:27:26,091 - #43 3
+INFO  18:27:26,092 - #31 ;
+INFO  18:27:26,092 - #39 }
+ERROR 18:27:26,092 - Greska na liniji 5 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije s
+INFO  18:27:26,092 - #39 }
+INFO  18:27:26,092 - #39 }
+INFO  18:27:26,092 - #4 class
+INFO  18:27:26,092 - #44 Pom
+INFO  18:27:26,092 - #14 extends
+INFO  18:27:26,092 - Deklarisana klasa Pom na liniji 9
+INFO  18:27:26,092 - #44 Klasa
+INFO  18:27:26,092 - #38 {
+INFO  18:27:26,093 - #38 {
+INFO  18:27:26,093 - #44 int
+INFO  18:27:26,093 - #44 se
+INFO  18:27:26,093 - #34 (
+INFO  18:27:26,093 - Obradjuje se metoda se na liniji 10
+INFO  18:27:26,093 - #35 )
+INFO  18:27:26,093 - #38 {
+INFO  18:27:26,093 - #11 return
+INFO  18:27:26,093 - #43 5
+INFO  18:27:26,093 - #31 ;
+INFO  18:27:26,093 - #39 }
+ERROR 18:27:26,094 - Greska na liniji 10 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije se
+INFO  18:27:26,094 - #39 }
+INFO  18:27:26,094 - #39 }
+INFO  18:27:26,094 - #44 Pom
+INFO  18:27:26,094 - #44 t
+INFO  18:27:26,094 - #32 ,
+INFO  18:27:26,094 - Deklarisana promenljiva t na liniji 12
+INFO  18:27:26,095 - #44 p
+INFO  18:27:26,095 - #31 ;
+INFO  18:27:26,095 - Deklarisana promenljiva p na liniji 12
+INFO  18:27:26,095 - #44 Klasa
+INFO  18:27:26,095 - #44 k1
+INFO  18:27:26,095 - #31 ;
+INFO  18:27:26,095 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:27:26,095 - #38 {
+INFO  18:27:26,096 - #12 void
+INFO  18:27:26,096 - #44 main
+INFO  18:27:26,096 - #34 (
+INFO  18:27:26,096 - Obradjuje se funkcija main na liniji 14
+INFO  18:27:26,096 - #35 )
+INFO  18:27:26,096 - #44 int
+INFO  18:27:26,096 - #44 g
+INFO  18:27:26,096 - #31 ;
+INFO  18:27:26,096 - Deklarisana promenljiva g na liniji 14
+INFO  18:27:26,096 - #38 {
+INFO  18:27:26,096 - #44 g
+INFO  18:27:26,096 - #28 =
+INFO  18:27:26,097 - #43 5
+INFO  18:27:26,097 - #31 ;
+INFO  18:27:26,097 - #39 }
+INFO  18:27:26,097 - #39 }
+INFO  18:27:26,097 - GlobalVar = 3
+INFO  18:27:26,097 - GlobalConst = 0
+INFO  18:27:26,097 - LocalMainVar = 1
+INFO  18:27:26,097 - GlobalArray = 0
+INFO  18:27:26,097 - FuncProg = 1
+INFO  18:27:26,097 - Blocks = 3
+INFO  18:27:26,097 - FuncCalls = 0
+INFO  18:27:26,097 - FormalArg = 0
+INFO  18:27:26,098 - DefClass = 2
+INFO  18:27:26,098 - DefMClass = 2
+INFO  18:27:26,098 - DeclFClass = 0
+ERROR 18:27:26,098 - Parsiranje nije uspesno
+INFO  18:28:35,284 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:28:35,299 - #2 program
+INFO  18:28:35,299 - #44 MJProgram
+INFO  18:28:35,299 - #4 class
+INFO  18:28:35,299 - #44 Klasa
+INFO  18:28:35,299 - #38 {
+INFO  18:28:35,299 - Deklarisana klasa Klasa na liniji 3
+INFO  18:28:35,300 - #38 {
+INFO  18:28:35,300 - #44 int
+INFO  18:28:35,300 - #44 s
+INFO  18:28:35,300 - #34 (
+INFO  18:28:35,300 - Obradjuje se metoda s na liniji 5
+INFO  18:28:35,300 - #35 )
+INFO  18:28:35,300 - #38 {
+INFO  18:28:35,300 - #11 return
+INFO  18:28:35,300 - #43 3
+INFO  18:28:35,300 - #31 ;
+INFO  18:28:35,301 - #39 }
+INFO  18:28:35,301 - #39 }
+INFO  18:28:35,301 - #39 }
+INFO  18:28:35,301 - #4 class
+INFO  18:28:35,301 - #44 Pom
+INFO  18:28:35,301 - #14 extends
+INFO  18:28:35,301 - Deklarisana klasa Pom na liniji 9
+INFO  18:28:35,301 - #44 Klasa
+INFO  18:28:35,301 - #38 {
+INFO  18:28:35,301 - #38 {
+INFO  18:28:35,302 - #44 int
+INFO  18:28:35,302 - #44 se
+INFO  18:28:35,302 - #34 (
+INFO  18:28:35,302 - Obradjuje se metoda se na liniji 10
+INFO  18:28:35,302 - #35 )
+INFO  18:28:35,302 - #38 {
+INFO  18:28:35,302 - #11 return
+INFO  18:28:35,302 - #43 5
+INFO  18:28:35,302 - #31 ;
+INFO  18:28:35,302 - #39 }
+INFO  18:28:35,302 - #39 }
+INFO  18:28:35,303 - #39 }
+INFO  18:28:35,303 - #44 Pom
+INFO  18:28:35,303 - #44 t
+INFO  18:28:35,303 - #32 ,
+INFO  18:28:35,303 - Deklarisana promenljiva t na liniji 12
+INFO  18:28:35,303 - #44 p
+INFO  18:28:35,303 - #31 ;
+INFO  18:28:35,303 - Deklarisana promenljiva p na liniji 12
+INFO  18:28:35,303 - #44 Klasa
+INFO  18:28:35,303 - #44 k1
+INFO  18:28:35,303 - #31 ;
+INFO  18:28:35,303 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:28:35,304 - #38 {
+INFO  18:28:35,304 - #12 void
+INFO  18:28:35,304 - #44 main
+INFO  18:28:35,304 - #34 (
+INFO  18:28:35,304 - Obradjuje se funkcija main na liniji 14
+INFO  18:28:35,304 - #35 )
+INFO  18:28:35,304 - #44 int
+INFO  18:28:35,304 - #44 g
+INFO  18:28:35,304 - #31 ;
+INFO  18:28:35,304 - Deklarisana promenljiva g na liniji 14
+INFO  18:28:35,304 - #38 {
+INFO  18:28:35,304 - #44 g
+INFO  18:28:35,305 - #28 =
+INFO  18:28:35,305 - #43 5
+INFO  18:28:35,305 - #31 ;
+INFO  18:28:35,305 - #39 }
+INFO  18:28:35,305 - #39 }
+INFO  18:28:35,305 - GlobalVar = 3
+INFO  18:28:35,305 - GlobalConst = 0
+INFO  18:28:35,305 - LocalMainVar = 1
+INFO  18:28:35,305 - GlobalArray = 0
+INFO  18:28:35,305 - FuncProg = 1
+INFO  18:28:35,305 - Blocks = 3
+INFO  18:28:35,306 - FuncCalls = 0
+INFO  18:28:35,306 - FormalArg = 0
+INFO  18:28:35,306 - DefClass = 2
+INFO  18:28:35,306 - DefMClass = 2
+INFO  18:28:35,306 - DeclFClass = 0
+INFO  18:28:35,307 - Parsiranje uspesno
+INFO  18:28:51,706 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:28:51,720 - #2 program
+INFO  18:28:51,720 - #44 MJProgram
+INFO  18:28:51,721 - #4 class
+INFO  18:28:51,721 - #44 Klasa
+INFO  18:28:51,721 - #38 {
+INFO  18:28:51,721 - Deklarisana klasa Klasa na liniji 3
+INFO  18:28:51,721 - #38 {
+INFO  18:28:51,721 - #44 int
+INFO  18:28:51,721 - #44 s
+INFO  18:28:51,721 - #34 (
+INFO  18:28:51,722 - Obradjuje se metoda s na liniji 5
+INFO  18:28:51,722 - #35 )
+INFO  18:28:51,722 - #38 {
+INFO  18:28:51,722 - #11 return
+INFO  18:28:51,722 - #43 3
+INFO  18:28:51,722 - #31 ;
+INFO  18:28:51,722 - #39 }
+INFO  18:28:51,722 - #39 }
+INFO  18:28:51,722 - #39 }
+INFO  18:28:51,722 - #4 class
+INFO  18:28:51,723 - #44 Pom
+INFO  18:28:51,723 - #14 extends
+INFO  18:28:51,723 - Deklarisana klasa Pom na liniji 9
+INFO  18:28:51,723 - #44 Klasa
+INFO  18:28:51,723 - #38 {
+INFO  18:28:51,723 - #38 {
+INFO  18:28:51,723 - #44 int
+INFO  18:28:51,723 - #44 se
+INFO  18:28:51,723 - #34 (
+INFO  18:28:51,723 - Obradjuje se metoda se na liniji 10
+INFO  18:28:51,723 - #35 )
+INFO  18:28:51,723 - #38 {
+INFO  18:28:51,724 - #11 return
+INFO  18:28:51,724 - #43 5
+INFO  18:28:51,724 - #31 ;
+INFO  18:28:51,724 - #39 }
+INFO  18:28:51,724 - #39 }
+INFO  18:28:51,724 - #39 }
+INFO  18:28:51,724 - #44 Pom
+INFO  18:28:51,724 - #44 t
+INFO  18:28:51,724 - #32 ,
+INFO  18:28:51,724 - Deklarisana promenljiva t na liniji 12
+INFO  18:28:51,724 - #44 p
+INFO  18:28:51,724 - #31 ;
+INFO  18:28:51,725 - Deklarisana promenljiva p na liniji 12
+INFO  18:28:51,725 - #44 Klasa
+INFO  18:28:51,725 - #44 k1
+INFO  18:28:51,725 - #31 ;
+INFO  18:28:51,725 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:28:51,725 - #38 {
+INFO  18:28:51,725 - #12 void
+INFO  18:28:51,725 - #44 main
+INFO  18:28:51,725 - #34 (
+INFO  18:28:51,725 - Obradjuje se funkcija main na liniji 14
+INFO  18:28:51,725 - #35 )
+INFO  18:28:51,725 - #44 int
+INFO  18:28:51,726 - #44 g
+INFO  18:28:51,726 - #31 ;
+INFO  18:28:51,726 - Deklarisana promenljiva g na liniji 14
+INFO  18:28:51,726 - #38 {
+INFO  18:28:51,726 - #44 p
+INFO  18:28:51,726 - #28 =
+INFO  18:28:51,726 - #44 t
+INFO  18:28:51,726 - #31 ;
+INFO  18:28:51,726 - #39 }
+INFO  18:28:51,726 - #39 }
+INFO  18:28:51,727 - GlobalVar = 3
+INFO  18:28:51,727 - GlobalConst = 0
+INFO  18:28:51,727 - LocalMainVar = 1
+INFO  18:28:51,727 - GlobalArray = 0
+INFO  18:28:51,727 - FuncProg = 1
+INFO  18:28:51,727 - Blocks = 3
+INFO  18:28:51,727 - FuncCalls = 0
+INFO  18:28:51,727 - FormalArg = 0
+INFO  18:28:51,727 - DefClass = 2
+INFO  18:28:51,727 - DefMClass = 2
+INFO  18:28:51,727 - DeclFClass = 0
+INFO  18:28:51,728 - Parsiranje uspesno
+INFO  18:29:05,227 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:29:05,241 - #2 program
+INFO  18:29:05,241 - #44 MJProgram
+INFO  18:29:05,241 - #4 class
+INFO  18:29:05,242 - #44 Klasa
+INFO  18:29:05,242 - #38 {
+INFO  18:29:05,242 - Deklarisana klasa Klasa na liniji 3
+INFO  18:29:05,242 - #38 {
+INFO  18:29:05,242 - #44 int
+INFO  18:29:05,242 - #44 s
+INFO  18:29:05,243 - #34 (
+INFO  18:29:05,243 - Obradjuje se metoda s na liniji 5
+INFO  18:29:05,243 - #35 )
+INFO  18:29:05,243 - #38 {
+INFO  18:29:05,243 - #11 return
+INFO  18:29:05,243 - #43 3
+INFO  18:29:05,243 - #31 ;
+INFO  18:29:05,243 - #39 }
+INFO  18:29:05,243 - #39 }
+INFO  18:29:05,243 - #39 }
+INFO  18:29:05,243 - #4 class
+INFO  18:29:05,244 - #44 Pom
+INFO  18:29:05,244 - #14 extends
+INFO  18:29:05,244 - Deklarisana klasa Pom na liniji 9
+INFO  18:29:05,244 - #44 Klasa
+INFO  18:29:05,244 - #38 {
+INFO  18:29:05,244 - #38 {
+INFO  18:29:05,244 - #44 int
+INFO  18:29:05,244 - #44 se
+INFO  18:29:05,244 - #34 (
+INFO  18:29:05,244 - Obradjuje se metoda se na liniji 10
+INFO  18:29:05,244 - #35 )
+INFO  18:29:05,244 - #38 {
+INFO  18:29:05,244 - #11 return
+INFO  18:29:05,245 - #43 5
+INFO  18:29:05,245 - #31 ;
+INFO  18:29:05,245 - #39 }
+INFO  18:29:05,245 - #39 }
+INFO  18:29:05,245 - #39 }
+INFO  18:29:05,245 - #44 Pom
+INFO  18:29:05,245 - #44 t
+INFO  18:29:05,245 - #32 ,
+INFO  18:29:05,245 - Deklarisana promenljiva t na liniji 12
+INFO  18:29:05,245 - #44 p
+INFO  18:29:05,246 - #31 ;
+INFO  18:29:05,246 - Deklarisana promenljiva p na liniji 12
+INFO  18:29:05,246 - #44 Klasa
+INFO  18:29:05,246 - #44 k1
+INFO  18:29:05,246 - #31 ;
+INFO  18:29:05,246 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:29:05,246 - #38 {
+INFO  18:29:05,246 - #12 void
+INFO  18:29:05,246 - #44 main
+INFO  18:29:05,246 - #34 (
+INFO  18:29:05,246 - Obradjuje se funkcija main na liniji 14
+INFO  18:29:05,246 - #35 )
+INFO  18:29:05,247 - #44 int
+INFO  18:29:05,247 - #44 g
+INFO  18:29:05,247 - #31 ;
+INFO  18:29:05,247 - Deklarisana promenljiva g na liniji 14
+INFO  18:29:05,247 - #38 {
+INFO  18:29:05,247 - #44 k1
+INFO  18:29:05,247 - #28 =
+INFO  18:29:05,247 - #44 t
+INFO  18:29:05,247 - #31 ;
+INFO  18:29:05,247 - #39 }
+ERROR 18:29:05,247 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  18:29:05,248 - #39 }
+INFO  18:29:05,248 - GlobalVar = 3
+INFO  18:29:05,248 - GlobalConst = 0
+INFO  18:29:05,248 - LocalMainVar = 1
+INFO  18:29:05,248 - GlobalArray = 0
+INFO  18:29:05,248 - FuncProg = 1
+INFO  18:29:05,248 - Blocks = 3
+INFO  18:29:05,248 - FuncCalls = 0
+INFO  18:29:05,248 - FormalArg = 0
+INFO  18:29:05,248 - DefClass = 2
+INFO  18:29:05,248 - DefMClass = 2
+INFO  18:29:05,248 - DeclFClass = 0
+ERROR 18:29:05,249 - Parsiranje nije uspesno
+INFO  18:29:15,719 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:29:15,752 - #2 program
+INFO  18:29:15,752 - #44 MJProgram
+INFO  18:29:15,752 - #4 class
+INFO  18:29:15,752 - #44 Klasa
+INFO  18:29:15,752 - #38 {
+INFO  18:29:15,753 - Deklarisana klasa Klasa na liniji 3
+INFO  18:29:15,753 - #38 {
+INFO  18:29:15,753 - #44 int
+INFO  18:29:15,753 - #44 s
+INFO  18:29:15,753 - #34 (
+INFO  18:29:15,753 - Obradjuje se metoda s na liniji 5
+INFO  18:29:15,753 - #35 )
+INFO  18:29:15,754 - #38 {
+INFO  18:29:15,754 - #11 return
+INFO  18:29:15,754 - #43 3
+INFO  18:29:15,754 - #31 ;
+INFO  18:29:15,754 - #39 }
+INFO  18:29:15,754 - #39 }
+INFO  18:29:15,754 - #39 }
+INFO  18:29:15,754 - #4 class
+INFO  18:29:15,754 - #44 Pom
+INFO  18:29:15,754 - #14 extends
+INFO  18:29:15,754 - Deklarisana klasa Pom na liniji 9
+INFO  18:29:15,755 - #44 Klasa
+INFO  18:29:15,755 - #38 {
+INFO  18:29:15,755 - #38 {
+INFO  18:29:15,755 - #44 int
+INFO  18:29:15,755 - #44 se
+INFO  18:29:15,755 - #34 (
+INFO  18:29:15,755 - Obradjuje se metoda se na liniji 10
+INFO  18:29:15,755 - #35 )
+INFO  18:29:15,755 - #38 {
+INFO  18:29:15,755 - #11 return
+INFO  18:29:15,755 - #43 5
+INFO  18:29:15,755 - #31 ;
+INFO  18:29:15,756 - #39 }
+INFO  18:29:15,756 - #39 }
+INFO  18:29:15,756 - #39 }
+INFO  18:29:15,756 - #44 Pom
+INFO  18:29:15,756 - #44 t
+INFO  18:29:15,756 - #32 ,
+INFO  18:29:15,756 - Deklarisana promenljiva t na liniji 12
+INFO  18:29:15,756 - #44 p
+INFO  18:29:15,756 - #31 ;
+INFO  18:29:15,756 - Deklarisana promenljiva p na liniji 12
+INFO  18:29:15,757 - #44 Klasa
+INFO  18:29:15,757 - #44 k1
+INFO  18:29:15,757 - #31 ;
+INFO  18:29:15,757 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:29:15,757 - #38 {
+INFO  18:29:15,757 - #12 void
+INFO  18:29:15,757 - #44 main
+INFO  18:29:15,757 - #34 (
+INFO  18:29:15,757 - Obradjuje se funkcija main na liniji 14
+INFO  18:29:15,757 - #35 )
+INFO  18:29:15,757 - #44 int
+INFO  18:29:15,758 - #44 g
+INFO  18:29:15,758 - #31 ;
+INFO  18:29:15,758 - Deklarisana promenljiva g na liniji 14
+INFO  18:29:15,758 - #38 {
+INFO  18:29:15,758 - #44 k1
+INFO  18:29:15,758 - #28 =
+INFO  18:29:15,758 - #44 t
+INFO  18:29:15,758 - #31 ;
+INFO  18:29:15,758 - #39 }
+INFO  18:30:09,667 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:30:09,682 - #2 program
+INFO  18:30:09,682 - #44 MJProgram
+INFO  18:30:09,682 - #4 class
+INFO  18:30:09,682 - #44 Klasa
+INFO  18:30:09,682 - #38 {
+INFO  18:30:09,683 - Deklarisana klasa Klasa na liniji 3
+INFO  18:30:09,683 - #38 {
+INFO  18:30:09,683 - #44 int
+INFO  18:30:09,683 - #44 s
+INFO  18:30:09,683 - #34 (
+INFO  18:30:09,683 - Obradjuje se metoda s na liniji 5
+INFO  18:30:09,683 - #35 )
+INFO  18:30:09,683 - #38 {
+INFO  18:30:09,683 - #11 return
+INFO  18:30:09,684 - #43 3
+INFO  18:30:09,684 - #31 ;
+INFO  18:30:09,684 - #39 }
+INFO  18:30:09,684 - #39 }
+INFO  18:30:09,684 - #39 }
+INFO  18:30:09,684 - #4 class
+INFO  18:30:09,684 - #44 Pom
+INFO  18:30:09,684 - #14 extends
+INFO  18:30:09,684 - Deklarisana klasa Pom na liniji 9
+INFO  18:30:09,684 - #44 Klasa
+INFO  18:30:09,685 - #38 {
+INFO  18:30:09,685 - #38 {
+INFO  18:30:09,685 - #44 int
+INFO  18:30:09,685 - #44 se
+INFO  18:30:09,685 - #34 (
+INFO  18:30:09,685 - Obradjuje se metoda se na liniji 10
+INFO  18:30:09,685 - #35 )
+INFO  18:30:09,685 - #38 {
+INFO  18:30:09,685 - #11 return
+INFO  18:30:09,685 - #43 5
+INFO  18:30:09,685 - #31 ;
+INFO  18:30:09,686 - #39 }
+INFO  18:30:09,686 - #39 }
+INFO  18:30:09,686 - #39 }
+INFO  18:30:09,686 - #44 Pom
+INFO  18:30:09,686 - #44 t
+INFO  18:30:09,686 - #32 ,
+INFO  18:30:09,686 - Deklarisana promenljiva t na liniji 12
+INFO  18:30:09,686 - #44 p
+INFO  18:30:09,686 - #31 ;
+INFO  18:30:09,686 - Deklarisana promenljiva p na liniji 12
+INFO  18:30:09,686 - #44 Klasa
+INFO  18:30:09,687 - #44 k1
+INFO  18:30:09,687 - #31 ;
+INFO  18:30:09,687 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:30:09,687 - #38 {
+INFO  18:30:09,687 - #12 void
+INFO  18:30:09,687 - #44 main
+INFO  18:30:09,687 - #34 (
+INFO  18:30:09,687 - Obradjuje se funkcija main na liniji 14
+INFO  18:30:09,687 - #35 )
+INFO  18:30:09,687 - #44 int
+INFO  18:30:09,687 - #44 g
+INFO  18:30:09,687 - #31 ;
+INFO  18:30:09,687 - Deklarisana promenljiva g na liniji 14
+INFO  18:30:09,688 - #38 {
+INFO  18:30:09,688 - #44 k1
+INFO  18:30:09,688 - #28 =
+INFO  18:30:09,688 - #44 t
+INFO  18:30:09,688 - #31 ;
+INFO  18:30:09,688 - #39 }
+ERROR 18:30:09,688 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  18:30:09,688 - #39 }
+INFO  18:30:09,688 - GlobalVar = 3
+INFO  18:30:09,688 - GlobalConst = 0
+INFO  18:30:09,688 - LocalMainVar = 1
+INFO  18:30:09,689 - GlobalArray = 0
+INFO  18:30:09,689 - FuncProg = 1
+INFO  18:30:09,689 - Blocks = 3
+INFO  18:30:09,689 - FuncCalls = 0
+INFO  18:30:09,689 - FormalArg = 0
+INFO  18:30:09,689 - DefClass = 2
+INFO  18:30:09,689 - DefMClass = 2
+INFO  18:30:09,689 - DeclFClass = 0
+ERROR 18:30:09,690 - Parsiranje nije uspesno
+INFO  18:30:14,007 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:30:14,042 - #2 program
+INFO  18:30:14,042 - #44 MJProgram
+INFO  18:30:14,042 - #4 class
+INFO  18:30:14,043 - #44 Klasa
+INFO  18:30:14,043 - #38 {
+INFO  18:30:14,043 - Deklarisana klasa Klasa na liniji 3
+INFO  18:30:14,043 - #38 {
+INFO  18:30:14,043 - #44 int
+INFO  18:30:14,043 - #44 s
+INFO  18:30:14,044 - #34 (
+INFO  18:30:14,044 - Obradjuje se metoda s na liniji 5
+INFO  18:30:14,044 - #35 )
+INFO  18:30:14,044 - #38 {
+INFO  18:30:14,044 - #11 return
+INFO  18:30:14,044 - #43 3
+INFO  18:30:14,044 - #31 ;
+INFO  18:30:14,044 - #39 }
+INFO  18:30:14,045 - #39 }
+INFO  18:30:14,045 - #39 }
+INFO  18:30:14,045 - #4 class
+INFO  18:30:14,045 - #44 Pom
+INFO  18:30:14,045 - #14 extends
+INFO  18:30:14,045 - Deklarisana klasa Pom na liniji 9
+INFO  18:30:14,045 - #44 Klasa
+INFO  18:30:14,045 - #38 {
+INFO  18:30:14,046 - #38 {
+INFO  18:30:14,046 - #44 int
+INFO  18:30:14,046 - #44 se
+INFO  18:30:14,046 - #34 (
+INFO  18:30:14,046 - Obradjuje se metoda se na liniji 10
+INFO  18:30:14,046 - #35 )
+INFO  18:30:14,046 - #38 {
+INFO  18:30:14,046 - #11 return
+INFO  18:30:14,046 - #43 5
+INFO  18:30:14,047 - #31 ;
+INFO  18:30:14,047 - #39 }
+INFO  18:30:14,047 - #39 }
+INFO  18:30:14,047 - #39 }
+INFO  18:30:14,047 - #44 Pom
+INFO  18:30:14,047 - #44 t
+INFO  18:30:14,047 - #32 ,
+INFO  18:30:14,047 - Deklarisana promenljiva t na liniji 12
+INFO  18:30:14,048 - #44 p
+INFO  18:30:14,048 - #31 ;
+INFO  18:30:14,048 - Deklarisana promenljiva p na liniji 12
+INFO  18:30:14,048 - #44 Klasa
+INFO  18:30:14,048 - #44 k1
+INFO  18:30:14,048 - #31 ;
+INFO  18:30:14,048 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:30:14,048 - #38 {
+INFO  18:30:14,048 - #12 void
+INFO  18:30:14,049 - #44 main
+INFO  18:30:14,049 - #34 (
+INFO  18:30:14,049 - Obradjuje se funkcija main na liniji 14
+INFO  18:30:14,049 - #35 )
+INFO  18:30:14,049 - #44 int
+INFO  18:30:14,049 - #44 g
+INFO  18:30:14,049 - #31 ;
+INFO  18:30:14,049 - Deklarisana promenljiva g na liniji 14
+INFO  18:30:14,049 - #38 {
+INFO  18:30:14,050 - #44 k1
+INFO  18:30:14,050 - #28 =
+INFO  18:30:14,050 - #44 t
+INFO  18:30:14,050 - #31 ;
+INFO  18:30:14,050 - #39 }
+INFO  18:37:10,799 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:37:10,828 - #2 program
+INFO  18:37:10,828 - #44 MJProgram
+INFO  18:37:10,828 - #4 class
+INFO  18:37:10,828 - #44 Klasa
+INFO  18:37:10,828 - #38 {
+INFO  18:37:10,829 - Deklarisana klasa Klasa na liniji 3
+INFO  18:37:10,829 - #38 {
+INFO  18:37:10,829 - #44 int
+INFO  18:37:10,829 - #44 s
+INFO  18:37:10,829 - #34 (
+INFO  18:37:10,829 - Obradjuje se metoda s na liniji 5
+INFO  18:37:10,829 - #35 )
+INFO  18:37:10,829 - #38 {
+INFO  18:37:10,830 - #11 return
+INFO  18:37:10,830 - #43 3
+INFO  18:37:10,830 - #31 ;
+INFO  18:37:10,830 - #39 }
+INFO  18:37:10,830 - #39 }
+INFO  18:37:10,830 - #39 }
+INFO  18:37:10,830 - #4 class
+INFO  18:37:10,830 - #44 Pom
+INFO  18:37:10,830 - #14 extends
+INFO  18:37:10,830 - Deklarisana klasa Pom na liniji 9
+INFO  18:37:10,830 - #44 Klasa
+INFO  18:37:10,831 - #38 {
+INFO  18:37:10,831 - #38 {
+INFO  18:37:10,831 - #44 int
+INFO  18:37:10,831 - #44 se
+INFO  18:37:10,831 - #34 (
+INFO  18:37:10,831 - Obradjuje se metoda se na liniji 10
+INFO  18:37:10,831 - #35 )
+INFO  18:37:10,831 - #38 {
+INFO  18:37:10,831 - #11 return
+INFO  18:37:10,831 - #43 5
+INFO  18:37:10,832 - #31 ;
+INFO  18:37:10,832 - #39 }
+INFO  18:37:10,832 - #39 }
+INFO  18:37:10,832 - #39 }
+INFO  18:37:10,832 - #44 Pom
+INFO  18:37:10,832 - #44 t
+INFO  18:37:10,832 - #32 ,
+INFO  18:37:10,832 - Deklarisana promenljiva t na liniji 12
+INFO  18:37:10,832 - #44 p
+INFO  18:37:10,832 - #31 ;
+INFO  18:37:10,832 - Deklarisana promenljiva p na liniji 12
+INFO  18:37:10,833 - #44 Klasa
+INFO  18:37:10,833 - #44 k1
+INFO  18:37:10,833 - #31 ;
+INFO  18:37:10,833 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:37:10,833 - #38 {
+INFO  18:37:10,833 - #12 void
+INFO  18:37:10,833 - #44 main
+INFO  18:37:10,833 - #34 (
+INFO  18:37:10,833 - Obradjuje se funkcija main na liniji 14
+INFO  18:37:10,833 - #35 )
+INFO  18:37:10,833 - #44 int
+INFO  18:37:10,833 - #44 g
+INFO  18:37:10,834 - #31 ;
+INFO  18:37:10,834 - Deklarisana promenljiva g na liniji 14
+INFO  18:37:10,834 - #38 {
+INFO  18:37:10,834 - #44 k1
+INFO  18:37:10,834 - #28 =
+INFO  18:37:10,834 - #44 t
+INFO  18:37:10,834 - #31 ;
+INFO  18:37:10,834 - #39 }
+INFO  18:40:05,251 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:40:05,267 - #2 program
+INFO  18:40:05,268 - #44 MJProgram
+INFO  18:40:05,268 - #4 class
+INFO  18:40:05,268 - #44 Klasa
+INFO  18:40:05,268 - #38 {
+INFO  18:40:05,268 - Deklarisana klasa Klasa na liniji 3
+INFO  18:40:05,268 - #38 {
+INFO  18:40:05,269 - #44 int
+INFO  18:40:05,269 - #44 s
+INFO  18:40:05,269 - #34 (
+INFO  18:40:05,269 - Obradjuje se metoda s na liniji 5
+INFO  18:40:05,269 - #35 )
+INFO  18:40:05,269 - #38 {
+INFO  18:40:05,269 - #11 return
+INFO  18:40:05,269 - #43 3
+INFO  18:40:05,269 - #31 ;
+INFO  18:40:05,269 - #39 }
+INFO  18:40:05,269 - #39 }
+INFO  18:40:05,270 - #39 }
+INFO  18:40:05,270 - #4 class
+INFO  18:40:05,270 - #44 Pom
+INFO  18:40:05,270 - #14 extends
+INFO  18:40:05,270 - Deklarisana klasa Pom na liniji 9
+INFO  18:40:05,270 - #44 Klasa
+INFO  18:40:05,270 - #38 {
+INFO  18:40:05,270 - #38 {
+INFO  18:40:05,270 - #44 int
+INFO  18:40:05,270 - #44 se
+INFO  18:40:05,270 - #34 (
+INFO  18:40:05,270 - Obradjuje se metoda se na liniji 10
+INFO  18:40:05,271 - #35 )
+INFO  18:40:05,271 - #38 {
+INFO  18:40:05,271 - #11 return
+INFO  18:40:05,271 - #43 5
+INFO  18:40:05,271 - #31 ;
+INFO  18:40:05,271 - #39 }
+INFO  18:40:05,271 - #39 }
+INFO  18:40:05,271 - #39 }
+INFO  18:40:05,271 - #44 Pom
+INFO  18:40:05,271 - #44 t
+INFO  18:40:05,272 - #32 ,
+INFO  18:40:05,272 - Deklarisana promenljiva t na liniji 12
+INFO  18:40:05,272 - #44 p
+INFO  18:40:05,272 - #31 ;
+INFO  18:40:05,272 - Deklarisana promenljiva p na liniji 12
+INFO  18:40:05,272 - #44 Klasa
+INFO  18:40:05,272 - #44 k1
+INFO  18:40:05,272 - #31 ;
+INFO  18:40:05,272 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:40:05,272 - #38 {
+INFO  18:40:05,272 - #12 void
+INFO  18:40:05,272 - #44 main
+INFO  18:40:05,273 - #34 (
+INFO  18:40:05,273 - Obradjuje se funkcija main na liniji 14
+INFO  18:40:05,273 - #35 )
+INFO  18:40:05,273 - #44 int
+INFO  18:40:05,273 - #44 g
+INFO  18:40:05,273 - #31 ;
+INFO  18:40:05,273 - Deklarisana promenljiva g na liniji 14
+INFO  18:40:05,273 - #38 {
+INFO  18:40:05,273 - #44 k1
+INFO  18:40:05,273 - #28 =
+INFO  18:40:05,273 - #44 t
+INFO  18:40:05,273 - #31 ;
+INFO  18:40:05,274 - #39 }
+ERROR 18:40:05,274 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  18:40:05,274 - #39 }
+INFO  18:40:05,274 - GlobalVar = 3
+INFO  18:40:05,274 - GlobalConst = 0
+INFO  18:40:05,274 - LocalMainVar = 1
+INFO  18:40:05,274 - GlobalArray = 0
+INFO  18:40:05,274 - FuncProg = 1
+INFO  18:40:05,274 - Blocks = 3
+INFO  18:40:05,274 - FuncCalls = 0
+INFO  18:40:05,274 - FormalArg = 0
+INFO  18:40:05,274 - DefClass = 2
+INFO  18:40:05,275 - DefMClass = 2
+INFO  18:40:05,275 - DeclFClass = 0
+ERROR 18:40:05,275 - Parsiranje nije uspesno
+INFO  18:40:07,086 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:40:07,116 - #2 program
+INFO  18:40:07,116 - #44 MJProgram
+INFO  18:40:07,116 - #4 class
+INFO  18:40:07,116 - #44 Klasa
+INFO  18:40:07,116 - #38 {
+INFO  18:40:07,116 - Deklarisana klasa Klasa na liniji 3
+INFO  18:40:07,117 - #38 {
+INFO  18:40:07,117 - #44 int
+INFO  18:40:07,117 - #44 s
+INFO  18:40:07,117 - #34 (
+INFO  18:40:07,117 - Obradjuje se metoda s na liniji 5
+INFO  18:40:07,117 - #35 )
+INFO  18:40:07,117 - #38 {
+INFO  18:40:07,117 - #11 return
+INFO  18:40:07,118 - #43 3
+INFO  18:40:07,118 - #31 ;
+INFO  18:40:07,118 - #39 }
+INFO  18:40:07,118 - #39 }
+INFO  18:40:07,118 - #39 }
+INFO  18:40:07,118 - #4 class
+INFO  18:40:07,118 - #44 Pom
+INFO  18:40:07,118 - #14 extends
+INFO  18:40:07,118 - Deklarisana klasa Pom na liniji 9
+INFO  18:40:07,118 - #44 Klasa
+INFO  18:40:07,118 - #38 {
+INFO  18:40:07,118 - #38 {
+INFO  18:40:07,119 - #44 int
+INFO  18:40:07,119 - #44 se
+INFO  18:40:07,119 - #34 (
+INFO  18:40:07,119 - Obradjuje se metoda se na liniji 10
+INFO  18:40:07,119 - #35 )
+INFO  18:40:07,119 - #38 {
+INFO  18:40:07,119 - #11 return
+INFO  18:40:07,119 - #43 5
+INFO  18:40:07,119 - #31 ;
+INFO  18:40:07,119 - #39 }
+INFO  18:40:07,120 - #39 }
+INFO  18:40:07,120 - #39 }
+INFO  18:40:07,120 - #44 Pom
+INFO  18:40:07,120 - #44 t
+INFO  18:40:07,120 - #32 ,
+INFO  18:40:07,120 - Deklarisana promenljiva t na liniji 12
+INFO  18:40:07,120 - #44 p
+INFO  18:40:07,120 - #31 ;
+INFO  18:40:07,120 - Deklarisana promenljiva p na liniji 12
+INFO  18:40:07,120 - #44 Klasa
+INFO  18:40:07,121 - #44 k1
+INFO  18:40:07,121 - #31 ;
+INFO  18:40:07,121 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:40:07,121 - #38 {
+INFO  18:40:07,121 - #12 void
+INFO  18:40:07,121 - #44 main
+INFO  18:40:07,121 - #34 (
+INFO  18:40:07,121 - Obradjuje se funkcija main na liniji 14
+INFO  18:40:07,121 - #35 )
+INFO  18:40:07,121 - #44 int
+INFO  18:40:07,121 - #44 g
+INFO  18:40:07,121 - #31 ;
+INFO  18:40:07,122 - Deklarisana promenljiva g na liniji 14
+INFO  18:40:07,122 - #38 {
+INFO  18:40:07,122 - #44 k1
+INFO  18:40:07,122 - #28 =
+INFO  18:40:07,122 - #44 t
+INFO  18:40:07,122 - #31 ;
+INFO  18:40:07,122 - #39 }
+INFO  18:40:16,261 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:40:16,296 - #2 program
+INFO  18:40:16,297 - #44 MJProgram
+INFO  18:40:16,297 - #4 class
+INFO  18:40:16,297 - #44 Klasa
+INFO  18:40:16,297 - #38 {
+INFO  18:40:16,297 - Deklarisana klasa Klasa na liniji 3
+INFO  18:40:16,298 - #38 {
+INFO  18:40:16,298 - #44 int
+INFO  18:40:16,298 - #44 s
+INFO  18:40:16,298 - #34 (
+INFO  18:40:16,298 - Obradjuje se metoda s na liniji 5
+INFO  18:40:16,298 - #35 )
+INFO  18:40:16,298 - #38 {
+INFO  18:40:16,298 - #11 return
+INFO  18:40:16,298 - #43 3
+INFO  18:40:16,299 - #31 ;
+INFO  18:40:16,299 - #39 }
+INFO  18:40:16,299 - #39 }
+INFO  18:40:16,299 - #39 }
+INFO  18:40:16,299 - #4 class
+INFO  18:40:16,299 - #44 Pom
+INFO  18:40:16,299 - #14 extends
+INFO  18:40:16,299 - Deklarisana klasa Pom na liniji 9
+INFO  18:40:16,300 - #44 Klasa
+INFO  18:40:16,300 - #38 {
+INFO  18:40:16,300 - #38 {
+INFO  18:40:16,300 - #44 int
+INFO  18:40:16,300 - #44 se
+INFO  18:40:16,300 - #34 (
+INFO  18:40:16,300 - Obradjuje se metoda se na liniji 10
+INFO  18:40:16,301 - #35 )
+INFO  18:40:16,301 - #38 {
+INFO  18:40:16,301 - #11 return
+INFO  18:40:16,301 - #43 5
+INFO  18:40:16,301 - #31 ;
+INFO  18:40:16,301 - #39 }
+INFO  18:40:16,302 - #39 }
+INFO  18:40:16,302 - #39 }
+INFO  18:40:16,302 - #44 Pom
+INFO  18:40:16,302 - #44 t
+INFO  18:40:16,302 - #32 ,
+INFO  18:40:16,302 - Deklarisana promenljiva t na liniji 12
+INFO  18:40:16,302 - #44 p
+INFO  18:40:16,302 - #31 ;
+INFO  18:40:16,302 - Deklarisana promenljiva p na liniji 12
+INFO  18:40:16,303 - #44 Klasa
+INFO  18:40:16,303 - #44 k1
+INFO  18:40:16,303 - #31 ;
+INFO  18:40:16,303 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:40:16,303 - #38 {
+INFO  18:40:16,303 - #12 void
+INFO  18:40:16,303 - #44 main
+INFO  18:40:16,303 - #34 (
+INFO  18:40:16,304 - Obradjuje se funkcija main na liniji 14
+INFO  18:40:16,304 - #35 )
+INFO  18:40:16,304 - #44 int
+INFO  18:40:16,304 - #44 g
+INFO  18:40:16,304 - #31 ;
+INFO  18:40:16,304 - Deklarisana promenljiva g na liniji 14
+INFO  18:40:16,304 - #38 {
+INFO  18:40:16,304 - #44 k1
+INFO  18:40:16,305 - #28 =
+INFO  18:40:16,305 - #44 t
+INFO  18:40:16,305 - #31 ;
+INFO  18:40:16,305 - #39 }
+INFO  18:40:17,441 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:40:17,470 - #2 program
+INFO  18:40:17,470 - #44 MJProgram
+INFO  18:40:17,470 - #4 class
+INFO  18:40:17,470 - #44 Klasa
+INFO  18:40:17,471 - #38 {
+INFO  18:40:17,471 - Deklarisana klasa Klasa na liniji 3
+INFO  18:40:17,471 - #38 {
+INFO  18:40:17,471 - #44 int
+INFO  18:40:17,471 - #44 s
+INFO  18:40:17,471 - #34 (
+INFO  18:40:17,471 - Obradjuje se metoda s na liniji 5
+INFO  18:40:17,471 - #35 )
+INFO  18:40:17,472 - #38 {
+INFO  18:40:17,472 - #11 return
+INFO  18:40:17,472 - #43 3
+INFO  18:40:17,472 - #31 ;
+INFO  18:40:17,472 - #39 }
+INFO  18:40:17,472 - #39 }
+INFO  18:40:17,472 - #39 }
+INFO  18:40:17,472 - #4 class
+INFO  18:40:17,472 - #44 Pom
+INFO  18:40:17,472 - #14 extends
+INFO  18:40:17,472 - Deklarisana klasa Pom na liniji 9
+INFO  18:40:17,473 - #44 Klasa
+INFO  18:40:17,473 - #38 {
+INFO  18:40:17,473 - #38 {
+INFO  18:40:17,473 - #44 int
+INFO  18:40:17,473 - #44 se
+INFO  18:40:17,473 - #34 (
+INFO  18:40:17,473 - Obradjuje se metoda se na liniji 10
+INFO  18:40:17,473 - #35 )
+INFO  18:40:17,473 - #38 {
+INFO  18:40:17,473 - #11 return
+INFO  18:40:17,473 - #43 5
+INFO  18:40:17,474 - #31 ;
+INFO  18:40:17,474 - #39 }
+INFO  18:40:17,474 - #39 }
+INFO  18:40:17,474 - #39 }
+INFO  18:40:17,474 - #44 Pom
+INFO  18:40:17,474 - #44 t
+INFO  18:40:17,475 - #32 ,
+INFO  18:40:17,475 - Deklarisana promenljiva t na liniji 12
+INFO  18:40:17,475 - #44 p
+INFO  18:40:17,475 - #31 ;
+INFO  18:40:17,475 - Deklarisana promenljiva p na liniji 12
+INFO  18:40:17,475 - #44 Klasa
+INFO  18:40:17,475 - #44 k1
+INFO  18:40:17,476 - #31 ;
+INFO  18:40:17,476 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:40:17,476 - #38 {
+INFO  18:40:17,476 - #12 void
+INFO  18:40:17,476 - #44 main
+INFO  18:40:17,476 - #34 (
+INFO  18:40:17,476 - Obradjuje se funkcija main na liniji 14
+INFO  18:40:17,476 - #35 )
+INFO  18:40:17,476 - #44 int
+INFO  18:40:17,476 - #44 g
+INFO  18:40:17,476 - #31 ;
+INFO  18:40:17,477 - Deklarisana promenljiva g na liniji 14
+INFO  18:40:17,477 - #38 {
+INFO  18:40:17,477 - #44 k1
+INFO  18:40:17,477 - #28 =
+INFO  18:40:17,477 - #44 t
+INFO  18:40:17,477 - #31 ;
+INFO  18:40:17,477 - #39 }
+INFO  18:45:50,282 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:45:50,308 - #2 program
+INFO  18:45:50,309 - #44 MJProgram
+INFO  18:45:50,309 - #4 class
+INFO  18:45:50,309 - #44 Klasa
+INFO  18:45:50,309 - #38 {
+INFO  18:45:50,309 - Deklarisana klasa Klasa na liniji 3
+INFO  18:45:50,309 - #38 {
+INFO  18:45:50,309 - #44 int
+INFO  18:45:50,310 - #44 s
+INFO  18:45:50,310 - #34 (
+INFO  18:45:50,310 - Obradjuje se metoda s na liniji 5
+INFO  18:45:50,310 - #35 )
+INFO  18:45:50,310 - #38 {
+INFO  18:45:50,310 - #11 return
+INFO  18:45:50,310 - #43 3
+INFO  18:45:50,310 - #31 ;
+INFO  18:45:50,310 - #39 }
+INFO  18:45:50,310 - #39 }
+INFO  18:45:50,310 - #39 }
+INFO  18:45:50,311 - #4 class
+INFO  18:45:50,311 - #44 Pom
+INFO  18:45:50,311 - #14 extends
+INFO  18:45:50,311 - Deklarisana klasa Pom na liniji 9
+INFO  18:45:50,311 - #44 Klasa
+INFO  18:45:50,311 - #38 {
+INFO  18:45:50,311 - #38 {
+INFO  18:45:50,311 - #44 int
+INFO  18:45:50,311 - #44 se
+INFO  18:45:50,311 - #34 (
+INFO  18:45:50,311 - Obradjuje se metoda se na liniji 10
+INFO  18:45:50,312 - #35 )
+INFO  18:45:50,312 - #38 {
+INFO  18:45:50,312 - #11 return
+INFO  18:45:50,312 - #43 5
+INFO  18:45:50,312 - #31 ;
+INFO  18:45:50,312 - #39 }
+INFO  18:45:50,312 - #39 }
+INFO  18:45:50,312 - #39 }
+INFO  18:45:50,312 - #44 Pom
+INFO  18:45:50,312 - #44 t
+INFO  18:45:50,313 - #32 ,
+INFO  18:45:50,313 - Deklarisana promenljiva t na liniji 12
+INFO  18:45:50,313 - #44 p
+INFO  18:45:50,313 - #31 ;
+INFO  18:45:50,313 - Deklarisana promenljiva p na liniji 12
+INFO  18:45:50,313 - #44 Klasa
+INFO  18:45:50,313 - #44 k1
+INFO  18:45:50,313 - #31 ;
+INFO  18:45:50,313 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:45:50,313 - #38 {
+INFO  18:45:50,313 - #12 void
+INFO  18:45:50,314 - #44 main
+INFO  18:45:50,314 - #34 (
+INFO  18:45:50,314 - Obradjuje se funkcija main na liniji 14
+INFO  18:45:50,314 - #35 )
+INFO  18:45:50,314 - #44 int
+INFO  18:45:50,314 - #44 g
+INFO  18:45:50,314 - #31 ;
+INFO  18:45:50,314 - Deklarisana promenljiva g na liniji 14
+INFO  18:45:50,314 - #38 {
+INFO  18:45:50,314 - #44 k1
+INFO  18:45:50,314 - #28 =
+INFO  18:45:50,314 - #44 t
+INFO  18:45:50,315 - #31 ;
+INFO  18:45:50,315 - #39 }
+INFO  18:46:50,391 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  18:46:50,420 - #2 program
+INFO  18:46:50,420 - #44 MJProgram
+INFO  18:46:50,420 - #4 class
+INFO  18:46:50,420 - #44 Klasa
+INFO  18:46:50,420 - #38 {
+INFO  18:46:50,420 - Deklarisana klasa Klasa na liniji 3
+INFO  18:46:50,421 - #38 {
+INFO  18:46:50,421 - #44 int
+INFO  18:46:50,421 - #44 s
+INFO  18:46:50,421 - #34 (
+INFO  18:46:50,421 - Obradjuje se metoda s na liniji 5
+INFO  18:46:50,421 - #35 )
+INFO  18:46:50,421 - #38 {
+INFO  18:46:50,421 - #11 return
+INFO  18:46:50,421 - #43 3
+INFO  18:46:50,422 - #31 ;
+INFO  18:46:50,422 - #39 }
+INFO  18:46:50,422 - #39 }
+INFO  18:46:50,422 - #39 }
+INFO  18:46:50,422 - #4 class
+INFO  18:46:50,422 - #44 Pom
+INFO  18:46:50,422 - #14 extends
+INFO  18:46:50,422 - Deklarisana klasa Pom na liniji 9
+INFO  18:46:50,422 - #44 Klasa
+INFO  18:46:50,422 - #38 {
+INFO  18:46:50,422 - #38 {
+INFO  18:46:50,423 - #44 int
+INFO  18:46:50,423 - #44 se
+INFO  18:46:50,423 - #34 (
+INFO  18:46:50,423 - Obradjuje se metoda se na liniji 10
+INFO  18:46:50,423 - #35 )
+INFO  18:46:50,423 - #38 {
+INFO  18:46:50,423 - #11 return
+INFO  18:46:50,423 - #43 5
+INFO  18:46:50,423 - #31 ;
+INFO  18:46:50,423 - #39 }
+INFO  18:46:50,424 - #39 }
+INFO  18:46:50,424 - #39 }
+INFO  18:46:50,424 - #44 Pom
+INFO  18:46:50,424 - #44 t
+INFO  18:46:50,424 - #32 ,
+INFO  18:46:50,424 - Deklarisana promenljiva t na liniji 12
+INFO  18:46:50,424 - #44 p
+INFO  18:46:50,424 - #31 ;
+INFO  18:46:50,424 - Deklarisana promenljiva p na liniji 12
+INFO  18:46:50,424 - #44 Klasa
+INFO  18:46:50,424 - #44 k1
+INFO  18:46:50,424 - #31 ;
+INFO  18:46:50,425 - Deklarisana promenljiva k1 na liniji 12
+INFO  18:46:50,425 - #38 {
+INFO  18:46:50,425 - #12 void
+INFO  18:46:50,425 - #44 main
+INFO  18:46:50,425 - #34 (
+INFO  18:46:50,425 - Obradjuje se funkcija main na liniji 14
+INFO  18:46:50,425 - #35 )
+INFO  18:46:50,425 - #44 int
+INFO  18:46:50,425 - #44 g
+INFO  18:46:50,425 - #31 ;
+INFO  18:46:50,425 - Deklarisana promenljiva g na liniji 14
+INFO  18:46:50,425 - #38 {
+INFO  18:46:50,426 - #44 k1
+INFO  18:46:50,426 - #28 =
+INFO  18:46:50,426 - #44 t
+INFO  18:46:50,426 - #31 ;
+INFO  18:46:50,426 - #39 }
+INFO  19:18:44,976 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:18:45,023 - #2 program
+INFO  19:18:45,039 - #44 MJProgram
+INFO  19:18:45,039 - #4 class
+INFO  19:18:45,039 - #44 Klasa
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - Deklarisana klasa Klasa na liniji 3
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #44 int
+INFO  19:18:45,039 - #44 s
+INFO  19:18:45,039 - #34 (
+INFO  19:18:45,039 - Obradjuje se metoda s na liniji 5
+INFO  19:18:45,039 - #35 )
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #11 return
+INFO  19:18:45,039 - #43 3
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #4 class
+INFO  19:18:45,039 - #44 Pom
+INFO  19:18:45,039 - #14 extends
+INFO  19:18:45,039 - Deklarisana klasa Pom na liniji 9
+INFO  19:18:45,039 - #44 Klasa
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #44 int
+INFO  19:18:45,039 - #44 se
+INFO  19:18:45,039 - #34 (
+INFO  19:18:45,039 - Obradjuje se metoda se na liniji 10
+INFO  19:18:45,039 - #35 )
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #11 return
+INFO  19:18:45,039 - #43 5
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - #44 Pom
+INFO  19:18:45,039 - #44 t
+INFO  19:18:45,039 - #32 ,
+INFO  19:18:45,039 - Deklarisana promenljiva t na liniji 12
+INFO  19:18:45,039 - #44 p
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - Deklarisana promenljiva p na liniji 12
+INFO  19:18:45,039 - #44 Klasa
+INFO  19:18:45,039 - #44 k1
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #12 void
+INFO  19:18:45,039 - #44 main
+INFO  19:18:45,039 - #34 (
+INFO  19:18:45,039 - Obradjuje se funkcija main na liniji 14
+INFO  19:18:45,039 - #35 )
+INFO  19:18:45,039 - #44 int
+INFO  19:18:45,039 - #44 g
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - Deklarisana promenljiva g na liniji 14
+INFO  19:18:45,039 - #38 {
+INFO  19:18:45,039 - #44 k1
+INFO  19:18:45,039 - #28 =
+INFO  19:18:45,039 - #44 t
+INFO  19:18:45,039 - #31 ;
+INFO  19:18:45,039 - #39 }
+ERROR 19:18:45,039 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  19:18:45,039 - #39 }
+INFO  19:18:45,039 - GlobalVar = 3
+INFO  19:18:45,039 - GlobalConst = 0
+INFO  19:18:45,039 - LocalMainVar = 1
+INFO  19:18:45,039 - GlobalArray = 0
+INFO  19:18:45,039 - FuncProg = 1
+INFO  19:18:45,039 - Blocks = 3
+INFO  19:18:45,039 - FuncCalls = 0
+INFO  19:18:45,039 - FormalArg = 0
+INFO  19:18:45,039 - DefClass = 2
+INFO  19:18:45,039 - DefMClass = 2
+INFO  19:18:45,039 - DeclFClass = 0
+ERROR 19:18:45,039 - Parsiranje nije uspesno
+INFO  19:18:49,320 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:18:49,383 - #2 program
+INFO  19:18:49,383 - #44 MJProgram
+INFO  19:18:49,383 - #4 class
+INFO  19:18:49,383 - #44 Klasa
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - Deklarisana klasa Klasa na liniji 3
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #44 int
+INFO  19:18:49,383 - #44 s
+INFO  19:18:49,383 - #34 (
+INFO  19:18:49,383 - Obradjuje se metoda s na liniji 5
+INFO  19:18:49,383 - #35 )
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #11 return
+INFO  19:18:49,383 - #43 3
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #4 class
+INFO  19:18:49,383 - #44 Pom
+INFO  19:18:49,383 - #14 extends
+INFO  19:18:49,383 - Deklarisana klasa Pom na liniji 9
+INFO  19:18:49,383 - #44 Klasa
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #44 int
+INFO  19:18:49,383 - #44 se
+INFO  19:18:49,383 - #34 (
+INFO  19:18:49,383 - Obradjuje se metoda se na liniji 10
+INFO  19:18:49,383 - #35 )
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #11 return
+INFO  19:18:49,383 - #43 5
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #39 }
+INFO  19:18:49,383 - #44 Pom
+INFO  19:18:49,383 - #44 t
+INFO  19:18:49,383 - #32 ,
+INFO  19:18:49,383 - Deklarisana promenljiva t na liniji 12
+INFO  19:18:49,383 - #44 p
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - Deklarisana promenljiva p na liniji 12
+INFO  19:18:49,383 - #44 Klasa
+INFO  19:18:49,383 - #44 k1
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #12 void
+INFO  19:18:49,383 - #44 main
+INFO  19:18:49,383 - #34 (
+INFO  19:18:49,383 - Obradjuje se funkcija main na liniji 14
+INFO  19:18:49,383 - #35 )
+INFO  19:18:49,383 - #44 int
+INFO  19:18:49,383 - #44 g
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - Deklarisana promenljiva g na liniji 14
+INFO  19:18:49,383 - #38 {
+INFO  19:18:49,383 - #44 k1
+INFO  19:18:49,383 - #28 =
+INFO  19:18:49,383 - #44 t
+INFO  19:18:49,383 - #31 ;
+INFO  19:18:49,383 - #39 }
+INFO  19:20:26,940 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:20:26,971 - #2 program
+INFO  19:20:26,971 - #44 MJProgram
+INFO  19:20:26,971 - #4 class
+INFO  19:20:26,971 - #44 Klasa
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - Deklarisana klasa Klasa na liniji 3
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - #44 int
+INFO  19:20:26,971 - #44 s
+INFO  19:20:26,971 - #34 (
+INFO  19:20:26,971 - Obradjuje se metoda s na liniji 5
+INFO  19:20:26,971 - #35 )
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - #11 return
+INFO  19:20:26,971 - #43 3
+INFO  19:20:26,971 - #31 ;
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #4 class
+INFO  19:20:26,971 - #44 Pom
+INFO  19:20:26,971 - #14 extends
+INFO  19:20:26,971 - Deklarisana klasa Pom na liniji 9
+INFO  19:20:26,971 - #44 Klasa
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - #44 int
+INFO  19:20:26,971 - #44 se
+INFO  19:20:26,971 - #34 (
+INFO  19:20:26,971 - Obradjuje se metoda se na liniji 10
+INFO  19:20:26,971 - #35 )
+INFO  19:20:26,971 - #38 {
+INFO  19:20:26,971 - #11 return
+INFO  19:20:26,971 - #43 5
+INFO  19:20:26,971 - #31 ;
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #39 }
+INFO  19:20:26,971 - #44 Pom
+INFO  19:20:26,971 - #44 t
+INFO  19:20:26,971 - #32 ,
+INFO  19:20:26,971 - Deklarisana promenljiva t na liniji 12
+INFO  19:20:26,971 - #44 p
+INFO  19:20:26,971 - #31 ;
+INFO  19:20:26,971 - Deklarisana promenljiva p na liniji 12
+INFO  19:20:26,987 - #44 Klasa
+INFO  19:20:26,987 - #44 k1
+INFO  19:20:26,987 - #31 ;
+INFO  19:20:26,987 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:20:26,987 - #38 {
+INFO  19:20:26,987 - #12 void
+INFO  19:20:26,987 - #44 main
+INFO  19:20:26,987 - #34 (
+INFO  19:20:26,987 - Obradjuje se funkcija main na liniji 14
+INFO  19:20:26,987 - #35 )
+INFO  19:20:26,987 - #44 int
+INFO  19:20:26,987 - #44 g
+INFO  19:20:26,987 - #31 ;
+INFO  19:20:26,987 - Deklarisana promenljiva g na liniji 14
+INFO  19:20:26,987 - #38 {
+INFO  19:20:26,987 - #44 p
+INFO  19:20:26,987 - #28 =
+INFO  19:20:26,987 - #44 t
+INFO  19:20:26,987 - #31 ;
+INFO  19:20:26,987 - #39 }
+INFO  19:20:26,987 - #39 }
+INFO  19:20:26,987 - GlobalVar = 3
+INFO  19:20:26,987 - GlobalConst = 0
+INFO  19:20:26,987 - LocalMainVar = 1
+INFO  19:20:26,987 - GlobalArray = 0
+INFO  19:20:26,987 - FuncProg = 1
+INFO  19:20:26,987 - Blocks = 3
+INFO  19:20:26,987 - FuncCalls = 0
+INFO  19:20:26,987 - FormalArg = 0
+INFO  19:20:26,987 - DefClass = 2
+INFO  19:20:26,987 - DefMClass = 2
+INFO  19:20:26,987 - DeclFClass = 0
+INFO  19:20:26,987 - Parsiranje uspesno
+INFO  19:20:32,367 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:20:32,414 - #2 program
+INFO  19:20:32,414 - #44 MJProgram
+INFO  19:20:32,414 - #4 class
+INFO  19:20:32,429 - #44 Klasa
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - Deklarisana klasa Klasa na liniji 3
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #44 int
+INFO  19:20:32,429 - #44 s
+INFO  19:20:32,429 - #34 (
+INFO  19:20:32,429 - Obradjuje se metoda s na liniji 5
+INFO  19:20:32,429 - #35 )
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #11 return
+INFO  19:20:32,429 - #43 3
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #4 class
+INFO  19:20:32,429 - #44 Pom
+INFO  19:20:32,429 - #14 extends
+INFO  19:20:32,429 - Deklarisana klasa Pom na liniji 9
+INFO  19:20:32,429 - #44 Klasa
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #44 int
+INFO  19:20:32,429 - #44 se
+INFO  19:20:32,429 - #34 (
+INFO  19:20:32,429 - Obradjuje se metoda se na liniji 10
+INFO  19:20:32,429 - #35 )
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #11 return
+INFO  19:20:32,429 - #43 5
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #39 }
+INFO  19:20:32,429 - #44 Pom
+INFO  19:20:32,429 - #44 t
+INFO  19:20:32,429 - #32 ,
+INFO  19:20:32,429 - Deklarisana promenljiva t na liniji 12
+INFO  19:20:32,429 - #44 p
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - Deklarisana promenljiva p na liniji 12
+INFO  19:20:32,429 - #44 Klasa
+INFO  19:20:32,429 - #44 k1
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #12 void
+INFO  19:20:32,429 - #44 main
+INFO  19:20:32,429 - #34 (
+INFO  19:20:32,429 - Obradjuje se funkcija main na liniji 14
+INFO  19:20:32,429 - #35 )
+INFO  19:20:32,429 - #44 int
+INFO  19:20:32,429 - #44 g
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - Deklarisana promenljiva g na liniji 14
+INFO  19:20:32,429 - #38 {
+INFO  19:20:32,429 - #44 k1
+INFO  19:20:32,429 - #28 =
+INFO  19:20:32,429 - #44 t
+INFO  19:20:32,429 - #31 ;
+INFO  19:20:32,429 - #39 }
+INFO  19:20:43,130 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:20:43,177 - #2 program
+INFO  19:20:43,177 - #44 MJProgram
+INFO  19:20:43,177 - #4 class
+INFO  19:20:43,177 - #44 Klasa
+INFO  19:20:43,177 - #38 {
+INFO  19:20:43,177 - Deklarisana klasa Klasa na liniji 3
+INFO  19:20:43,177 - #38 {
+INFO  19:20:43,177 - #44 int
+INFO  19:20:43,177 - #44 s
+INFO  19:20:43,177 - #34 (
+INFO  19:20:43,177 - Obradjuje se metoda s na liniji 5
+INFO  19:20:43,177 - #35 )
+INFO  19:20:43,177 - #38 {
+INFO  19:20:43,177 - #11 return
+INFO  19:20:43,177 - #43 3
+INFO  19:20:43,177 - #31 ;
+INFO  19:20:43,177 - #39 }
+INFO  19:20:43,177 - #39 }
+INFO  19:20:43,177 - #39 }
+INFO  19:20:43,177 - #4 class
+INFO  19:20:43,177 - #44 Pom
+INFO  19:20:43,177 - #14 extends
+INFO  19:20:43,177 - Deklarisana klasa Pom na liniji 9
+INFO  19:20:43,177 - #44 Klasa
+INFO  19:20:43,177 - #38 {
+INFO  19:20:43,177 - #38 {
+INFO  19:20:43,192 - #44 int
+INFO  19:20:43,192 - #44 se
+INFO  19:20:43,192 - #34 (
+INFO  19:20:43,192 - Obradjuje se metoda se na liniji 10
+INFO  19:20:43,192 - #35 )
+INFO  19:20:43,192 - #38 {
+INFO  19:20:43,192 - #11 return
+INFO  19:20:43,192 - #43 5
+INFO  19:20:43,192 - #31 ;
+INFO  19:20:43,192 - #39 }
+INFO  19:20:43,192 - #39 }
+INFO  19:20:43,192 - #39 }
+INFO  19:20:43,192 - #44 Pom
+INFO  19:20:43,192 - #44 t
+INFO  19:20:43,192 - #32 ,
+INFO  19:20:43,192 - Deklarisana promenljiva t na liniji 12
+INFO  19:20:43,192 - #44 p
+INFO  19:20:43,192 - #31 ;
+INFO  19:20:43,192 - Deklarisana promenljiva p na liniji 12
+INFO  19:20:43,192 - #44 Klasa
+INFO  19:20:43,192 - #44 k1
+INFO  19:20:43,192 - #31 ;
+INFO  19:20:43,192 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:20:43,192 - #38 {
+INFO  19:20:43,192 - #12 void
+INFO  19:20:43,192 - #44 main
+INFO  19:20:43,192 - #34 (
+INFO  19:20:43,192 - Obradjuje se funkcija main na liniji 14
+INFO  19:20:43,192 - #35 )
+INFO  19:20:43,192 - #44 int
+INFO  19:20:43,192 - #44 g
+INFO  19:20:43,192 - #31 ;
+INFO  19:20:43,192 - Deklarisana promenljiva g na liniji 14
+INFO  19:20:43,192 - #38 {
+INFO  19:20:43,192 - #44 k1
+INFO  19:20:43,192 - #28 =
+INFO  19:20:43,192 - #44 t
+INFO  19:20:43,192 - #31 ;
+INFO  19:20:43,192 - #39 }
+INFO  19:22:14,945 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:22:14,960 - #2 program
+INFO  19:22:14,960 - #44 MJProgram
+INFO  19:22:14,960 - #4 class
+INFO  19:22:14,960 - #44 Klasa
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - Deklarisana klasa Klasa na liniji 3
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #44 int
+INFO  19:22:14,960 - #44 s
+INFO  19:22:14,960 - #34 (
+INFO  19:22:14,960 - Obradjuje se metoda s na liniji 5
+INFO  19:22:14,960 - #35 )
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #11 return
+INFO  19:22:14,960 - #43 3
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #4 class
+INFO  19:22:14,960 - #44 Pom
+INFO  19:22:14,960 - #14 extends
+INFO  19:22:14,960 - Deklarisana klasa Pom na liniji 9
+INFO  19:22:14,960 - #44 Klasa
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #44 int
+INFO  19:22:14,960 - #44 se
+INFO  19:22:14,960 - #34 (
+INFO  19:22:14,960 - Obradjuje se metoda se na liniji 10
+INFO  19:22:14,960 - #35 )
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #11 return
+INFO  19:22:14,960 - #43 5
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - #44 Pom
+INFO  19:22:14,960 - #44 t
+INFO  19:22:14,960 - #32 ,
+INFO  19:22:14,960 - Deklarisana promenljiva t na liniji 12
+INFO  19:22:14,960 - #44 p
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - Deklarisana promenljiva p na liniji 12
+INFO  19:22:14,960 - #44 Klasa
+INFO  19:22:14,960 - #44 k1
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #12 void
+INFO  19:22:14,960 - #44 main
+INFO  19:22:14,960 - #34 (
+INFO  19:22:14,960 - Obradjuje se funkcija main na liniji 14
+INFO  19:22:14,960 - #35 )
+INFO  19:22:14,960 - #44 int
+INFO  19:22:14,960 - #44 g
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - Deklarisana promenljiva g na liniji 14
+INFO  19:22:14,960 - #38 {
+INFO  19:22:14,960 - #44 k1
+INFO  19:22:14,960 - #28 =
+INFO  19:22:14,960 - #44 t
+INFO  19:22:14,960 - #31 ;
+INFO  19:22:14,960 - #39 }
+ERROR 19:22:14,960 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  19:22:14,960 - #39 }
+INFO  19:22:14,960 - GlobalVar = 3
+INFO  19:22:14,960 - GlobalConst = 0
+INFO  19:22:14,960 - LocalMainVar = 1
+INFO  19:22:14,960 - GlobalArray = 0
+INFO  19:22:14,960 - FuncProg = 1
+INFO  19:22:14,960 - Blocks = 3
+INFO  19:22:14,960 - FuncCalls = 0
+INFO  19:22:14,960 - FormalArg = 0
+INFO  19:22:14,960 - DefClass = 2
+INFO  19:22:14,960 - DefMClass = 2
+INFO  19:22:14,960 - DeclFClass = 0
+ERROR 19:22:14,976 - Parsiranje nije uspesno
+INFO  19:23:18,967 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:23:18,998 - #2 program
+INFO  19:23:18,998 - #44 MJProgram
+INFO  19:23:18,998 - #4 class
+INFO  19:23:18,998 - #44 Klasa
+INFO  19:23:18,998 - #38 {
+INFO  19:23:18,998 - Deklarisana klasa Klasa na liniji 3
+INFO  19:23:18,998 - #38 {
+INFO  19:23:18,998 - #44 int
+INFO  19:23:18,998 - #44 s
+INFO  19:23:18,998 - #34 (
+INFO  19:23:18,998 - Obradjuje se metoda s na liniji 5
+INFO  19:23:18,998 - #35 )
+INFO  19:23:18,998 - #38 {
+INFO  19:23:18,998 - #11 return
+INFO  19:23:18,998 - #43 3
+INFO  19:23:18,998 - #31 ;
+INFO  19:23:18,998 - #39 }
+INFO  19:23:19,014 - #39 }
+INFO  19:23:27,884 - #39 }
+INFO  19:23:27,884 - #4 class
+INFO  19:23:27,899 - #44 Pom
+INFO  19:23:27,899 - #14 extends
+INFO  19:23:27,899 - Deklarisana klasa Pom na liniji 9
+INFO  19:23:27,899 - #44 Klasa
+INFO  19:23:27,899 - #38 {
+INFO  19:28:09,630 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:28:09,646 - #2 program
+INFO  19:28:09,646 - #44 MJProgram
+INFO  19:28:09,646 - #4 class
+INFO  19:28:09,646 - #44 Klasa
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - Deklarisana klasa Klasa na liniji 3
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #44 int
+INFO  19:28:09,646 - #44 s
+INFO  19:28:09,646 - #34 (
+INFO  19:28:09,646 - Obradjuje se metoda s na liniji 5
+INFO  19:28:09,646 - #35 )
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #11 return
+INFO  19:28:09,646 - #43 3
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #4 class
+INFO  19:28:09,646 - #44 Pom
+INFO  19:28:09,646 - #14 extends
+INFO  19:28:09,646 - Deklarisana klasa Pom na liniji 9
+INFO  19:28:09,646 - #44 Klasa
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #44 int
+INFO  19:28:09,646 - #44 se
+INFO  19:28:09,646 - #34 (
+INFO  19:28:09,646 - Obradjuje se metoda se na liniji 10
+INFO  19:28:09,646 - #35 )
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #11 return
+INFO  19:28:09,646 - #43 5
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - #44 Pom
+INFO  19:28:09,646 - #44 t
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - Deklarisana promenljiva t na liniji 12
+INFO  19:28:09,646 - #44 Klasa
+INFO  19:28:09,646 - #44 k1
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #12 void
+INFO  19:28:09,646 - #44 main
+INFO  19:28:09,646 - #34 (
+INFO  19:28:09,646 - Obradjuje se funkcija main na liniji 14
+INFO  19:28:09,646 - #35 )
+INFO  19:28:09,646 - #44 int
+INFO  19:28:09,646 - #44 g
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - Deklarisana promenljiva g na liniji 14
+INFO  19:28:09,646 - #38 {
+INFO  19:28:09,646 - #44 k1
+INFO  19:28:09,646 - #28 =
+INFO  19:28:09,646 - #44 t
+INFO  19:28:09,646 - #31 ;
+INFO  19:28:09,646 - #39 }
+ERROR 19:28:09,646 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  19:28:09,646 - #39 }
+INFO  19:28:09,646 - GlobalVar = 2
+INFO  19:28:09,646 - GlobalConst = 0
+INFO  19:28:09,646 - LocalMainVar = 1
+INFO  19:28:09,646 - GlobalArray = 0
+INFO  19:28:09,646 - FuncProg = 1
+INFO  19:28:09,646 - Blocks = 3
+INFO  19:28:09,646 - FuncCalls = 0
+INFO  19:28:09,662 - FormalArg = 0
+INFO  19:28:09,662 - DefClass = 2
+INFO  19:28:09,662 - DefMClass = 2
+INFO  19:28:09,662 - DeclFClass = 0
+ERROR 19:28:09,662 - Parsiranje nije uspesno
+INFO  19:28:13,261 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:28:13,276 - #2 program
+INFO  19:28:13,276 - #44 MJProgram
+INFO  19:28:13,276 - #4 class
+INFO  19:28:13,276 - #44 Klasa
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - Deklarisana klasa Klasa na liniji 3
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #44 int
+INFO  19:28:13,276 - #44 s
+INFO  19:28:13,276 - #34 (
+INFO  19:28:13,276 - Obradjuje se metoda s na liniji 5
+INFO  19:28:13,276 - #35 )
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #11 return
+INFO  19:28:13,276 - #43 3
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #4 class
+INFO  19:28:13,276 - #44 Pom
+INFO  19:28:13,276 - #14 extends
+INFO  19:28:13,276 - Deklarisana klasa Pom na liniji 9
+INFO  19:28:13,276 - #44 Klasa
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #44 int
+INFO  19:28:13,276 - #44 se
+INFO  19:28:13,276 - #34 (
+INFO  19:28:13,276 - Obradjuje se metoda se na liniji 10
+INFO  19:28:13,276 - #35 )
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #11 return
+INFO  19:28:13,276 - #43 5
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - #44 Pom
+INFO  19:28:13,276 - #44 t
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - Deklarisana promenljiva t na liniji 12
+INFO  19:28:13,276 - #44 Klasa
+INFO  19:28:13,276 - #44 k1
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - Deklarisana promenljiva k1 na liniji 12
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #12 void
+INFO  19:28:13,276 - #44 main
+INFO  19:28:13,276 - #34 (
+INFO  19:28:13,276 - Obradjuje se funkcija main na liniji 14
+INFO  19:28:13,276 - #35 )
+INFO  19:28:13,276 - #44 int
+INFO  19:28:13,276 - #44 g
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - Deklarisana promenljiva g na liniji 14
+INFO  19:28:13,276 - #38 {
+INFO  19:28:13,276 - #44 k1
+INFO  19:28:13,276 - #28 =
+INFO  19:28:13,276 - #44 t
+INFO  19:28:13,276 - #31 ;
+INFO  19:28:13,276 - #39 }
+ERROR 19:28:13,276 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  19:28:13,276 - #39 }
+INFO  19:28:13,276 - GlobalVar = 2
+INFO  19:28:13,276 - GlobalConst = 0
+INFO  19:28:13,276 - LocalMainVar = 1
+INFO  19:28:13,276 - GlobalArray = 0
+INFO  19:28:13,276 - FuncProg = 1
+INFO  19:28:13,276 - Blocks = 3
+INFO  19:28:13,276 - FuncCalls = 0
+INFO  19:28:13,276 - FormalArg = 0
+INFO  19:28:13,276 - DefClass = 2
+INFO  19:28:13,276 - DefMClass = 2
+INFO  19:28:13,276 - DeclFClass = 0
+ERROR 19:28:13,276 - Parsiranje nije uspesno
+INFO  20:00:25,705 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:00:25,721 - #2 program
+INFO  20:00:25,736 - #44 MJProgram
+INFO  20:00:25,736 - #4 class
+INFO  20:00:25,736 - #44 Klasa
+INFO  20:00:25,736 - #38 {
+INFO  20:00:25,736 - Deklarisana klasa Klasa na liniji 3
+INFO  20:00:25,736 - #38 {
+INFO  20:00:25,736 - #44 int
+INFO  20:00:25,736 - #44 s
+INFO  20:00:25,736 - #34 (
+INFO  20:00:25,736 - Obradjuje se metoda s na liniji 5
+INFO  20:00:25,736 - #35 )
+INFO  20:00:25,736 - #38 {
+INFO  20:00:25,736 - #11 return
+INFO  20:00:25,736 - #43 3
+INFO  20:00:25,736 - #31 ;
+INFO  20:00:25,736 - #39 }
+INFO  20:00:25,736 - #39 }
+INFO  20:00:25,736 - #39 }
+INFO  20:00:25,736 - #4 class
+INFO  20:01:47,947 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:01:47,962 - #2 program
+INFO  20:01:47,962 - #44 MJProgram
+INFO  20:01:47,962 - #4 class
+INFO  20:01:47,962 - #44 Klasa
+INFO  20:01:47,962 - #38 {
+INFO  20:01:47,962 - Deklarisana klasa Klasa na liniji 3
+INFO  20:01:47,962 - #38 {
+INFO  20:01:47,962 - #44 int
+INFO  20:01:47,962 - #44 s
+INFO  20:01:47,962 - #34 (
+INFO  20:01:47,962 - Obradjuje se metoda s na liniji 5
+INFO  20:01:47,962 - #35 )
+INFO  20:01:47,962 - #38 {
+INFO  20:01:47,962 - #11 return
+INFO  20:01:47,962 - #43 3
+INFO  20:01:47,962 - #31 ;
+INFO  20:01:47,962 - #39 }
+INFO  20:01:47,962 - #39 }
+INFO  20:01:47,962 - #39 }
+INFO  20:01:47,962 - #4 class
+INFO  20:14:33,121 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:14:33,137 - #2 program
+INFO  20:14:33,137 - #44 MJProgram
+INFO  20:14:33,137 - #4 class
+INFO  20:14:33,137 - #44 Klasa
+INFO  20:14:33,137 - #38 {
+INFO  20:14:33,137 - Deklarisana klasa Klasa na liniji 3
+INFO  20:14:33,137 - #38 {
+INFO  20:14:33,137 - #44 int
+INFO  20:14:33,137 - #44 s
+INFO  20:14:33,137 - #34 (
+INFO  20:14:33,137 - Obradjuje se metoda s na liniji 5
+INFO  20:14:33,137 - #35 )
+INFO  20:14:33,137 - #38 {
+INFO  20:14:33,137 - #11 return
+INFO  20:14:33,137 - #43 3
+INFO  20:14:33,137 - #31 ;
+INFO  20:14:33,137 - #39 }
+INFO  20:14:33,137 - #39 }
+INFO  20:14:33,137 - #39 }
+INFO  20:14:33,137 - #4 class
+INFO  20:20:04,322 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:20:04,338 - #2 program
+INFO  20:20:04,338 - #44 MJProgram
+INFO  20:20:04,338 - #4 class
+INFO  20:20:04,338 - #44 Klasa
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - Deklarisana klasa Klasa na liniji 3
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #44 int
+INFO  20:20:04,338 - #44 s
+INFO  20:20:04,338 - #34 (
+INFO  20:20:04,338 - Obradjuje se metoda s na liniji 5
+INFO  20:20:04,338 - #35 )
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #11 return
+INFO  20:20:04,338 - #43 3
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #4 class
+INFO  20:20:04,338 - #44 Pom
+INFO  20:20:04,338 - #14 extends
+INFO  20:20:04,338 - Deklarisana klasa Pom na liniji 9
+INFO  20:20:04,338 - #44 Klasa
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #44 int
+INFO  20:20:04,338 - #44 se
+INFO  20:20:04,338 - #34 (
+INFO  20:20:04,338 - Obradjuje se metoda se na liniji 10
+INFO  20:20:04,338 - #35 )
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #11 return
+INFO  20:20:04,338 - #43 5
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - #44 Pom
+INFO  20:20:04,338 - #44 t
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - Deklarisana promenljiva t na liniji 12
+INFO  20:20:04,338 - #44 Klasa
+INFO  20:20:04,338 - #44 k1
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - Deklarisana promenljiva k1 na liniji 12
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #12 void
+INFO  20:20:04,338 - #44 main
+INFO  20:20:04,338 - #34 (
+INFO  20:20:04,338 - Obradjuje se funkcija main na liniji 14
+INFO  20:20:04,338 - #35 )
+INFO  20:20:04,338 - #44 int
+INFO  20:20:04,338 - #44 g
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - Deklarisana promenljiva g na liniji 14
+INFO  20:20:04,338 - #38 {
+INFO  20:20:04,338 - #44 k1
+INFO  20:20:04,338 - #28 =
+INFO  20:20:04,338 - #44 t
+INFO  20:20:04,338 - #31 ;
+INFO  20:20:04,338 - #39 }
+ERROR 20:20:04,338 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  20:20:04,338 - #39 }
+INFO  20:20:04,338 - GlobalVar = 2
+INFO  20:20:04,338 - GlobalConst = 0
+INFO  20:20:04,338 - LocalMainVar = 1
+INFO  20:20:04,338 - GlobalArray = 0
+INFO  20:20:04,338 - FuncProg = 1
+INFO  20:20:04,338 - Blocks = 3
+INFO  20:20:04,338 - FuncCalls = 0
+INFO  20:20:04,338 - FormalArg = 0
+INFO  20:20:04,338 - DefClass = 2
+INFO  20:20:04,338 - DefMClass = 2
+INFO  20:20:04,338 - DeclFClass = 0
+ERROR 20:20:04,354 - Parsiranje nije uspesno
+INFO  20:20:09,557 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:20:09,589 - #2 program
+INFO  20:20:09,589 - #44 MJProgram
+INFO  20:20:09,589 - #4 class
+INFO  20:20:09,589 - #44 Klasa
+INFO  20:20:09,589 - #38 {
+INFO  20:20:09,589 - Deklarisana klasa Klasa na liniji 3
+INFO  20:20:09,589 - #38 {
+INFO  20:20:09,589 - #44 int
+INFO  20:20:09,589 - #44 s
+INFO  20:20:09,589 - #34 (
+INFO  20:20:09,589 - Obradjuje se metoda s na liniji 5
+INFO  20:20:09,589 - #35 )
+INFO  20:20:09,589 - #38 {
+INFO  20:20:09,589 - #11 return
+INFO  20:20:09,589 - #43 3
+INFO  20:20:09,589 - #31 ;
+INFO  20:20:09,589 - #39 }
+INFO  20:20:09,589 - #39 }
+INFO  20:20:09,589 - #39 }
+INFO  20:20:09,589 - #4 class
+INFO  20:20:09,589 - #44 Pom
+INFO  20:20:09,589 - #14 extends
+INFO  20:20:09,589 - Deklarisana klasa Pom na liniji 9
+INFO  20:20:09,589 - #44 Klasa
+INFO  20:20:09,589 - #38 {
+INFO  21:39:21,071 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:39:21,089 - #2 program
+INFO  21:39:21,089 - #44 MJProgram
+INFO  21:39:21,090 - #4 class
+INFO  21:39:21,090 - #44 Klasa
+INFO  21:39:21,090 - #38 {
+INFO  21:39:21,090 - Deklarisana klasa Klasa na liniji 3
+INFO  21:39:21,090 - #38 {
+INFO  21:39:21,090 - #44 int
+INFO  21:39:21,090 - #44 s
+INFO  21:39:21,091 - #34 (
+INFO  21:39:21,091 - Obradjuje se metoda s na liniji 5
+INFO  21:39:21,091 - #35 )
+INFO  21:39:21,091 - #38 {
+INFO  21:39:21,091 - #11 return
+INFO  21:39:21,091 - #43 3
+INFO  21:39:21,091 - #31 ;
+INFO  21:39:21,091 - #39 }
+INFO  21:39:21,091 - #39 }
+INFO  21:39:21,091 - #39 }
+INFO  21:39:21,091 - #4 class
+INFO  21:39:21,092 - #44 Pom
+INFO  21:39:21,092 - #14 extends
+INFO  21:39:21,092 - Deklarisana klasa Pom na liniji 9
+INFO  21:39:21,092 - #44 Klasa
+INFO  21:39:21,092 - #38 {
+INFO  21:39:21,092 - #38 {
+INFO  21:39:21,092 - #44 int
+INFO  21:39:21,092 - #44 se
+INFO  21:39:21,092 - #34 (
+INFO  21:39:21,092 - Obradjuje se metoda se na liniji 10
+INFO  21:39:21,092 - #35 )
+INFO  21:39:21,092 - #38 {
+INFO  21:39:21,093 - #11 return
+INFO  21:39:21,093 - #43 5
+INFO  21:39:21,093 - #31 ;
+INFO  21:39:21,093 - #39 }
+INFO  21:39:21,093 - #39 }
+INFO  21:39:21,093 - #39 }
+INFO  21:39:21,093 - #44 Pom
+INFO  21:39:21,093 - #44 t
+INFO  21:39:21,093 - #31 ;
+INFO  21:39:21,094 - Deklarisana promenljiva t na liniji 12
+INFO  21:39:21,094 - #44 Klasa
+INFO  21:39:21,094 - #44 k1
+INFO  21:39:21,094 - #31 ;
+INFO  21:39:21,094 - Deklarisana promenljiva k1 na liniji 12
+INFO  21:39:21,094 - #38 {
+INFO  21:39:21,094 - #12 void
+INFO  21:39:21,094 - #44 main
+INFO  21:39:21,094 - #34 (
+INFO  21:39:21,094 - Obradjuje se funkcija main na liniji 14
+INFO  21:39:21,094 - #35 )
+INFO  21:39:21,095 - #44 int
+INFO  21:39:21,095 - #44 g
+INFO  21:39:21,095 - #31 ;
+INFO  21:39:21,095 - Deklarisana promenljiva g na liniji 14
+INFO  21:39:21,095 - #38 {
+INFO  21:39:21,095 - #44 k1
+INFO  21:39:21,095 - #28 =
+INFO  21:39:21,095 - #44 t
+INFO  21:39:21,095 - #31 ;
+INFO  21:39:21,095 - #39 }
+ERROR 21:39:21,095 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  21:39:21,096 - #39 }
+INFO  21:39:21,096 - GlobalVar = 2
+INFO  21:39:21,096 - GlobalConst = 0
+INFO  21:39:21,096 - LocalMainVar = 1
+INFO  21:39:21,096 - GlobalArray = 0
+INFO  21:39:21,096 - FuncProg = 1
+INFO  21:39:21,096 - Blocks = 3
+INFO  21:39:21,096 - FuncCalls = 0
+INFO  21:39:21,096 - FormalArg = 0
+INFO  21:39:21,096 - DefClass = 2
+INFO  21:39:21,096 - DefMClass = 2
+INFO  21:39:21,096 - DeclFClass = 0
+ERROR 21:39:21,097 - Parsiranje nije uspesno
+INFO  21:39:32,790 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:39:32,819 - #2 program
+INFO  21:39:32,819 - #44 MJProgram
+INFO  21:39:32,819 - #4 class
+INFO  21:39:32,819 - #44 Klasa
+INFO  21:39:32,820 - #38 {
+INFO  21:39:32,820 - Deklarisana klasa Klasa na liniji 3
+INFO  21:39:32,820 - #38 {
+INFO  21:39:32,820 - #44 int
+INFO  21:39:32,820 - #44 s
+INFO  21:39:32,820 - #34 (
+INFO  21:39:32,820 - Obradjuje se metoda s na liniji 5
+INFO  21:39:32,821 - #35 )
+INFO  21:39:32,821 - #38 {
+INFO  21:39:32,821 - #11 return
+INFO  21:39:32,821 - #43 3
+INFO  21:39:32,821 - #31 ;
+INFO  21:39:32,821 - #39 }
+INFO  21:39:32,821 - #39 }
+INFO  21:39:32,821 - #39 }
+INFO  21:39:32,821 - #4 class
+INFO  21:39:32,822 - #44 Pom
+INFO  21:39:32,822 - #14 extends
+INFO  21:39:32,822 - Deklarisana klasa Pom na liniji 9
+INFO  21:39:32,822 - #44 Klasa
+INFO  21:39:32,822 - #38 {
+INFO  21:39:32,822 - #38 {
+INFO  21:39:32,822 - #44 int
+INFO  21:39:32,822 - #44 se
+INFO  21:39:32,822 - #34 (
+INFO  21:39:32,822 - Obradjuje se metoda se na liniji 10
+INFO  21:39:32,822 - #35 )
+INFO  21:39:32,823 - #38 {
+INFO  21:39:32,823 - #11 return
+INFO  21:39:32,823 - #43 5
+INFO  21:39:32,823 - #31 ;
+INFO  21:39:32,823 - #39 }
+INFO  21:39:32,823 - #39 }
+INFO  21:39:32,823 - #39 }
+INFO  21:39:32,823 - #44 Pom
+INFO  21:39:32,823 - #44 t
+INFO  21:39:32,823 - #31 ;
+INFO  21:39:32,824 - Deklarisana promenljiva t na liniji 12
+INFO  21:39:32,824 - #44 Klasa
+INFO  21:39:32,824 - #44 k1
+INFO  21:39:32,824 - #31 ;
+INFO  21:39:32,824 - Deklarisana promenljiva k1 na liniji 12
+INFO  21:39:32,824 - #38 {
+INFO  21:39:32,824 - #12 void
+INFO  21:39:32,824 - #44 main
+INFO  21:39:32,824 - #34 (
+INFO  21:39:32,824 - Obradjuje se funkcija main na liniji 14
+INFO  21:39:32,824 - #35 )
+INFO  21:39:32,825 - #44 int
+INFO  21:39:32,825 - #44 g
+INFO  21:39:32,825 - #31 ;
+INFO  21:39:32,825 - Deklarisana promenljiva g na liniji 14
+INFO  21:39:32,825 - #38 {
+INFO  21:39:32,825 - #44 k1
+INFO  21:39:32,825 - #28 =
+INFO  21:39:32,825 - #44 t
+INFO  21:39:32,825 - #31 ;
+INFO  21:39:32,825 - #39 }
+INFO  21:39:44,293 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:39:44,321 - #2 program
+INFO  21:39:44,321 - #44 MJProgram
+INFO  21:39:44,321 - #4 class
+INFO  21:39:44,321 - #44 Klasa
+INFO  21:39:44,321 - #38 {
+INFO  21:39:44,321 - Deklarisana klasa Klasa na liniji 3
+INFO  21:39:44,322 - #38 {
+INFO  21:39:44,322 - #44 int
+INFO  21:39:44,322 - #44 s
+INFO  21:39:44,322 - #34 (
+INFO  21:39:44,322 - Obradjuje se metoda s na liniji 5
+INFO  21:39:44,322 - #35 )
+INFO  21:39:44,322 - #38 {
+INFO  21:39:44,322 - #11 return
+INFO  21:39:44,323 - #43 3
+INFO  21:39:44,323 - #31 ;
+INFO  21:39:44,323 - #39 }
+INFO  21:39:44,323 - #39 }
+INFO  21:39:44,323 - #39 }
+INFO  21:39:44,323 - #4 class
+INFO  21:39:44,323 - #44 Pom
+INFO  21:39:44,323 - #14 extends
+INFO  21:39:44,323 - Deklarisana klasa Pom na liniji 9
+INFO  21:39:44,323 - #44 Klasa
+INFO  21:39:44,324 - #38 {
+INFO  21:39:44,351 - #38 {
+INFO  21:39:44,351 - #44 int
+INFO  21:39:44,351 - #44 se
+INFO  21:39:44,351 - #34 (
+INFO  21:39:44,351 - Obradjuje se metoda se na liniji 10
+INFO  21:39:44,351 - #35 )
+INFO  21:39:44,351 - #38 {
+INFO  21:39:44,351 - #11 return
+INFO  21:39:44,352 - #43 5
+INFO  21:39:44,352 - #31 ;
+INFO  21:39:44,352 - #39 }
+INFO  21:39:44,352 - #39 }
+INFO  21:39:44,352 - #39 }
+INFO  21:39:44,352 - #44 Pom
+INFO  21:39:44,352 - #44 t
+INFO  21:39:44,353 - #31 ;
+INFO  21:39:44,353 - Deklarisana promenljiva t na liniji 12
+INFO  21:39:44,353 - #44 Klasa
+INFO  21:39:44,353 - #44 k1
+INFO  21:39:44,353 - #31 ;
+INFO  21:39:44,353 - Deklarisana promenljiva k1 na liniji 12
+INFO  21:39:44,353 - #38 {
+INFO  21:39:44,353 - #12 void
+INFO  21:39:44,353 - #44 main
+INFO  21:39:44,353 - #34 (
+INFO  21:39:44,353 - Obradjuje se funkcija main na liniji 14
+INFO  21:39:44,354 - #35 )
+INFO  21:39:44,354 - #44 int
+INFO  21:39:44,354 - #44 g
+INFO  21:39:44,354 - #31 ;
+INFO  21:39:44,354 - Deklarisana promenljiva g na liniji 14
+INFO  21:39:44,354 - #38 {
+INFO  21:39:44,354 - #44 k1
+INFO  21:39:44,354 - #28 =
+INFO  21:39:44,354 - #44 t
+INFO  21:39:44,354 - #31 ;
+INFO  21:39:44,354 - #39 }
+ERROR 21:39:44,355 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  21:39:44,355 - #39 }
+INFO  21:40:13,789 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:40:13,821 - #2 program
+INFO  21:40:13,821 - #44 MJProgram
+INFO  21:40:13,821 - #4 class
+INFO  21:40:13,821 - #44 Klasa
+INFO  21:40:13,821 - #38 {
+INFO  21:40:13,821 - Deklarisana klasa Klasa na liniji 3
+INFO  21:40:13,822 - #38 {
+INFO  21:40:13,822 - #44 int
+INFO  21:40:13,822 - #44 s
+INFO  21:40:13,822 - #34 (
+INFO  21:40:13,822 - Obradjuje se metoda s na liniji 5
+INFO  21:40:13,823 - #35 )
+INFO  21:40:13,823 - #38 {
+INFO  21:40:13,823 - #11 return
+INFO  21:40:13,823 - #43 3
+INFO  21:40:13,823 - #31 ;
+INFO  21:40:13,823 - #39 }
+INFO  21:40:13,823 - #39 }
+INFO  21:40:13,823 - #39 }
+INFO  21:40:13,823 - #4 class
+INFO  21:40:13,824 - #44 Pom
+INFO  21:40:13,824 - #14 extends
+INFO  21:40:13,824 - Deklarisana klasa Pom na liniji 9
+INFO  21:40:13,824 - #44 Klasa
+INFO  21:40:13,824 - #38 {
+INFO  21:40:13,824 - #38 {
+INFO  21:40:13,824 - #44 int
+INFO  21:40:13,824 - #44 se
+INFO  21:40:13,825 - #34 (
+INFO  21:40:13,825 - Obradjuje se metoda se na liniji 10
+INFO  21:40:13,825 - #35 )
+INFO  21:40:13,825 - #38 {
+INFO  21:40:13,825 - #11 return
+INFO  21:40:13,825 - #43 5
+INFO  21:40:13,825 - #31 ;
+INFO  21:40:13,825 - #39 }
+INFO  21:40:13,826 - #39 }
+INFO  21:40:13,826 - #39 }
+INFO  21:40:13,826 - #44 Pom
+INFO  21:40:13,826 - #44 t
+INFO  21:40:13,826 - #31 ;
+INFO  21:40:13,826 - Deklarisana promenljiva t na liniji 12
+INFO  21:40:13,826 - #44 Klasa
+INFO  21:40:13,826 - #44 k1
+INFO  21:40:13,826 - #31 ;
+INFO  21:40:13,827 - Deklarisana promenljiva k1 na liniji 12
+INFO  21:40:13,827 - #38 {
+INFO  21:40:13,827 - #12 void
+INFO  21:40:13,827 - #44 main
+INFO  21:40:13,827 - #34 (
+INFO  21:40:13,827 - Obradjuje se funkcija main na liniji 14
+INFO  21:40:13,827 - #35 )
+INFO  21:40:13,827 - #44 int
+INFO  21:40:13,827 - #44 g
+INFO  21:40:13,828 - #31 ;
+INFO  21:40:13,828 - Deklarisana promenljiva g na liniji 14
+INFO  21:40:13,828 - #38 {
+INFO  21:40:13,828 - #44 k1
+INFO  21:40:13,828 - #28 =
+INFO  21:40:13,828 - #44 t
+INFO  21:40:13,828 - #31 ;
+INFO  21:40:13,828 - #39 }
+ERROR 21:40:13,829 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  21:40:13,829 - #39 }
+INFO  21:40:34,226 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:40:34,256 - #2 program
+INFO  21:40:34,256 - #44 MJProgram
+INFO  21:40:34,256 - #4 class
+INFO  21:40:34,257 - #44 Klasa
+INFO  21:40:34,257 - #38 {
+INFO  21:40:34,257 - Deklarisana klasa Klasa na liniji 3
+INFO  21:40:34,257 - #38 {
+INFO  21:40:34,257 - #44 int
+INFO  21:40:34,257 - #44 s
+INFO  21:40:34,257 - #34 (
+INFO  21:40:34,257 - Obradjuje se metoda s na liniji 5
+INFO  21:40:34,258 - #35 )
+INFO  21:40:34,258 - #38 {
+INFO  21:40:34,258 - #11 return
+INFO  21:40:34,258 - #43 3
+INFO  21:40:34,258 - #31 ;
+INFO  21:40:34,258 - #39 }
+INFO  21:40:34,258 - #39 }
+INFO  21:40:34,258 - #39 }
+INFO  21:40:34,258 - #4 class
+INFO  21:40:34,258 - #44 Pom
+INFO  21:40:34,258 - #14 extends
+INFO  21:40:34,259 - Deklarisana klasa Pom na liniji 9
+INFO  21:40:34,259 - #44 Klasa
+INFO  21:40:34,259 - #38 {
+INFO  21:40:34,259 - #38 {
+INFO  21:40:34,259 - #44 int
+INFO  21:40:34,259 - #44 se
+INFO  21:40:34,259 - #34 (
+INFO  21:40:34,259 - Obradjuje se metoda se na liniji 10
+INFO  21:40:34,259 - #35 )
+INFO  21:40:34,259 - #38 {
+INFO  21:40:34,259 - #11 return
+INFO  21:40:34,260 - #43 5
+INFO  21:40:34,260 - #31 ;
+INFO  21:40:34,260 - #39 }
+INFO  21:40:34,260 - #39 }
+INFO  21:40:34,260 - #39 }
+INFO  21:40:34,260 - #44 Pom
+INFO  21:40:34,260 - #44 t
+INFO  21:40:34,260 - #31 ;
+INFO  21:40:34,260 - Deklarisana promenljiva t na liniji 12
+INFO  21:40:34,260 - #44 Klasa
+INFO  21:40:34,260 - #44 k1
+INFO  21:40:34,261 - #31 ;
+INFO  21:40:34,261 - Deklarisana promenljiva k1 na liniji 12
+INFO  21:40:34,261 - #38 {
+INFO  21:40:34,261 - #12 void
+INFO  21:40:34,261 - #44 main
+INFO  21:40:34,261 - #34 (
+INFO  21:40:34,261 - Obradjuje se funkcija main na liniji 14
+INFO  21:40:34,261 - #35 )
+INFO  21:40:34,261 - #44 int
+INFO  21:40:34,261 - #44 g
+INFO  21:40:34,261 - #31 ;
+INFO  21:40:34,262 - Deklarisana promenljiva g na liniji 14
+INFO  21:40:34,262 - #38 {
+INFO  21:40:34,262 - #44 k1
+INFO  21:40:34,262 - #28 =
+INFO  21:40:34,262 - #44 t
+INFO  21:40:34,262 - #31 ;
+INFO  21:40:34,262 - #39 }
+INFO  22:00:38,678 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:00:38,693 - #2 program
+INFO  22:00:38,693 - #44 MJProgram
+INFO  22:00:38,693 - #4 class
+INFO  22:00:38,693 - #44 Klasa
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - Deklarisana klasa Klasa na liniji 3
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #44 int
+INFO  22:00:38,693 - #44 s
+INFO  22:00:38,693 - #34 (
+INFO  22:00:38,693 - Obradjuje se metoda s na liniji 5
+INFO  22:00:38,693 - #35 )
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #11 return
+INFO  22:00:38,693 - #43 3
+INFO  22:00:38,693 - #31 ;
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #4 class
+INFO  22:00:38,693 - #44 Pom
+INFO  22:00:38,693 - #14 extends
+INFO  22:00:38,693 - Deklarisana klasa Pom na liniji 9
+INFO  22:00:38,693 - #44 Klasa
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #44 int
+INFO  22:00:38,693 - #44 se
+INFO  22:00:38,693 - #34 (
+INFO  22:00:38,693 - Obradjuje se metoda se na liniji 10
+INFO  22:00:38,693 - #35 )
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #11 return
+INFO  22:00:38,693 - #43 5
+INFO  22:00:38,693 - #31 ;
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #39 }
+INFO  22:00:38,693 - #44 Pom
+INFO  22:00:38,693 - #44 t
+INFO  22:00:38,693 - #31 ;
+INFO  22:00:38,693 - Deklarisana promenljiva t na liniji 12
+INFO  22:00:38,693 - #44 Klasa
+INFO  22:00:38,693 - #44 k1
+INFO  22:00:38,693 - #31 ;
+INFO  22:00:38,693 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:00:38,693 - #38 {
+INFO  22:00:38,693 - #12 void
+INFO  22:00:38,709 - #44 main
+INFO  22:00:38,709 - #34 (
+INFO  22:00:38,709 - Obradjuje se funkcija main na liniji 14
+INFO  22:00:38,709 - #35 )
+INFO  22:00:38,709 - #44 int
+INFO  22:00:38,709 - #44 g
+INFO  22:00:38,709 - #31 ;
+INFO  22:00:38,709 - Deklarisana promenljiva g na liniji 14
+INFO  22:00:38,709 - #38 {
+INFO  22:00:38,709 - #44 k1
+INFO  22:00:38,709 - #28 =
+INFO  22:00:38,709 - #44 t
+INFO  22:00:38,709 - #31 ;
+INFO  22:00:38,709 - #39 }
+ERROR 22:00:38,709 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  22:00:38,709 - #39 }
+INFO  22:00:38,709 - GlobalVar = 2
+INFO  22:00:38,709 - GlobalConst = 0
+INFO  22:00:38,709 - LocalMainVar = 1
+INFO  22:00:38,709 - GlobalArray = 0
+INFO  22:00:38,709 - FuncProg = 1
+INFO  22:00:38,709 - Blocks = 3
+INFO  22:00:38,709 - FuncCalls = 0
+INFO  22:00:38,709 - FormalArg = 0
+INFO  22:00:38,709 - DefClass = 2
+INFO  22:00:38,709 - DefMClass = 2
+INFO  22:00:38,709 - DeclFClass = 0
+ERROR 22:00:38,709 - Parsiranje nije uspesno
+INFO  22:01:02,380 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:01:02,411 - #2 program
+INFO  22:01:02,411 - #44 MJProgram
+INFO  22:01:02,411 - #4 class
+INFO  22:01:02,411 - #44 Klasa
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - Deklarisana klasa Klasa na liniji 3
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - #44 int
+INFO  22:01:02,411 - #44 s
+INFO  22:01:02,411 - #34 (
+INFO  22:01:02,411 - Obradjuje se metoda s na liniji 5
+INFO  22:01:02,411 - #35 )
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - #11 return
+INFO  22:01:02,411 - #43 3
+INFO  22:01:02,411 - #31 ;
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #4 class
+INFO  22:01:02,411 - #44 Pom
+INFO  22:01:02,411 - #14 extends
+INFO  22:01:02,411 - Deklarisana klasa Pom na liniji 9
+INFO  22:01:02,411 - #44 Klasa
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - #44 int
+INFO  22:01:02,411 - #44 se
+INFO  22:01:02,411 - #34 (
+INFO  22:01:02,411 - Obradjuje se metoda se na liniji 10
+INFO  22:01:02,411 - #35 )
+INFO  22:01:02,411 - #38 {
+INFO  22:01:02,411 - #11 return
+INFO  22:01:02,411 - #43 5
+INFO  22:01:02,411 - #31 ;
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #39 }
+INFO  22:01:02,411 - #44 Pom
+INFO  22:01:02,427 - #44 t
+INFO  22:01:02,427 - #31 ;
+INFO  22:01:02,427 - Deklarisana promenljiva t na liniji 12
+INFO  22:01:02,427 - #44 Klasa
+INFO  22:01:02,427 - #44 k1
+INFO  22:01:02,427 - #31 ;
+INFO  22:01:02,427 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:01:02,427 - #38 {
+INFO  22:01:02,427 - #12 void
+INFO  22:01:02,427 - #44 main
+INFO  22:01:02,427 - #34 (
+INFO  22:01:02,427 - Obradjuje se funkcija main na liniji 14
+INFO  22:01:02,427 - #35 )
+INFO  22:01:02,427 - #44 int
+INFO  22:01:02,427 - #44 g
+INFO  22:01:02,427 - #31 ;
+INFO  22:01:02,427 - Deklarisana promenljiva g na liniji 14
+INFO  22:01:02,427 - #38 {
+INFO  22:01:02,427 - #44 k1
+INFO  22:01:02,427 - #28 =
+INFO  22:01:02,427 - #44 t
+INFO  22:01:02,427 - #31 ;
+INFO  22:01:02,427 - #39 }
+INFO  22:03:57,173 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:03:57,189 - #2 program
+INFO  22:03:57,189 - #44 MJProgram
+INFO  22:03:57,189 - #4 class
+INFO  22:03:57,189 - #44 Klasa
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - Deklarisana klasa Klasa na liniji 3
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #44 int
+INFO  22:03:57,189 - #44 s
+INFO  22:03:57,189 - #34 (
+INFO  22:03:57,189 - Obradjuje se metoda s na liniji 5
+INFO  22:03:57,189 - #35 )
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #11 return
+INFO  22:03:57,189 - #43 3
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #4 class
+INFO  22:03:57,189 - #44 Pom
+INFO  22:03:57,189 - #14 extends
+INFO  22:03:57,189 - Deklarisana klasa Pom na liniji 9
+INFO  22:03:57,189 - #44 Klasa
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #44 int
+INFO  22:03:57,189 - #44 se
+INFO  22:03:57,189 - #34 (
+INFO  22:03:57,189 - Obradjuje se metoda se na liniji 10
+INFO  22:03:57,189 - #35 )
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #11 return
+INFO  22:03:57,189 - #43 5
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - #44 Pom
+INFO  22:03:57,189 - #44 t
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - Deklarisana promenljiva t na liniji 12
+INFO  22:03:57,189 - #44 Klasa
+INFO  22:03:57,189 - #44 k1
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #12 void
+INFO  22:03:57,189 - #44 main
+INFO  22:03:57,189 - #34 (
+INFO  22:03:57,189 - Obradjuje se funkcija main na liniji 14
+INFO  22:03:57,189 - #35 )
+INFO  22:03:57,189 - #44 int
+INFO  22:03:57,189 - #44 g
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - Deklarisana promenljiva g na liniji 14
+INFO  22:03:57,189 - #38 {
+INFO  22:03:57,189 - #44 k1
+INFO  22:03:57,189 - #28 =
+INFO  22:03:57,189 - #44 t
+INFO  22:03:57,189 - #31 ;
+INFO  22:03:57,189 - #39 }
+ERROR 22:03:57,189 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  22:03:57,189 - #39 }
+INFO  22:03:57,189 - GlobalVar = 2
+INFO  22:03:57,189 - GlobalConst = 0
+INFO  22:03:57,189 - LocalMainVar = 1
+INFO  22:03:57,189 - GlobalArray = 0
+INFO  22:03:57,189 - FuncProg = 1
+INFO  22:03:57,189 - Blocks = 3
+INFO  22:03:57,189 - FuncCalls = 0
+INFO  22:03:57,189 - FormalArg = 0
+INFO  22:03:57,189 - DefClass = 2
+INFO  22:03:57,189 - DefMClass = 2
+INFO  22:03:57,189 - DeclFClass = 0
+ERROR 22:03:57,189 - Parsiranje nije uspesno
+INFO  22:04:04,953 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:04:04,969 - #2 program
+INFO  22:04:04,969 - #44 MJProgram
+INFO  22:04:04,969 - #4 class
+INFO  22:04:04,969 - #44 Klasa
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - Deklarisana klasa Klasa na liniji 3
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #44 int
+INFO  22:04:04,969 - #44 s
+INFO  22:04:04,969 - #34 (
+INFO  22:04:04,969 - Obradjuje se metoda s na liniji 5
+INFO  22:04:04,969 - #35 )
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #11 return
+INFO  22:04:04,969 - #43 3
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #4 class
+INFO  22:04:04,969 - #44 Pom
+INFO  22:04:04,969 - #14 extends
+INFO  22:04:04,969 - Deklarisana klasa Pom na liniji 9
+INFO  22:04:04,969 - #44 Klasa
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #44 int
+INFO  22:04:04,969 - #44 se
+INFO  22:04:04,969 - #34 (
+INFO  22:04:04,969 - Obradjuje se metoda se na liniji 10
+INFO  22:04:04,969 - #35 )
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #11 return
+INFO  22:04:04,969 - #43 5
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - #44 Pom
+INFO  22:04:04,969 - #44 t
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - Deklarisana promenljiva t na liniji 12
+INFO  22:04:04,969 - #44 Klasa
+INFO  22:04:04,969 - #44 k1
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #12 void
+INFO  22:04:04,969 - #44 main
+INFO  22:04:04,969 - #34 (
+INFO  22:04:04,969 - Obradjuje se funkcija main na liniji 14
+INFO  22:04:04,969 - #35 )
+INFO  22:04:04,969 - #44 int
+INFO  22:04:04,969 - #44 g
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - Deklarisana promenljiva g na liniji 14
+INFO  22:04:04,969 - #38 {
+INFO  22:04:04,969 - #44 k1
+INFO  22:04:04,969 - #28 =
+INFO  22:04:04,969 - #44 t
+INFO  22:04:04,969 - #31 ;
+INFO  22:04:04,969 - #39 }
+ERROR 22:04:04,969 - Greska na liniji 16 nekompatibilni tipovi u dodeli vrednosti
+INFO  22:04:04,969 - #39 }
+INFO  22:04:04,969 - GlobalVar = 2
+INFO  22:04:04,969 - GlobalConst = 0
+INFO  22:04:04,969 - LocalMainVar = 1
+INFO  22:04:04,969 - GlobalArray = 0
+INFO  22:04:04,969 - FuncProg = 1
+INFO  22:04:04,969 - Blocks = 3
+INFO  22:04:04,969 - FuncCalls = 0
+INFO  22:04:04,969 - FormalArg = 0
+INFO  22:04:04,969 - DefClass = 2
+INFO  22:04:04,969 - DefMClass = 2
+INFO  22:04:04,969 - DeclFClass = 0
+ERROR 22:04:04,969 - Parsiranje nije uspesno
+INFO  22:04:09,027 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:04:09,058 - #2 program
+INFO  22:04:09,058 - #44 MJProgram
+INFO  22:04:09,058 - #4 class
+INFO  22:04:09,058 - #44 Klasa
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - Deklarisana klasa Klasa na liniji 3
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #44 int
+INFO  22:04:09,058 - #44 s
+INFO  22:04:09,058 - #34 (
+INFO  22:04:09,058 - Obradjuje se metoda s na liniji 5
+INFO  22:04:09,058 - #35 )
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #11 return
+INFO  22:04:09,058 - #43 3
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #4 class
+INFO  22:04:09,058 - #44 Pom
+INFO  22:04:09,058 - #14 extends
+INFO  22:04:09,058 - Deklarisana klasa Pom na liniji 9
+INFO  22:04:09,058 - #44 Klasa
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #44 int
+INFO  22:04:09,058 - #44 se
+INFO  22:04:09,058 - #34 (
+INFO  22:04:09,058 - Obradjuje se metoda se na liniji 10
+INFO  22:04:09,058 - #35 )
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #11 return
+INFO  22:04:09,058 - #43 5
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #39 }
+INFO  22:04:09,058 - #44 Pom
+INFO  22:04:09,058 - #44 t
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - Deklarisana promenljiva t na liniji 12
+INFO  22:04:09,058 - #44 Klasa
+INFO  22:04:09,058 - #44 k1
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #12 void
+INFO  22:04:09,058 - #44 main
+INFO  22:04:09,058 - #34 (
+INFO  22:04:09,058 - Obradjuje se funkcija main na liniji 14
+INFO  22:04:09,058 - #35 )
+INFO  22:04:09,058 - #44 int
+INFO  22:04:09,058 - #44 g
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - Deklarisana promenljiva g na liniji 14
+INFO  22:04:09,058 - #38 {
+INFO  22:04:09,058 - #44 k1
+INFO  22:04:09,058 - #28 =
+INFO  22:04:09,058 - #44 t
+INFO  22:04:09,058 - #31 ;
+INFO  22:04:09,058 - #39 }
+INFO  22:05:14,226 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:05:14,242 - #2 program
+INFO  22:05:14,242 - #44 MJProgram
+INFO  22:05:14,242 - #4 class
+INFO  22:05:14,242 - #44 Klasa
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - Deklarisana klasa Klasa na liniji 3
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #44 int
+INFO  22:05:14,242 - #44 s
+INFO  22:05:14,242 - #34 (
+INFO  22:05:14,242 - Obradjuje se metoda s na liniji 5
+INFO  22:05:14,242 - #35 )
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #11 return
+INFO  22:05:14,242 - #43 3
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #4 class
+INFO  22:05:14,242 - #44 Pom
+INFO  22:05:14,242 - #14 extends
+INFO  22:05:14,242 - Deklarisana klasa Pom na liniji 9
+INFO  22:05:14,242 - #44 Klasa
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #44 int
+INFO  22:05:14,242 - #44 se
+INFO  22:05:14,242 - #34 (
+INFO  22:05:14,242 - Obradjuje se metoda se na liniji 10
+INFO  22:05:14,242 - #35 )
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #11 return
+INFO  22:05:14,242 - #43 5
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #44 Pom
+INFO  22:05:14,242 - #44 t
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - Deklarisana promenljiva t na liniji 12
+INFO  22:05:14,242 - #44 Klasa
+INFO  22:05:14,242 - #44 k1
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #12 void
+INFO  22:05:14,242 - #44 main
+INFO  22:05:14,242 - #34 (
+INFO  22:05:14,242 - Obradjuje se funkcija main na liniji 14
+INFO  22:05:14,242 - #35 )
+INFO  22:05:14,242 - #44 int
+INFO  22:05:14,242 - #44 g
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - Deklarisana promenljiva g na liniji 14
+INFO  22:05:14,242 - #38 {
+INFO  22:05:14,242 - #44 k1
+INFO  22:05:14,242 - #28 =
+INFO  22:05:14,242 - #44 t
+INFO  22:05:14,242 - #31 ;
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - #39 }
+INFO  22:05:14,242 - GlobalVar = 2
+INFO  22:05:14,242 - GlobalConst = 0
+INFO  22:05:14,242 - LocalMainVar = 1
+INFO  22:05:14,242 - GlobalArray = 0
+INFO  22:05:14,242 - FuncProg = 1
+INFO  22:05:14,242 - Blocks = 3
+INFO  22:05:14,242 - FuncCalls = 0
+INFO  22:05:14,242 - FormalArg = 0
+INFO  22:05:14,242 - DefClass = 2
+INFO  22:05:14,242 - DefMClass = 2
+INFO  22:05:14,242 - DeclFClass = 0
+INFO  22:05:14,242 - Parsiranje uspesno
+INFO  22:05:17,539 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:05:17,555 - #2 program
+INFO  22:05:17,555 - #44 MJProgram
+INFO  22:05:17,555 - #4 class
+INFO  22:05:17,555 - #44 Klasa
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - Deklarisana klasa Klasa na liniji 3
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #44 int
+INFO  22:05:17,555 - #44 s
+INFO  22:05:17,555 - #34 (
+INFO  22:05:17,555 - Obradjuje se metoda s na liniji 5
+INFO  22:05:17,555 - #35 )
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #11 return
+INFO  22:05:17,555 - #43 3
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #4 class
+INFO  22:05:17,555 - #44 Pom
+INFO  22:05:17,555 - #14 extends
+INFO  22:05:17,555 - Deklarisana klasa Pom na liniji 9
+INFO  22:05:17,555 - #44 Klasa
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #44 int
+INFO  22:05:17,555 - #44 se
+INFO  22:05:17,555 - #34 (
+INFO  22:05:17,555 - Obradjuje se metoda se na liniji 10
+INFO  22:05:17,555 - #35 )
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #11 return
+INFO  22:05:17,555 - #43 5
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #44 Pom
+INFO  22:05:17,555 - #44 t
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - Deklarisana promenljiva t na liniji 12
+INFO  22:05:17,555 - #44 Klasa
+INFO  22:05:17,555 - #44 k1
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - Deklarisana promenljiva k1 na liniji 12
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #12 void
+INFO  22:05:17,555 - #44 main
+INFO  22:05:17,555 - #34 (
+INFO  22:05:17,555 - Obradjuje se funkcija main na liniji 14
+INFO  22:05:17,555 - #35 )
+INFO  22:05:17,555 - #44 int
+INFO  22:05:17,555 - #44 g
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - Deklarisana promenljiva g na liniji 14
+INFO  22:05:17,555 - #38 {
+INFO  22:05:17,555 - #44 k1
+INFO  22:05:17,555 - #28 =
+INFO  22:05:17,555 - #44 t
+INFO  22:05:17,555 - #31 ;
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - #39 }
+INFO  22:05:17,555 - GlobalVar = 2
+INFO  22:05:17,555 - GlobalConst = 0
+INFO  22:05:17,555 - LocalMainVar = 1
+INFO  22:05:17,555 - GlobalArray = 0
+INFO  22:05:17,555 - FuncProg = 1
+INFO  22:05:17,555 - Blocks = 3
+INFO  22:05:17,555 - FuncCalls = 0
+INFO  22:05:17,555 - FormalArg = 0
+INFO  22:05:17,555 - DefClass = 2
+INFO  22:05:17,555 - DefMClass = 2
+INFO  22:05:17,555 - DeclFClass = 0
+INFO  22:05:17,570 - Parsiranje uspesno

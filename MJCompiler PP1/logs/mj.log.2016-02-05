@@ -1,0 +1,1270 @@
+INFO  21:04:33,448 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:04:33,466 - #2 program
+INFO  21:04:33,466 - #42 Prilepi
+INFO  21:04:33,466 - #42 int
+INFO  21:04:33,468 - #42 a
+INFO  21:04:33,468 - #32 ,
+INFO  21:04:33,468 - Deklarisana promenljiva a na liniji 6
+INFO  21:04:33,469 - #42 b
+INFO  21:04:33,469 - #31 ;
+INFO  21:04:33,469 - Deklarisana promenljiva b na liniji 6
+INFO  21:04:33,469 - #42 int
+INFO  21:04:33,469 - #42 manji
+INFO  21:04:33,469 - #32 ,
+INFO  21:04:33,469 - Deklarisana promenljiva manji na liniji 7
+INFO  21:04:33,469 - #42 veci
+INFO  21:04:33,469 - #32 ,
+INFO  21:04:33,470 - Deklarisana promenljiva veci na liniji 7
+INFO  21:04:33,470 - #42 step
+INFO  21:04:33,470 - #32 ,
+INFO  21:04:33,503 - Deklarisana promenljiva step na liniji 7
+INFO  21:04:33,503 - #42 pom
+INFO  21:04:33,503 - #32 ,
+INFO  21:04:33,503 - Deklarisana promenljiva pom na liniji 7
+INFO  21:04:33,503 - #42 novi
+INFO  21:04:33,503 - #31 ;
+INFO  21:04:33,503 - Deklarisana promenljiva novi na liniji 7
+INFO  21:04:33,503 - #6 const
+INFO  21:04:33,503 - #42 int
+INFO  21:04:33,503 - #42 x
+INFO  21:04:33,504 - #28 =
+INFO  21:04:33,504 - #41 10
+INFO  21:04:33,504 - #31 ;
+INFO  21:04:33,504 - Deklarisana konstanta x na liniji 8
+INFO  21:04:33,504 - #38 {
+INFO  21:04:33,504 - #12 void
+INFO  21:04:33,504 - #42 main
+INFO  21:04:33,504 - #34 (
+INFO  21:04:33,504 - Obradjuje se funkcija main na liniji 11
+INFO  21:04:33,504 - #35 )
+INFO  21:04:33,504 - #38 {
+INFO  21:04:33,505 - #10 read
+INFO  21:04:33,505 - #34 (
+INFO  21:04:33,505 - #42 a
+INFO  21:04:33,505 - #35 )
+INFO  21:04:33,505 - #31 ;
+INFO  21:04:33,505 - #10 read
+INFO  21:04:33,505 - #34 (
+INFO  21:04:33,505 - #42 b
+INFO  21:04:33,505 - #35 )
+INFO  21:04:33,505 - #31 ;
+INFO  21:04:33,505 - #42 novi
+INFO  21:04:33,505 - #28 =
+INFO  21:04:33,505 - #41 0
+INFO  21:04:33,506 - #31 ;
+INFO  21:04:33,506 - #7 if
+INFO  21:04:33,506 - #34 (
+INFO  21:04:33,506 - #42 a
+INFO  21:04:33,507 - #24 <
+INFO  21:04:33,507 - #42 b
+INFO  21:04:33,507 - #35 )
+INFO  21:04:33,507 - #38 {
+INFO  21:04:33,507 - #42 manji
+INFO  21:04:33,507 - #28 =
+INFO  21:04:33,507 - #42 a
+INFO  21:04:33,507 - #31 ;
+INFO  21:04:33,507 - #42 veci
+INFO  21:04:33,507 - #28 =
+INFO  21:04:33,507 - #42 b
+INFO  21:04:33,508 - #31 ;
+INFO  21:04:33,508 - #39 }
+INFO  21:04:33,508 - #5 else
+INFO  21:04:33,508 - #38 {
+INFO  21:04:33,508 - #42 manji
+INFO  21:04:33,508 - #28 =
+INFO  21:04:33,508 - #42 b
+INFO  21:04:33,508 - #31 ;
+INFO  21:04:33,508 - #42 veci
+INFO  21:04:33,508 - #28 =
+INFO  21:04:33,508 - #42 a
+INFO  21:04:33,508 - #31 ;
+INFO  21:04:33,509 - #39 }
+INFO  21:04:33,509 - #42 pom
+INFO  21:04:33,509 - #28 =
+INFO  21:04:33,509 - #42 manji
+INFO  21:04:33,509 - #31 ;
+INFO  21:04:33,509 - #13 while
+INFO  21:04:33,509 - #34 (
+INFO  21:04:33,509 - #42 pom
+INFO  21:04:33,509 - #22 >
+INFO  21:04:33,509 - #41 0
+INFO  21:04:33,509 - #35 )
+INFO  21:04:33,510 - #38 {
+INFO  21:04:33,510 - #42 pom
+INFO  21:04:33,510 - #28 =
+INFO  21:04:33,510 - #42 pom
+INFO  21:04:33,510 - #18 /
+INFO  21:04:33,510 - #42 x
+INFO  21:04:33,510 - #31 ;
+INFO  21:04:33,510 - #42 step
+INFO  21:04:33,510 - #28 =
+INFO  21:04:33,510 - #42 step
+INFO  21:04:33,510 - #17 *
+INFO  21:04:33,511 - #42 x
+INFO  21:04:33,511 - #31 ;
+INFO  21:04:33,511 - #39 }
+INFO  21:04:33,511 - #42 novi
+INFO  21:04:33,511 - #28 =
+INFO  21:04:33,511 - #42 veci
+INFO  21:04:33,511 - #17 *
+INFO  21:04:33,511 - #42 step
+INFO  21:04:33,511 - #15 +
+INFO  21:04:33,511 - #42 manji
+INFO  21:04:33,511 - #31 ;
+INFO  21:04:33,512 - #39 }
+INFO  21:04:33,512 - #39 }
+INFO  21:04:33,512 - GlobalVar = 7
+INFO  21:04:33,512 - GlobalConst = 1
+INFO  21:04:33,512 - LocalMainVar = 0
+INFO  21:04:33,512 - GlobalArray = 0
+INFO  21:04:33,512 - FuncProg = 1
+INFO  21:04:33,512 - Blocks = 4
+INFO  21:04:33,512 - FuncCalls = 2
+INFO  21:04:33,512 - FormalArg = 0
+INFO  21:04:33,512 - DefClass = 0
+INFO  21:04:33,512 - DefMClass = 0
+INFO  21:04:33,513 - DeclFClass = 0
+INFO  21:04:33,517 - Parsiranje uspesno
+INFO  21:07:28,893 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:07:28,914 - #2 program
+INFO  21:07:28,914 - #42 Prilepi
+INFO  21:07:28,914 - #42 int
+INFO  21:07:28,915 - #42 a
+INFO  21:07:28,916 - #32 ,
+INFO  21:07:28,916 - Deklarisana promenljiva a na liniji 6
+INFO  21:07:28,916 - #42 b
+INFO  21:07:28,916 - #31 ;
+INFO  21:07:28,916 - Deklarisana promenljiva b na liniji 6
+INFO  21:07:28,916 - #42 int
+INFO  21:07:28,916 - #42 manji
+INFO  21:07:28,916 - #32 ,
+INFO  21:07:28,916 - Deklarisana promenljiva manji na liniji 7
+INFO  21:07:28,917 - #42 veci
+INFO  21:07:28,917 - #32 ,
+INFO  21:07:28,917 - Deklarisana promenljiva veci na liniji 7
+INFO  21:07:28,917 - #42 step
+INFO  21:07:28,917 - #32 ,
+INFO  21:07:28,917 - Deklarisana promenljiva step na liniji 7
+INFO  21:07:28,917 - #42 pom
+INFO  21:07:28,917 - #32 ,
+INFO  21:07:28,917 - Deklarisana promenljiva pom na liniji 7
+INFO  21:07:28,917 - #42 novi
+INFO  21:07:28,917 - #31 ;
+INFO  21:07:28,917 - Deklarisana promenljiva novi na liniji 7
+INFO  21:07:28,917 - #6 const
+INFO  21:07:28,918 - #42 int
+INFO  21:07:28,918 - #42 x
+INFO  21:07:28,918 - #28 =
+INFO  21:07:28,918 - #41 10
+INFO  21:07:28,918 - #31 ;
+INFO  21:07:28,918 - Deklarisana konstanta x na liniji 8
+INFO  21:07:28,918 - #38 {
+INFO  21:07:28,918 - #12 void
+INFO  21:07:28,918 - #42 main
+INFO  21:07:28,918 - #34 (
+INFO  21:07:28,918 - Obradjuje se funkcija main na liniji 11
+INFO  21:07:28,919 - #35 )
+INFO  21:07:28,919 - #38 {
+INFO  21:07:28,919 - #10 read
+INFO  21:07:28,919 - #34 (
+INFO  21:07:28,919 - #42 a
+INFO  21:07:28,919 - #35 )
+INFO  21:07:28,919 - #31 ;
+INFO  21:07:28,919 - #10 read
+INFO  21:07:28,919 - #34 (
+INFO  21:07:28,919 - #42 b
+INFO  21:07:28,920 - #35 )
+INFO  21:07:28,920 - #31 ;
+INFO  21:07:28,920 - #42 novi
+INFO  21:07:28,920 - #28 =
+INFO  21:07:28,920 - #41 0
+INFO  21:07:28,920 - #31 ;
+INFO  21:07:28,921 - #7 if
+INFO  21:07:28,921 - #34 (
+INFO  21:07:28,921 - #42 a
+INFO  21:07:28,921 - #24 <
+INFO  21:07:28,921 - #42 b
+INFO  21:07:28,921 - #35 )
+INFO  21:07:28,921 - #38 {
+INFO  21:07:28,921 - #42 manji
+INFO  21:07:28,921 - #28 =
+INFO  21:07:28,921 - #42 a
+INFO  21:07:28,921 - #31 ;
+INFO  21:07:28,922 - #42 veci
+INFO  21:07:28,922 - #28 =
+INFO  21:07:28,922 - #42 b
+INFO  21:07:28,922 - #31 ;
+INFO  21:07:28,922 - #39 }
+INFO  21:07:28,922 - #5 else
+INFO  21:07:28,922 - #38 {
+INFO  21:07:28,922 - #42 manji
+INFO  21:07:28,922 - #28 =
+INFO  21:07:28,922 - #42 b
+INFO  21:07:28,922 - #31 ;
+INFO  21:07:28,923 - #42 veci
+INFO  21:07:28,923 - #28 =
+INFO  21:07:28,923 - #42 a
+INFO  21:07:28,923 - #31 ;
+INFO  21:07:28,923 - #39 }
+INFO  21:07:28,923 - #42 pom
+INFO  21:07:28,923 - #28 =
+INFO  21:07:28,923 - #42 manji
+INFO  21:07:28,923 - #31 ;
+INFO  21:07:28,924 - #13 while
+INFO  21:07:28,924 - #34 (
+INFO  21:07:28,924 - #42 pom
+INFO  21:07:28,924 - #22 >
+INFO  21:07:28,924 - #41 0
+INFO  21:07:28,924 - #35 )
+INFO  21:07:28,924 - #38 {
+INFO  21:07:28,924 - #42 pom
+INFO  21:07:28,924 - #28 =
+INFO  21:07:28,924 - #42 pom
+INFO  21:07:28,925 - #18 /
+INFO  21:07:28,925 - #42 x
+INFO  21:07:28,925 - #31 ;
+INFO  21:07:28,925 - #42 step
+INFO  21:07:28,925 - #28 =
+INFO  21:07:28,925 - #42 step
+INFO  21:07:28,925 - #17 *
+INFO  21:07:28,925 - #42 x
+INFO  21:07:28,925 - #31 ;
+INFO  21:07:28,926 - #39 }
+INFO  21:07:28,926 - #42 novi
+INFO  21:07:28,926 - #28 =
+INFO  21:07:28,926 - #42 veci
+INFO  21:07:28,926 - #17 *
+INFO  21:07:28,926 - #42 step
+INFO  21:07:28,926 - #15 +
+INFO  21:07:28,926 - #42 manji
+INFO  21:07:28,926 - #31 ;
+INFO  21:07:28,927 - #39 }
+INFO  21:07:28,927 - #39 }
+INFO  21:07:28,927 - GlobalVar = 7
+INFO  21:07:28,927 - GlobalConst = 1
+INFO  21:07:28,927 - LocalMainVar = 0
+INFO  21:07:28,927 - GlobalArray = 0
+INFO  21:07:28,927 - FuncProg = 1
+INFO  21:07:28,927 - Blocks = 4
+INFO  21:07:28,927 - FuncCalls = 2
+INFO  21:07:28,927 - FormalArg = 0
+INFO  21:07:28,928 - DefClass = 0
+INFO  21:07:28,928 - DefMClass = 0
+INFO  21:07:28,928 - DeclFClass = 0
+INFO  21:07:28,930 - Parsiranje uspesno
+INFO  21:16:41,172 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:16:41,189 - #2 program
+INFO  21:16:41,189 - #42 Prilepi
+INFO  21:16:41,189 - #42 int
+INFO  21:16:41,190 - #42 a
+INFO  21:16:41,191 - #32 ,
+INFO  21:16:41,191 - Deklarisana promenljiva a na liniji 6
+INFO  21:16:41,191 - #42 b
+INFO  21:16:41,191 - #31 ;
+INFO  21:16:41,191 - Deklarisana promenljiva b na liniji 6
+INFO  21:16:41,191 - #42 int
+INFO  21:16:41,191 - #42 manji
+INFO  21:16:41,191 - #32 ,
+INFO  21:16:41,192 - Deklarisana promenljiva manji na liniji 7
+INFO  21:16:41,192 - #42 veci
+INFO  21:16:41,192 - #32 ,
+INFO  21:16:41,192 - Deklarisana promenljiva veci na liniji 7
+INFO  21:16:41,192 - #42 step
+INFO  21:16:41,192 - #32 ,
+INFO  21:16:41,192 - Deklarisana promenljiva step na liniji 7
+INFO  21:16:41,192 - #42 pom
+INFO  21:16:41,192 - #32 ,
+INFO  21:16:41,192 - Deklarisana promenljiva pom na liniji 7
+INFO  21:16:41,192 - #42 novi
+INFO  21:16:41,192 - #31 ;
+INFO  21:16:41,193 - Deklarisana promenljiva novi na liniji 7
+INFO  21:16:41,193 - #6 const
+INFO  21:16:41,193 - #42 int
+INFO  21:16:41,193 - #42 x
+INFO  21:16:41,193 - #28 =
+INFO  21:16:41,193 - #41 10
+INFO  21:16:41,193 - #31 ;
+INFO  21:16:41,193 - Deklarisana konstanta x na liniji 8
+INFO  21:16:41,193 - #38 {
+INFO  21:16:41,193 - #12 void
+INFO  21:16:41,193 - #42 main
+INFO  21:16:41,194 - #34 (
+INFO  21:16:41,194 - Obradjuje se funkcija main na liniji 11
+INFO  21:16:41,194 - #35 )
+INFO  21:16:41,194 - #38 {
+INFO  21:16:41,194 - #10 read
+INFO  21:16:41,194 - #34 (
+INFO  21:16:41,194 - #42 a
+INFO  21:16:41,194 - #35 )
+INFO  21:16:41,194 - #31 ;
+INFO  21:16:41,194 - #10 read
+INFO  21:16:41,194 - #34 (
+INFO  21:16:41,194 - #42 b
+INFO  21:16:41,194 - #35 )
+INFO  21:16:41,195 - #31 ;
+INFO  21:16:41,195 - #42 novi
+INFO  21:16:41,195 - #28 =
+INFO  21:16:41,195 - #41 0
+INFO  21:16:41,195 - #31 ;
+INFO  21:16:41,195 - #7 if
+INFO  21:16:41,196 - #34 (
+INFO  21:16:41,196 - #42 a
+INFO  21:16:41,196 - #24 <
+INFO  21:16:41,196 - #42 b
+INFO  21:16:41,196 - #35 )
+INFO  21:16:41,196 - #38 {
+INFO  21:16:41,196 - #42 manji
+INFO  21:16:41,196 - #28 =
+INFO  21:16:41,196 - #42 a
+INFO  21:16:41,196 - #31 ;
+INFO  21:16:41,196 - #42 veci
+INFO  21:16:41,197 - #28 =
+INFO  21:16:41,197 - #42 b
+INFO  21:16:41,197 - #31 ;
+INFO  21:16:41,197 - #39 }
+INFO  21:16:41,197 - #5 else
+INFO  21:16:41,197 - #38 {
+INFO  21:16:41,197 - #42 manji
+INFO  21:16:41,197 - #28 =
+INFO  21:16:41,197 - #42 b
+INFO  21:16:41,197 - #31 ;
+INFO  21:16:41,197 - #42 veci
+INFO  21:16:41,198 - #28 =
+INFO  21:16:41,198 - #42 a
+INFO  21:16:41,198 - #31 ;
+INFO  21:16:41,198 - #39 }
+INFO  21:16:41,198 - #42 pom
+INFO  21:16:41,198 - #28 =
+INFO  21:16:41,198 - #42 manji
+INFO  21:16:41,198 - #31 ;
+INFO  21:16:41,198 - #13 while
+INFO  21:16:41,198 - #34 (
+INFO  21:16:41,198 - #42 pom
+INFO  21:16:41,198 - #22 >
+INFO  21:16:41,199 - #41 0
+INFO  21:16:41,199 - #35 )
+INFO  21:16:41,199 - #38 {
+INFO  21:16:41,199 - #42 pom
+INFO  21:16:41,199 - #28 =
+INFO  21:16:41,199 - #42 pom
+INFO  21:16:41,199 - #18 /
+INFO  21:16:41,199 - #42 x
+INFO  21:16:41,199 - #31 ;
+INFO  21:16:41,200 - #42 step
+INFO  21:16:41,200 - #28 =
+INFO  21:16:41,200 - #42 step
+INFO  21:16:41,200 - #17 *
+INFO  21:16:41,200 - #42 x
+INFO  21:16:41,200 - #31 ;
+INFO  21:16:41,200 - #39 }
+INFO  21:16:41,200 - #42 novi
+INFO  21:16:41,200 - #28 =
+INFO  21:16:41,201 - #42 veci
+INFO  21:16:41,201 - #17 *
+INFO  21:16:41,201 - #42 step
+INFO  21:16:41,201 - #15 +
+INFO  21:16:41,201 - #42 manji
+INFO  21:16:41,201 - #31 ;
+INFO  21:16:41,201 - #39 }
+INFO  21:16:41,201 - #39 }
+INFO  21:16:41,202 - GlobalVar = 7
+INFO  21:16:41,202 - GlobalConst = 1
+INFO  21:16:41,202 - LocalMainVar = 0
+INFO  21:16:41,202 - GlobalArray = 0
+INFO  21:16:41,202 - FuncProg = 1
+INFO  21:16:41,202 - Blocks = 4
+INFO  21:16:41,202 - FuncCalls = 2
+INFO  21:16:41,202 - FormalArg = 0
+INFO  21:16:41,202 - DefClass = 0
+INFO  21:16:41,202 - DefMClass = 0
+INFO  21:16:41,202 - DeclFClass = 0
+INFO  21:16:41,204 - Parsiranje uspesno
+INFO  21:28:34,658 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:28:34,675 - #2 program
+INFO  21:28:34,675 - #42 Prilepi
+INFO  21:28:34,676 - #42 int
+INFO  21:28:34,677 - #42 a
+INFO  21:28:34,677 - #32 ,
+INFO  21:28:34,677 - Deklarisana promenljiva a na liniji 6
+INFO  21:28:34,678 - #42 b
+INFO  21:28:34,678 - #31 ;
+INFO  21:28:34,678 - Deklarisana promenljiva b na liniji 6
+INFO  21:28:34,678 - #42 int
+INFO  21:28:34,678 - #42 manji
+INFO  21:28:34,678 - #32 ,
+INFO  21:28:34,678 - Deklarisana promenljiva manji na liniji 7
+INFO  21:28:34,678 - #42 veci
+INFO  21:28:34,678 - #32 ,
+INFO  21:28:34,678 - Deklarisana promenljiva veci na liniji 7
+INFO  21:28:34,678 - #42 step
+INFO  21:28:34,679 - #32 ,
+INFO  21:28:34,679 - Deklarisana promenljiva step na liniji 7
+INFO  21:28:34,679 - #42 pom
+INFO  21:28:34,679 - #32 ,
+INFO  21:28:34,679 - Deklarisana promenljiva pom na liniji 7
+INFO  21:28:34,679 - #42 novi
+INFO  21:28:34,679 - #31 ;
+INFO  21:28:34,679 - Deklarisana promenljiva novi na liniji 7
+INFO  21:28:34,679 - #6 const
+INFO  21:28:34,679 - #42 int
+INFO  21:28:34,679 - #42 x
+INFO  21:28:34,679 - #28 =
+INFO  21:28:34,680 - #41 10
+INFO  21:28:34,680 - #31 ;
+INFO  21:28:34,680 - Deklarisana konstanta x na liniji 8
+INFO  21:28:34,680 - #38 {
+INFO  21:28:34,680 - #12 void
+INFO  21:28:34,680 - #42 main
+INFO  21:28:34,680 - #34 (
+INFO  21:28:34,680 - Obradjuje se funkcija main na liniji 11
+INFO  21:28:34,680 - #35 )
+INFO  21:28:34,681 - #38 {
+INFO  21:28:34,681 - #10 read
+INFO  21:28:34,681 - #34 (
+INFO  21:28:34,681 - #42 a
+INFO  21:28:34,681 - #35 )
+INFO  21:28:34,681 - #31 ;
+INFO  21:28:34,681 - #10 read
+INFO  21:28:34,681 - #34 (
+INFO  21:28:34,681 - #42 b
+INFO  21:28:34,681 - #35 )
+INFO  21:28:34,681 - #31 ;
+INFO  21:28:34,681 - #42 novi
+INFO  21:28:34,681 - #28 =
+INFO  21:28:34,682 - #41 0
+INFO  21:28:34,682 - #31 ;
+INFO  21:28:34,682 - #7 if
+INFO  21:28:34,682 - #34 (
+INFO  21:28:34,682 - #42 a
+INFO  21:28:34,682 - #24 <
+INFO  21:28:34,683 - #42 b
+INFO  21:28:34,683 - #35 )
+INFO  21:28:34,683 - #38 {
+INFO  21:28:34,683 - #42 manji
+INFO  21:28:34,683 - #28 =
+INFO  21:28:34,683 - #42 a
+INFO  21:28:34,683 - #31 ;
+INFO  21:28:34,683 - #42 veci
+INFO  21:28:34,683 - #28 =
+INFO  21:28:34,683 - #42 b
+INFO  21:28:34,683 - #31 ;
+INFO  21:28:34,684 - #39 }
+INFO  21:28:34,684 - #5 else
+INFO  21:28:34,684 - #38 {
+INFO  21:28:34,684 - #42 manji
+INFO  21:28:34,684 - #28 =
+INFO  21:28:34,684 - #42 b
+INFO  21:28:34,684 - #31 ;
+INFO  21:28:34,684 - #42 veci
+INFO  21:28:34,684 - #28 =
+INFO  21:28:34,684 - #42 a
+INFO  21:28:34,684 - #31 ;
+INFO  21:28:34,685 - #39 }
+INFO  21:28:34,685 - #42 pom
+INFO  21:28:34,685 - #28 =
+INFO  21:28:34,685 - #42 manji
+INFO  21:28:34,685 - #31 ;
+INFO  21:28:34,685 - #13 while
+INFO  21:28:34,685 - #34 (
+INFO  21:28:34,685 - #42 pom
+INFO  21:28:34,685 - #22 >
+INFO  21:28:34,685 - #41 0
+INFO  21:28:34,685 - #35 )
+INFO  21:28:34,685 - #38 {
+INFO  21:28:34,686 - #42 pom
+INFO  21:28:34,686 - #28 =
+INFO  21:28:34,686 - #42 pom
+INFO  21:28:34,686 - #18 /
+INFO  21:28:34,686 - #42 x
+INFO  21:28:34,686 - #31 ;
+INFO  21:28:34,686 - #42 step
+INFO  21:28:34,686 - #28 =
+INFO  21:28:34,686 - #42 step
+INFO  21:28:34,687 - #17 *
+INFO  21:28:34,687 - #42 x
+INFO  21:28:34,687 - #31 ;
+INFO  21:28:34,687 - #39 }
+INFO  21:28:34,687 - #42 novi
+INFO  21:28:34,687 - #28 =
+INFO  21:28:34,687 - #42 veci
+INFO  21:28:34,687 - #17 *
+INFO  21:28:34,687 - #42 step
+INFO  21:28:34,688 - #15 +
+INFO  21:28:34,688 - #42 manji
+INFO  21:28:34,688 - #31 ;
+INFO  21:28:34,688 - #39 }
+INFO  21:28:34,688 - #39 }
+INFO  21:28:34,688 - GlobalVar = 7
+INFO  21:28:34,688 - GlobalConst = 1
+INFO  21:28:34,688 - LocalMainVar = 0
+INFO  21:28:34,689 - GlobalArray = 0
+INFO  21:28:34,689 - FuncProg = 1
+INFO  21:28:34,689 - Blocks = 4
+INFO  21:28:34,689 - FuncCalls = 2
+INFO  21:28:34,689 - FormalArg = 0
+INFO  21:28:34,689 - DefClass = 0
+INFO  21:28:34,689 - DefMClass = 0
+INFO  21:28:34,689 - DeclFClass = 0
+INFO  21:28:34,694 - Parsiranje uspesno
+INFO  21:36:38,537 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:36:38,555 - #2 program
+INFO  21:36:38,555 - #42 Prilepi
+INFO  21:36:38,555 - #42 int
+INFO  21:36:38,556 - #42 a
+INFO  21:36:38,557 - #32 ,
+INFO  21:36:38,557 - Deklarisana promenljiva a na liniji 6
+INFO  21:36:38,557 - #42 b
+INFO  21:36:38,557 - #31 ;
+INFO  21:36:38,557 - Deklarisana promenljiva b na liniji 6
+INFO  21:36:38,557 - #42 int
+INFO  21:36:38,557 - #42 manji
+INFO  21:36:38,557 - #32 ,
+INFO  21:36:38,557 - Deklarisana promenljiva manji na liniji 7
+INFO  21:36:38,557 - #42 veci
+INFO  21:36:38,557 - #32 ,
+INFO  21:36:38,558 - Deklarisana promenljiva veci na liniji 7
+INFO  21:36:38,558 - #42 step
+INFO  21:36:38,558 - #32 ,
+INFO  21:36:38,558 - Deklarisana promenljiva step na liniji 7
+INFO  21:36:38,558 - #42 pom
+INFO  21:36:38,558 - #32 ,
+INFO  21:36:38,558 - Deklarisana promenljiva pom na liniji 7
+INFO  21:36:38,558 - #42 novi
+INFO  21:36:38,558 - #31 ;
+INFO  21:36:38,558 - Deklarisana promenljiva novi na liniji 7
+INFO  21:36:38,558 - #6 const
+INFO  21:36:38,558 - #42 int
+INFO  21:36:38,558 - #42 x
+INFO  21:36:38,559 - #28 =
+INFO  21:36:38,559 - #41 10
+INFO  21:36:38,559 - #31 ;
+INFO  21:36:38,559 - Deklarisana konstanta x na liniji 8
+INFO  21:36:38,559 - #38 {
+INFO  21:36:38,559 - #12 void
+INFO  21:36:38,559 - #42 main
+INFO  21:36:38,559 - #34 (
+INFO  21:36:38,559 - Obradjuje se funkcija main na liniji 11
+INFO  21:36:38,560 - #35 )
+INFO  21:36:38,560 - #38 {
+INFO  21:36:38,560 - #10 read
+INFO  21:36:38,560 - #34 (
+INFO  21:36:38,560 - #42 a
+INFO  21:36:38,560 - #35 )
+INFO  21:36:38,560 - #31 ;
+INFO  21:36:38,560 - #10 read
+INFO  21:36:38,560 - #34 (
+INFO  21:36:38,560 - #42 b
+INFO  21:36:38,560 - #35 )
+INFO  21:36:38,560 - #31 ;
+INFO  21:36:38,560 - #42 novi
+INFO  21:36:38,561 - #28 =
+INFO  21:36:38,561 - #41 0
+INFO  21:36:38,561 - #31 ;
+INFO  21:36:38,561 - #7 if
+INFO  21:36:38,561 - #34 (
+INFO  21:36:38,561 - #42 a
+INFO  21:36:38,562 - #24 <
+INFO  21:36:38,562 - #42 b
+INFO  21:36:38,562 - #35 )
+INFO  21:36:38,562 - #38 {
+INFO  21:36:38,562 - #42 manji
+INFO  21:36:38,562 - #28 =
+INFO  21:36:38,562 - #42 a
+INFO  21:36:38,562 - #31 ;
+INFO  21:36:38,562 - #42 veci
+INFO  21:36:38,562 - #28 =
+INFO  21:36:38,563 - #42 b
+INFO  21:36:38,563 - #31 ;
+INFO  21:36:38,563 - #39 }
+INFO  21:36:38,563 - #5 else
+INFO  21:36:38,563 - #38 {
+INFO  21:36:38,563 - #42 manji
+INFO  21:36:38,563 - #28 =
+INFO  21:36:38,563 - #42 b
+INFO  21:36:38,563 - #31 ;
+INFO  21:36:38,564 - #42 veci
+INFO  21:36:38,564 - #28 =
+INFO  21:36:38,564 - #42 a
+INFO  21:36:38,564 - #31 ;
+INFO  21:36:38,564 - #39 }
+INFO  21:36:38,564 - #42 pom
+INFO  21:36:38,564 - #28 =
+INFO  21:36:38,564 - #42 manji
+INFO  21:36:38,564 - #31 ;
+INFO  21:36:38,564 - #13 while
+INFO  21:36:38,565 - #34 (
+INFO  21:36:38,565 - #42 pom
+INFO  21:36:38,565 - #22 >
+INFO  21:36:38,565 - #41 0
+INFO  21:36:38,565 - #35 )
+INFO  21:36:38,565 - #38 {
+INFO  21:36:38,565 - #42 pom
+INFO  21:36:38,566 - #28 =
+INFO  21:36:38,566 - #42 pom
+INFO  21:36:38,566 - #18 /
+INFO  21:36:38,566 - #42 x
+INFO  21:36:38,566 - #31 ;
+INFO  21:36:38,566 - #42 step
+INFO  21:36:38,566 - #28 =
+INFO  21:36:38,567 - #42 step
+INFO  21:36:38,567 - #17 *
+INFO  21:36:38,567 - #42 x
+INFO  21:36:38,567 - #31 ;
+INFO  21:36:38,567 - #39 }
+INFO  21:36:38,567 - #42 novi
+INFO  21:36:38,567 - #28 =
+INFO  21:36:38,568 - #42 veci
+INFO  21:36:38,568 - #17 *
+INFO  21:36:38,568 - #42 step
+INFO  21:36:38,568 - #15 +
+INFO  21:36:38,568 - #42 manji
+INFO  21:36:38,568 - #31 ;
+INFO  21:36:38,568 - #39 }
+INFO  21:36:38,568 - #39 }
+INFO  21:36:38,569 - GlobalVar = 7
+INFO  21:36:38,569 - GlobalConst = 1
+INFO  21:36:38,569 - LocalMainVar = 0
+INFO  21:36:38,569 - GlobalArray = 0
+INFO  21:36:38,569 - FuncProg = 1
+INFO  21:36:38,569 - Blocks = 4
+INFO  21:36:38,569 - FuncCalls = 2
+INFO  21:36:38,569 - FormalArg = 0
+INFO  21:36:38,570 - DefClass = 0
+INFO  21:36:38,570 - DefMClass = 0
+INFO  21:36:38,570 - DeclFClass = 0
+INFO  21:36:38,574 - Parsiranje uspesno
+INFO  21:42:22,263 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:42:22,284 - #2 program
+INFO  21:42:22,284 - #42 Prilepi
+INFO  21:42:22,284 - #42 int
+INFO  21:42:22,286 - #42 a
+INFO  21:42:22,287 - #32 ,
+INFO  21:42:22,287 - Deklarisana promenljiva a na liniji 6
+INFO  21:42:22,287 - #42 b
+INFO  21:42:22,287 - #31 ;
+INFO  21:42:22,287 - Deklarisana promenljiva b na liniji 6
+INFO  21:42:22,287 - #42 int
+INFO  21:42:22,288 - #42 manji
+INFO  21:42:22,288 - #32 ,
+INFO  21:42:22,288 - Deklarisana promenljiva manji na liniji 7
+INFO  21:42:22,288 - #42 veci
+INFO  21:42:22,288 - #32 ,
+INFO  21:42:22,288 - Deklarisana promenljiva veci na liniji 7
+INFO  21:42:22,288 - #42 step
+INFO  21:42:22,289 - #32 ,
+INFO  21:42:22,289 - Deklarisana promenljiva step na liniji 7
+INFO  21:42:22,289 - #42 pom
+INFO  21:42:22,289 - #32 ,
+INFO  21:42:22,289 - Deklarisana promenljiva pom na liniji 7
+INFO  21:42:22,289 - #42 novi
+INFO  21:42:22,289 - #31 ;
+INFO  21:42:22,290 - Deklarisana promenljiva novi na liniji 7
+INFO  21:42:22,290 - #6 const
+INFO  21:42:22,290 - #42 int
+INFO  21:42:22,290 - #42 x
+INFO  21:42:22,290 - #28 =
+INFO  21:42:22,290 - #41 10
+INFO  21:42:22,291 - #31 ;
+INFO  21:42:22,291 - Deklarisana konstanta x na liniji 8
+INFO  21:42:22,291 - #38 {
+INFO  21:42:22,291 - #12 void
+INFO  21:42:22,291 - #42 main
+INFO  21:42:22,291 - #34 (
+INFO  21:42:22,291 - Obradjuje se funkcija main na liniji 11
+INFO  21:42:22,291 - #35 )
+INFO  21:42:22,292 - #38 {
+INFO  21:42:22,292 - #10 read
+INFO  21:42:22,292 - #34 (
+INFO  21:42:22,292 - #42 a
+INFO  21:42:22,292 - #35 )
+INFO  21:42:22,292 - #31 ;
+INFO  21:42:22,292 - #10 read
+INFO  21:42:22,292 - #34 (
+INFO  21:42:22,292 - #42 b
+INFO  21:42:22,292 - #35 )
+INFO  21:42:22,293 - #31 ;
+INFO  21:42:22,293 - #42 novi
+INFO  21:42:22,293 - #28 =
+INFO  21:42:22,293 - #41 0
+INFO  21:42:22,293 - #31 ;
+INFO  21:42:22,294 - #7 if
+INFO  21:42:22,294 - #34 (
+INFO  21:42:22,294 - #42 a
+INFO  21:42:22,294 - #24 <
+INFO  21:42:22,294 - #42 b
+INFO  21:42:22,294 - #35 )
+INFO  21:42:22,294 - #38 {
+INFO  21:42:22,294 - #42 manji
+INFO  21:42:22,295 - #28 =
+INFO  21:42:22,295 - #42 a
+INFO  21:42:22,295 - #31 ;
+INFO  21:42:22,295 - #42 veci
+INFO  21:42:22,295 - #28 =
+INFO  21:42:22,295 - #42 b
+INFO  21:42:22,295 - #31 ;
+INFO  21:42:22,295 - #39 }
+INFO  21:42:22,295 - #5 else
+INFO  21:42:22,296 - #38 {
+INFO  21:42:22,296 - #42 manji
+INFO  21:42:22,296 - #28 =
+INFO  21:42:22,296 - #42 b
+INFO  21:42:22,296 - #31 ;
+INFO  21:42:22,296 - #42 veci
+INFO  21:42:22,296 - #28 =
+INFO  21:42:22,296 - #42 a
+INFO  21:42:22,296 - #31 ;
+INFO  21:42:22,296 - #39 }
+INFO  21:42:22,297 - #42 pom
+INFO  21:42:22,297 - #28 =
+INFO  21:42:22,297 - #42 manji
+INFO  21:42:22,297 - #31 ;
+INFO  21:42:22,297 - #13 while
+INFO  21:42:22,297 - #34 (
+INFO  21:42:22,297 - #42 pom
+INFO  21:42:22,297 - #22 >
+INFO  21:42:22,297 - #41 0
+INFO  21:42:22,297 - #35 )
+INFO  21:42:22,298 - #38 {
+INFO  21:42:22,298 - #42 pom
+INFO  21:42:22,298 - #28 =
+INFO  21:42:22,298 - #42 pom
+INFO  21:42:22,298 - #18 /
+INFO  21:42:22,298 - #42 x
+INFO  21:42:22,298 - #31 ;
+INFO  21:42:22,298 - #42 step
+INFO  21:42:22,299 - #28 =
+INFO  21:42:22,299 - #42 step
+INFO  21:42:22,299 - #17 *
+INFO  21:42:22,299 - #42 x
+INFO  21:42:22,299 - #31 ;
+INFO  21:42:22,299 - #39 }
+INFO  21:42:22,299 - #42 novi
+INFO  21:42:22,299 - #28 =
+INFO  21:42:22,300 - #42 veci
+INFO  21:42:22,300 - #17 *
+INFO  21:42:22,300 - #42 step
+INFO  21:42:22,300 - #15 +
+INFO  21:42:22,300 - #42 manji
+INFO  21:42:22,300 - #31 ;
+INFO  21:42:22,300 - #39 }
+INFO  21:42:22,301 - #39 }
+INFO  21:42:22,301 - GlobalVar = 7
+INFO  21:42:22,301 - GlobalConst = 1
+INFO  21:42:22,301 - LocalMainVar = 0
+INFO  21:42:22,301 - GlobalArray = 0
+INFO  21:42:22,301 - FuncProg = 1
+INFO  21:42:22,301 - Blocks = 4
+INFO  21:42:22,302 - FuncCalls = 2
+INFO  21:42:22,302 - FormalArg = 0
+INFO  21:42:22,302 - DefClass = 0
+INFO  21:42:22,302 - DefMClass = 0
+INFO  21:42:22,302 - DeclFClass = 0
+INFO  21:42:22,307 - Parsiranje uspesno
+INFO  21:43:34,819 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:43:34,836 - #2 program
+INFO  21:43:34,836 - #42 Prilepi
+INFO  21:43:34,836 - #42 int
+INFO  21:43:34,837 - #42 a
+INFO  21:43:34,838 - #32 ,
+INFO  21:43:34,838 - Deklarisana promenljiva a na liniji 6
+INFO  21:43:34,838 - #42 b
+INFO  21:43:34,838 - #31 ;
+INFO  21:43:34,838 - Deklarisana promenljiva b na liniji 6
+INFO  21:43:34,838 - #42 int
+INFO  21:43:34,838 - #42 manji
+INFO  21:43:34,838 - #32 ,
+INFO  21:43:34,838 - Deklarisana promenljiva manji na liniji 7
+INFO  21:43:34,838 - #42 veci
+INFO  21:43:34,839 - #32 ,
+INFO  21:43:34,839 - Deklarisana promenljiva veci na liniji 7
+INFO  21:43:34,839 - #42 step
+INFO  21:43:34,839 - #32 ,
+INFO  21:43:34,839 - Deklarisana promenljiva step na liniji 7
+INFO  21:43:34,839 - #42 pom
+INFO  21:43:34,839 - #32 ,
+INFO  21:43:34,839 - Deklarisana promenljiva pom na liniji 7
+INFO  21:43:34,839 - #42 novi
+INFO  21:43:34,839 - #31 ;
+INFO  21:43:34,839 - Deklarisana promenljiva novi na liniji 7
+INFO  21:43:34,839 - #6 const
+INFO  21:43:34,839 - #42 int
+INFO  21:43:34,839 - #42 x
+INFO  21:43:34,840 - #28 =
+INFO  21:43:34,840 - #41 10
+INFO  21:43:34,840 - #31 ;
+INFO  21:43:34,840 - Deklarisana konstanta x na liniji 8
+INFO  21:43:34,840 - #38 {
+INFO  21:43:34,840 - #12 void
+INFO  21:43:34,840 - #42 main
+INFO  21:43:34,840 - #34 (
+INFO  21:43:34,841 - Obradjuje se funkcija main na liniji 11
+INFO  21:43:34,841 - #35 )
+INFO  21:43:34,841 - #38 {
+INFO  21:43:34,841 - #10 read
+INFO  21:43:34,841 - #34 (
+INFO  21:43:34,841 - #42 a
+INFO  21:43:34,841 - #35 )
+INFO  21:43:34,841 - #31 ;
+INFO  21:43:34,841 - #10 read
+INFO  21:43:34,841 - #34 (
+INFO  21:43:34,841 - #42 b
+INFO  21:43:34,841 - #35 )
+INFO  21:43:34,842 - #31 ;
+INFO  21:43:34,842 - #42 novi
+INFO  21:43:34,842 - #28 =
+INFO  21:43:34,842 - #41 0
+INFO  21:43:34,842 - #31 ;
+INFO  21:43:34,842 - #7 if
+INFO  21:43:34,843 - #34 (
+INFO  21:43:34,843 - #42 a
+INFO  21:43:34,843 - #24 <
+INFO  21:43:34,843 - #42 b
+INFO  21:43:34,843 - #35 )
+INFO  21:43:34,843 - #38 {
+INFO  21:43:34,843 - #42 manji
+INFO  21:43:34,843 - #28 =
+INFO  21:43:34,843 - #42 a
+INFO  21:43:34,843 - #31 ;
+INFO  21:43:34,843 - #42 veci
+INFO  21:43:34,844 - #28 =
+INFO  21:43:34,844 - #42 b
+INFO  21:43:34,844 - #31 ;
+INFO  21:43:34,844 - #39 }
+INFO  21:43:34,844 - #5 else
+INFO  21:43:34,844 - #38 {
+INFO  21:43:34,844 - #42 manji
+INFO  21:43:34,844 - #28 =
+INFO  21:43:34,844 - #42 b
+INFO  21:43:34,844 - #31 ;
+INFO  21:43:34,844 - #42 veci
+INFO  21:43:34,844 - #28 =
+INFO  21:43:34,845 - #42 a
+INFO  21:43:34,845 - #31 ;
+INFO  21:43:34,845 - #39 }
+INFO  21:43:34,845 - #42 pom
+INFO  21:43:34,845 - #28 =
+INFO  21:43:34,845 - #42 manji
+INFO  21:43:34,845 - #31 ;
+INFO  21:43:34,845 - #13 while
+INFO  21:43:34,845 - #34 (
+INFO  21:43:34,845 - #42 pom
+INFO  21:43:34,846 - #22 >
+INFO  21:43:34,846 - #41 0
+INFO  21:43:34,846 - #35 )
+INFO  21:43:34,846 - #38 {
+INFO  21:43:34,846 - #42 pom
+INFO  21:43:34,846 - #28 =
+INFO  21:43:34,846 - #42 pom
+INFO  21:43:34,846 - #18 /
+INFO  21:43:34,846 - #42 x
+INFO  21:43:34,846 - #31 ;
+INFO  21:43:34,847 - #42 step
+INFO  21:43:34,847 - #28 =
+INFO  21:43:34,847 - #42 step
+INFO  21:43:34,847 - #17 *
+INFO  21:43:34,847 - #42 x
+INFO  21:43:34,847 - #31 ;
+INFO  21:43:34,847 - #39 }
+INFO  21:43:34,847 - #42 novi
+INFO  21:43:34,847 - #28 =
+INFO  21:43:34,848 - #42 veci
+INFO  21:43:34,848 - #17 *
+INFO  21:43:34,848 - #42 step
+INFO  21:43:34,848 - #15 +
+INFO  21:43:34,848 - #42 manji
+INFO  21:43:34,848 - #31 ;
+INFO  21:43:34,848 - #39 }
+INFO  21:43:34,848 - #39 }
+INFO  21:43:34,849 - GlobalVar = 7
+INFO  21:43:34,849 - GlobalConst = 1
+INFO  21:43:34,849 - LocalMainVar = 0
+INFO  21:43:34,849 - GlobalArray = 0
+INFO  21:43:34,849 - FuncProg = 1
+INFO  21:43:34,849 - Blocks = 4
+INFO  21:43:34,849 - FuncCalls = 2
+INFO  21:43:34,849 - FormalArg = 0
+INFO  21:43:34,849 - DefClass = 0
+INFO  21:43:34,849 - DefMClass = 0
+INFO  21:43:34,849 - DeclFClass = 0
+INFO  21:43:34,852 - Parsiranje uspesno
+INFO  21:45:20,495 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:45:20,512 - #2 program
+INFO  21:45:20,512 - #42 Prilepi
+INFO  21:45:20,512 - #42 int
+INFO  21:45:20,514 - #42 a
+INFO  21:45:20,515 - #32 ,
+INFO  21:45:20,515 - Deklarisana promenljiva a na liniji 6
+INFO  21:45:20,515 - #42 b
+INFO  21:45:20,515 - #31 ;
+INFO  21:45:20,515 - Deklarisana promenljiva b na liniji 6
+INFO  21:45:20,515 - #42 int
+INFO  21:45:20,515 - #42 manji
+INFO  21:45:20,515 - #32 ,
+INFO  21:45:20,515 - Deklarisana promenljiva manji na liniji 7
+INFO  21:45:20,516 - #42 veci
+INFO  21:45:20,516 - #32 ,
+INFO  21:45:20,516 - Deklarisana promenljiva veci na liniji 7
+INFO  21:45:20,516 - #42 step
+INFO  21:45:20,516 - #32 ,
+INFO  21:45:20,516 - Deklarisana promenljiva step na liniji 7
+INFO  21:45:20,516 - #42 pom
+INFO  21:45:20,516 - #32 ,
+INFO  21:45:20,516 - Deklarisana promenljiva pom na liniji 7
+INFO  21:45:20,516 - #42 novi
+INFO  21:45:20,516 - #31 ;
+INFO  21:45:20,517 - Deklarisana promenljiva novi na liniji 7
+INFO  21:45:20,517 - #6 const
+INFO  21:45:20,517 - #42 int
+INFO  21:45:20,517 - #42 x
+INFO  21:45:20,517 - #28 =
+INFO  21:45:20,517 - #41 10
+INFO  21:45:20,517 - #31 ;
+INFO  21:45:20,517 - Deklarisana konstanta x na liniji 8
+INFO  21:45:20,518 - #38 {
+INFO  21:45:20,518 - #12 void
+INFO  21:45:20,518 - #42 main
+INFO  21:45:20,518 - #34 (
+INFO  21:45:20,518 - Obradjuje se funkcija main na liniji 11
+INFO  21:45:20,518 - #35 )
+INFO  21:45:20,518 - #38 {
+INFO  21:45:20,518 - #10 read
+INFO  21:45:20,518 - #34 (
+INFO  21:45:20,518 - #42 a
+INFO  21:45:20,519 - #35 )
+INFO  21:45:20,519 - #31 ;
+INFO  21:45:20,519 - #10 read
+INFO  21:45:20,519 - #34 (
+INFO  21:45:20,519 - #42 b
+INFO  21:45:20,519 - #35 )
+INFO  21:45:20,519 - #31 ;
+INFO  21:45:20,519 - #42 novi
+INFO  21:45:20,519 - #28 =
+INFO  21:45:20,519 - #41 0
+INFO  21:45:20,520 - #31 ;
+INFO  21:45:20,520 - #7 if
+INFO  21:45:20,520 - #34 (
+INFO  21:45:20,520 - #42 a
+INFO  21:45:20,520 - #24 <
+INFO  21:45:20,520 - #42 b
+INFO  21:45:20,521 - #35 )
+INFO  21:45:20,521 - #38 {
+INFO  21:45:20,521 - #42 manji
+INFO  21:45:20,521 - #28 =
+INFO  21:45:20,521 - #42 a
+INFO  21:45:20,521 - #31 ;
+INFO  21:45:20,521 - #42 veci
+INFO  21:45:20,521 - #28 =
+INFO  21:45:20,521 - #42 b
+INFO  21:45:20,521 - #31 ;
+INFO  21:45:20,521 - #39 }
+INFO  21:45:20,522 - #5 else
+INFO  21:45:20,522 - #38 {
+INFO  21:45:20,522 - #42 manji
+INFO  21:45:20,522 - #28 =
+INFO  21:45:20,522 - #42 b
+INFO  21:45:20,522 - #31 ;
+INFO  21:45:20,522 - #42 veci
+INFO  21:45:20,522 - #28 =
+INFO  21:45:20,522 - #42 a
+INFO  21:45:20,522 - #31 ;
+INFO  21:45:20,522 - #39 }
+INFO  21:45:20,522 - #42 pom
+INFO  21:45:20,523 - #28 =
+INFO  21:45:20,523 - #42 manji
+INFO  21:45:20,523 - #31 ;
+INFO  21:45:20,523 - #13 while
+INFO  21:45:20,523 - #34 (
+INFO  21:45:20,523 - #42 pom
+INFO  21:45:20,523 - #22 >
+INFO  21:45:20,523 - #41 0
+INFO  21:45:20,523 - #35 )
+INFO  21:45:20,523 - #38 {
+INFO  21:45:20,523 - #42 pom
+INFO  21:45:20,524 - #28 =
+INFO  21:45:20,524 - #42 pom
+INFO  21:45:20,524 - #18 /
+INFO  21:45:20,524 - #42 x
+INFO  21:45:20,524 - #31 ;
+INFO  21:45:20,524 - #42 step
+INFO  21:45:20,524 - #28 =
+INFO  21:45:20,525 - #42 step
+INFO  21:45:20,525 - #17 *
+INFO  21:45:20,525 - #42 x
+INFO  21:45:20,525 - #31 ;
+INFO  21:45:20,525 - #39 }
+INFO  21:45:20,525 - #42 novi
+INFO  21:45:20,525 - #28 =
+INFO  21:45:20,525 - #42 veci
+INFO  21:45:20,525 - #17 *
+INFO  21:45:20,526 - #42 step
+INFO  21:45:20,526 - #15 +
+INFO  21:45:20,526 - #42 manji
+INFO  21:45:20,526 - #31 ;
+INFO  21:45:20,526 - #39 }
+INFO  21:45:20,526 - #39 }
+INFO  21:45:20,526 - GlobalVar = 7
+INFO  21:45:20,526 - GlobalConst = 1
+INFO  21:45:20,526 - LocalMainVar = 0
+INFO  21:45:20,527 - GlobalArray = 0
+INFO  21:45:20,527 - FuncProg = 1
+INFO  21:45:20,527 - Blocks = 4
+INFO  21:45:20,527 - FuncCalls = 2
+INFO  21:45:20,527 - FormalArg = 0
+INFO  21:45:20,527 - DefClass = 0
+INFO  21:45:20,527 - DefMClass = 0
+INFO  21:45:20,527 - DeclFClass = 0
+INFO  21:45:20,530 - Parsiranje uspesno
+INFO  21:57:07,343 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  21:57:07,360 - #2 program
+INFO  21:57:07,360 - #42 Prilepi
+INFO  21:57:07,360 - #42 int
+INFO  21:57:07,361 - #42 a
+INFO  21:57:07,362 - #32 ,
+INFO  21:57:07,362 - Deklarisana promenljiva a na liniji 6
+INFO  21:57:07,362 - #42 b
+INFO  21:57:07,362 - #31 ;
+INFO  21:57:07,362 - Deklarisana promenljiva b na liniji 6
+INFO  21:57:07,363 - #42 int
+INFO  21:57:07,363 - #42 manji
+INFO  21:57:07,363 - #32 ,
+INFO  21:57:07,363 - Deklarisana promenljiva manji na liniji 7
+INFO  21:57:07,363 - #42 veci
+INFO  21:57:07,363 - #32 ,
+INFO  21:57:07,363 - Deklarisana promenljiva veci na liniji 7
+INFO  21:57:07,363 - #42 step
+INFO  21:57:07,363 - #32 ,
+INFO  21:57:07,363 - Deklarisana promenljiva step na liniji 7
+INFO  21:57:07,364 - #42 pom
+INFO  21:57:07,364 - #32 ,
+INFO  21:57:07,364 - Deklarisana promenljiva pom na liniji 7
+INFO  21:57:07,364 - #42 novi
+INFO  21:57:07,364 - #31 ;
+INFO  21:57:07,364 - Deklarisana promenljiva novi na liniji 7
+INFO  21:57:07,364 - #6 const
+INFO  21:57:07,364 - #42 int
+INFO  21:57:07,364 - #42 x
+INFO  21:57:07,364 - #28 =
+INFO  21:57:07,365 - #41 10
+INFO  21:57:07,365 - #31 ;
+INFO  21:57:07,365 - Deklarisana konstanta x na liniji 8
+INFO  21:57:07,365 - #38 {
+INFO  21:57:07,365 - #12 void
+INFO  21:57:07,365 - #42 main
+INFO  21:57:07,365 - #34 (
+INFO  21:57:07,365 - Obradjuje se funkcija main na liniji 11
+INFO  21:57:07,365 - #35 )
+INFO  21:57:07,365 - #38 {
+INFO  21:57:07,365 - #10 read
+INFO  21:57:07,366 - #34 (
+INFO  21:57:07,366 - #42 a
+INFO  21:57:07,366 - #35 )
+INFO  21:57:07,366 - #31 ;
+INFO  21:57:07,366 - #10 read
+INFO  21:57:07,366 - #34 (
+INFO  21:57:07,366 - #42 b
+INFO  21:57:07,366 - #35 )
+INFO  21:57:07,366 - #31 ;
+INFO  21:57:07,366 - #42 novi
+INFO  21:57:07,366 - #28 =
+INFO  21:57:07,366 - #41 0
+INFO  21:57:07,367 - #31 ;
+INFO  21:57:07,367 - #7 if
+INFO  21:57:07,367 - #34 (
+INFO  21:57:07,367 - #42 a
+INFO  21:57:07,367 - #24 <
+INFO  21:57:07,367 - #42 b
+INFO  21:57:07,368 - #35 )
+INFO  21:57:07,368 - #38 {
+INFO  21:57:07,368 - #42 manji
+INFO  21:57:07,368 - #28 =
+INFO  21:57:07,368 - #42 a
+INFO  21:57:07,368 - #31 ;
+INFO  21:57:07,368 - #42 veci
+INFO  21:57:07,368 - #28 =
+INFO  21:57:07,368 - #42 b
+INFO  21:57:07,368 - #31 ;
+INFO  21:57:07,368 - #39 }
+INFO  21:57:07,369 - #5 else
+INFO  21:57:07,369 - #38 {
+INFO  21:57:07,369 - #42 manji
+INFO  21:57:07,369 - #28 =
+INFO  21:57:07,369 - #42 b
+INFO  21:57:07,369 - #31 ;
+INFO  21:57:07,369 - #42 veci
+INFO  21:57:07,369 - #28 =
+INFO  21:57:07,369 - #42 a
+INFO  21:57:07,369 - #31 ;
+INFO  21:57:07,369 - #39 }
+INFO  21:57:07,370 - #42 pom
+INFO  21:57:07,370 - #28 =
+INFO  21:57:07,370 - #42 manji
+INFO  21:57:07,370 - #31 ;
+INFO  21:57:07,370 - #13 while
+INFO  21:57:07,370 - #34 (
+INFO  21:57:07,370 - #42 pom
+INFO  21:57:07,370 - #22 >
+INFO  21:57:07,370 - #41 0
+INFO  21:57:07,370 - #35 )
+INFO  21:57:07,371 - #38 {
+INFO  21:57:07,371 - #42 pom
+INFO  21:57:07,371 - #28 =
+INFO  21:57:07,371 - #42 pom
+INFO  21:57:07,371 - #18 /
+INFO  21:57:07,371 - #42 x
+INFO  21:57:07,372 - #31 ;
+INFO  21:57:07,372 - #42 step
+INFO  21:57:07,372 - #28 =
+INFO  21:57:07,372 - #42 step
+INFO  21:57:07,372 - #17 *
+INFO  21:57:07,372 - #42 x
+INFO  21:57:07,372 - #31 ;
+INFO  21:57:07,373 - #39 }
+INFO  21:57:07,373 - #42 novi
+INFO  21:57:07,373 - #28 =
+INFO  21:57:07,373 - #42 veci
+INFO  21:57:07,373 - #17 *
+INFO  21:57:07,373 - #42 step
+INFO  21:57:07,373 - #15 +
+INFO  21:57:07,373 - #42 manji
+INFO  21:57:07,374 - #31 ;
+INFO  21:57:07,374 - #39 }
+INFO  21:57:07,374 - #39 }
+INFO  21:57:07,374 - GlobalVar = 7
+INFO  21:57:07,374 - GlobalConst = 1
+INFO  21:57:07,374 - LocalMainVar = 0
+INFO  21:57:07,374 - GlobalArray = 0
+INFO  21:57:07,375 - FuncProg = 1
+INFO  21:57:07,375 - Blocks = 4
+INFO  21:57:07,375 - FuncCalls = 2
+INFO  21:57:07,375 - FormalArg = 0
+INFO  21:57:07,375 - DefClass = 0
+INFO  21:57:07,375 - DefMClass = 0
+INFO  21:57:07,375 - DeclFClass = 0
+INFO  21:57:07,379 - Parsiranje uspesno
+INFO  23:03:43,013 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\test01.mj
+INFO  23:03:43,031 - #2 program
+INFO  23:03:43,031 - #42 Prilepi
+INFO  23:03:43,031 - #42 int
+INFO  23:03:43,033 - #42 a
+INFO  23:03:43,033 - #32 ,
+INFO  23:03:43,033 - Deklarisana promenljiva a na liniji 6
+INFO  23:03:43,033 - #42 b
+INFO  23:03:43,034 - #31 ;
+INFO  23:03:43,034 - Deklarisana promenljiva b na liniji 6
+INFO  23:03:43,034 - #42 int
+INFO  23:03:43,034 - #42 manji
+INFO  23:03:43,034 - #32 ,
+INFO  23:03:43,034 - Deklarisana promenljiva manji na liniji 7
+INFO  23:03:43,034 - #42 veci
+INFO  23:03:43,034 - #32 ,
+INFO  23:03:43,035 - Deklarisana promenljiva veci na liniji 7
+INFO  23:03:43,035 - #42 step
+INFO  23:03:43,035 - #32 ,
+INFO  23:03:43,035 - Deklarisana promenljiva step na liniji 7
+INFO  23:03:43,035 - #42 pom
+INFO  23:03:43,035 - #32 ,
+INFO  23:03:43,035 - Deklarisana promenljiva pom na liniji 7
+INFO  23:03:43,035 - #42 novi
+INFO  23:03:43,035 - #31 ;
+INFO  23:03:43,035 - Deklarisana promenljiva novi na liniji 7
+INFO  23:03:43,035 - #6 const
+INFO  23:03:43,035 - #42 int
+INFO  23:03:43,036 - #42 x
+INFO  23:03:43,036 - #28 =
+INFO  23:03:43,036 - #41 10
+INFO  23:03:43,036 - #31 ;
+INFO  23:03:43,036 - Deklarisana konstanta x na liniji 8
+INFO  23:03:43,036 - #38 {
+INFO  23:03:43,036 - #12 void
+INFO  23:03:43,036 - #42 main
+INFO  23:03:43,036 - #34 (
+INFO  23:03:43,036 - Obradjuje se funkcija main na liniji 11
+INFO  23:03:43,036 - #35 )
+INFO  23:03:43,037 - #38 {
+INFO  23:03:43,037 - #10 read
+INFO  23:03:43,037 - #34 (
+INFO  23:03:43,037 - #42 a
+INFO  23:03:43,037 - #35 )
+INFO  23:03:43,037 - #31 ;
+INFO  23:03:43,037 - #10 read
+INFO  23:03:43,037 - #34 (
+INFO  23:03:43,037 - #42 b
+INFO  23:03:43,037 - #35 )
+INFO  23:03:43,037 - #31 ;
+INFO  23:03:43,037 - #42 novi
+INFO  23:03:43,038 - #28 =
+INFO  23:03:43,038 - #41 0
+INFO  23:03:43,038 - #31 ;
+INFO  23:03:43,038 - #7 if
+INFO  23:03:43,038 - #34 (
+INFO  23:03:43,039 - #42 a
+INFO  23:03:43,039 - #24 <
+INFO  23:03:43,039 - #42 b
+INFO  23:03:43,039 - #35 )
+INFO  23:03:43,039 - #38 {
+INFO  23:03:43,039 - #42 manji
+INFO  23:03:43,039 - #28 =
+INFO  23:03:43,039 - #42 a
+INFO  23:03:43,039 - #31 ;
+INFO  23:03:43,039 - #42 veci
+INFO  23:03:43,039 - #28 =
+INFO  23:03:43,040 - #42 b
+INFO  23:03:43,040 - #31 ;
+INFO  23:03:43,040 - #39 }
+INFO  23:03:43,040 - #5 else
+INFO  23:03:43,040 - #38 {
+INFO  23:03:43,040 - #42 manji
+INFO  23:03:43,040 - #28 =
+INFO  23:03:43,040 - #42 b
+INFO  23:03:43,040 - #31 ;
+INFO  23:03:43,040 - #42 veci
+INFO  23:03:43,040 - #28 =
+INFO  23:03:43,040 - #42 a
+INFO  23:03:43,041 - #31 ;
+INFO  23:03:43,041 - #39 }
+INFO  23:03:43,041 - #42 pom
+INFO  23:03:43,041 - #28 =
+INFO  23:03:43,041 - #42 manji
+INFO  23:03:43,041 - #31 ;
+INFO  23:03:43,041 - #13 while
+INFO  23:03:43,041 - #34 (
+INFO  23:03:43,041 - #42 pom
+INFO  23:03:43,041 - #22 >
+INFO  23:03:43,042 - #41 0
+INFO  23:03:43,042 - #35 )
+INFO  23:03:43,042 - #38 {
+INFO  23:03:43,042 - #42 pom
+INFO  23:03:43,042 - #28 =
+INFO  23:03:43,042 - #42 pom
+INFO  23:03:43,042 - #18 /
+INFO  23:03:43,042 - #42 x
+INFO  23:03:43,042 - #31 ;
+INFO  23:03:43,043 - #42 step
+INFO  23:03:43,043 - #28 =
+INFO  23:03:43,043 - #42 step
+INFO  23:03:43,043 - #17 *
+INFO  23:03:43,043 - #42 x
+INFO  23:03:43,043 - #31 ;
+INFO  23:03:43,043 - #39 }
+INFO  23:03:43,043 - #42 novi
+INFO  23:03:43,043 - #28 =
+INFO  23:03:43,044 - #42 veci
+INFO  23:03:43,044 - #17 *
+INFO  23:03:43,044 - #42 step
+INFO  23:03:43,044 - #15 +
+INFO  23:03:43,044 - #42 manji
+INFO  23:03:43,044 - #31 ;
+INFO  23:03:43,044 - #39 }
+INFO  23:03:43,044 - #39 }
+INFO  23:03:43,044 - GlobalVar = 7
+INFO  23:03:43,044 - GlobalConst = 1
+INFO  23:03:43,045 - LocalMainVar = 0
+INFO  23:03:43,045 - GlobalArray = 0
+INFO  23:03:43,045 - FuncProg = 1
+INFO  23:03:43,045 - Blocks = 4
+INFO  23:03:43,045 - FuncCalls = 2
+INFO  23:03:43,045 - FormalArg = 0
+INFO  23:03:43,045 - DefClass = 0
+INFO  23:03:43,045 - DefMClass = 0
+INFO  23:03:43,045 - DeclFClass = 0
+INFO  23:03:43,049 - Parsiranje uspesno

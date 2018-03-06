@@ -1,0 +1,1006 @@
+INFO  20:36:15,010 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:36:15,033 - #2 program
+INFO  20:36:15,033 - #44 MJProgram
+INFO  20:36:15,034 - #44 int
+INFO  20:36:15,034 - #44 x
+INFO  20:36:15,034 - #31 ;
+INFO  20:36:15,034 - Deklarisana promenljivaxna liniji2
+INFO  20:36:15,034 - #44 int
+INFO  20:36:15,034 - #44 y
+INFO  20:36:15,035 - #31 ;
+INFO  20:36:15,035 - Deklarisana promenljivayna liniji2
+INFO  20:36:15,035 - #38 {
+INFO  20:36:15,035 - #44 int
+INFO  20:36:15,035 - #44 main
+INFO  20:36:15,035 - #34 (
+INFO  20:36:15,035 - #35 )
+INFO  20:36:15,035 - #38 {
+INFO  20:36:15,036 - #9 print
+INFO  20:36:15,036 - #34 (
+INFO  20:36:15,036 - #43 1
+INFO  20:36:15,036 - #35 )
+INFO  20:36:15,038 - #31 ;
+INFO  20:36:15,038 - #44 x
+INFO  20:36:15,038 - #28 =
+INFO  20:36:15,038 - #44 y
+INFO  20:36:15,038 - #15 +
+INFO  20:36:15,038 - #43 1
+INFO  20:36:15,038 - #31 ;
+INFO  20:36:15,038 - #9 print
+INFO  20:36:15,039 - #34 (
+INFO  20:36:15,039 - #43 2
+INFO  20:36:15,039 - #35 )
+INFO  20:36:15,039 - #31 ;
+INFO  20:36:15,039 - #39 }
+INFO  20:36:15,039 - #39 }
+INFO  20:36:15,039 - GlobalVar = 2
+INFO  20:36:15,039 - GlobalConst = 0
+INFO  20:36:15,039 - LocalMainVar = 0
+INFO  20:36:15,040 - GlobalArray = 0
+INFO  20:36:15,040 - FuncProg = 1
+INFO  20:36:15,040 - Blocks = 1
+INFO  20:36:15,040 - FuncCalls = 2
+INFO  20:36:15,040 - FormalArg = 0
+INFO  20:36:15,040 - DefClass = 0
+INFO  20:36:15,040 - DefMClass = 0
+INFO  20:36:15,040 - DeclFClass = 0
+INFO  20:37:11,368 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:37:11,395 - #2 program
+INFO  20:37:11,395 - #44 MJProgram
+INFO  20:37:11,395 - #44 int
+INFO  20:37:11,396 - #44 x
+INFO  20:37:11,396 - #31 ;
+INFO  20:37:11,396 - Deklarisana promenljivaxna liniji2
+INFO  20:37:11,396 - #44 int
+INFO  20:37:11,397 - #44 y
+INFO  20:37:11,397 - #31 ;
+INFO  20:37:11,397 - Deklarisana promenljivayna liniji2
+INFO  20:37:11,397 - #38 {
+INFO  20:37:11,397 - #44 int
+INFO  20:37:11,398 - #44 main
+INFO  20:37:11,398 - #34 (
+INFO  20:37:11,398 - #35 )
+INFO  20:37:11,398 - #38 {
+INFO  20:37:11,398 - #9 print
+INFO  20:37:11,398 - #34 (
+INFO  20:37:11,399 - #43 1
+INFO  20:37:11,399 - #35 )
+INFO  20:37:11,399 - #31 ;
+INFO  20:37:11,399 - #44 x
+INFO  20:37:11,399 - #28 =
+INFO  20:37:11,399 - #44 y
+INFO  20:37:11,400 - #15 +
+INFO  20:37:11,400 - #43 1
+INFO  20:37:11,400 - #31 ;
+INFO  20:37:11,400 - #9 print
+INFO  20:37:11,400 - #34 (
+INFO  20:37:11,400 - #43 2
+INFO  20:37:11,400 - #35 )
+INFO  20:37:11,401 - #31 ;
+INFO  20:37:11,401 - #39 }
+INFO  20:37:11,401 - #39 }
+INFO  20:37:11,401 - GlobalVar = 2
+INFO  20:37:11,401 - GlobalConst = 0
+INFO  20:37:11,402 - LocalMainVar = 0
+INFO  20:37:11,402 - GlobalArray = 0
+INFO  20:37:11,402 - FuncProg = 1
+INFO  20:37:11,402 - Blocks = 1
+INFO  20:37:11,402 - FuncCalls = 2
+INFO  20:37:11,402 - FormalArg = 0
+INFO  20:37:11,402 - DefClass = 0
+INFO  20:37:11,403 - DefMClass = 0
+INFO  20:37:11,403 - DeclFClass = 0
+INFO  20:37:34,467 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:37:34,484 - #2 program
+INFO  20:37:34,484 - #44 MJProgram
+INFO  20:37:34,484 - #44 int
+INFO  20:37:34,484 - #44 x
+INFO  20:37:34,484 - #31 ;
+INFO  20:37:34,485 - Deklarisana promenljivaxna liniji2
+INFO  20:37:34,485 - #44 int
+INFO  20:37:34,485 - #44 y
+INFO  20:37:34,485 - #31 ;
+INFO  20:37:34,485 - Deklarisana promenljivayna liniji2
+INFO  20:37:34,485 - #38 {
+INFO  20:37:34,485 - #44 int
+INFO  20:37:34,485 - #44 main
+INFO  20:37:34,486 - #34 (
+INFO  20:37:34,486 - #35 )
+INFO  20:37:34,486 - #38 {
+INFO  20:37:34,486 - #9 print
+INFO  20:37:34,486 - #34 (
+INFO  20:37:34,486 - #43 1
+INFO  20:37:34,486 - #35 )
+INFO  20:37:34,486 - #31 ;
+INFO  20:37:34,486 - #44 x
+INFO  20:37:34,487 - #28 =
+INFO  20:37:34,487 - #44 y
+INFO  20:37:34,487 - #15 +
+INFO  20:37:34,487 - #43 1
+INFO  20:37:34,487 - #31 ;
+INFO  20:37:34,487 - #9 print
+INFO  20:37:34,488 - #34 (
+INFO  20:37:34,488 - #43 2
+INFO  20:37:34,488 - #35 )
+INFO  20:37:34,488 - #31 ;
+INFO  20:37:34,488 - #39 }
+INFO  20:37:34,488 - #39 }
+INFO  20:37:34,488 - GlobalVar = 2
+INFO  20:37:34,489 - GlobalConst = 0
+INFO  20:37:34,489 - LocalMainVar = 0
+INFO  20:37:34,489 - GlobalArray = 0
+INFO  20:37:34,489 - FuncProg = 1
+INFO  20:37:34,489 - Blocks = 1
+INFO  20:37:34,489 - FuncCalls = 2
+INFO  20:37:34,489 - FormalArg = 0
+INFO  20:37:34,489 - DefClass = 0
+INFO  20:37:34,490 - DefMClass = 0
+INFO  20:37:34,490 - DeclFClass = 0
+INFO  20:38:29,557 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:38:29,575 - #2 program
+INFO  20:38:29,575 - #44 MJProgram
+INFO  20:38:29,575 - #44 int
+INFO  20:38:29,575 - #44 x
+INFO  20:38:29,576 - #31 ;
+INFO  20:38:29,576 - Deklarisana promenljiva x na liniji 2
+INFO  20:38:29,576 - #44 int
+INFO  20:38:29,576 - #44 y
+INFO  20:38:29,576 - #31 ;
+INFO  20:38:29,576 - Deklarisana promenljiva y na liniji 2
+INFO  20:38:29,576 - #38 {
+INFO  20:38:29,577 - #44 int
+INFO  20:38:29,577 - #44 main
+INFO  20:38:29,577 - #34 (
+INFO  20:38:29,577 - #35 )
+INFO  20:38:29,577 - #38 {
+INFO  20:38:29,577 - #9 print
+INFO  20:38:29,577 - #34 (
+INFO  20:38:29,578 - #43 1
+INFO  20:38:29,578 - #35 )
+INFO  20:38:29,578 - #31 ;
+INFO  20:38:29,578 - #44 x
+INFO  20:38:29,578 - #28 =
+INFO  20:38:29,578 - #44 y
+INFO  20:38:29,579 - #15 +
+INFO  20:38:29,579 - #43 1
+INFO  20:38:29,579 - #31 ;
+INFO  20:38:29,579 - #9 print
+INFO  20:38:29,579 - #34 (
+INFO  20:38:29,579 - #43 2
+INFO  20:38:29,579 - #35 )
+INFO  20:38:29,580 - #31 ;
+INFO  20:38:29,580 - #39 }
+INFO  20:38:29,580 - #39 }
+INFO  20:38:29,580 - GlobalVar = 2
+INFO  20:38:29,580 - GlobalConst = 0
+INFO  20:38:29,581 - LocalMainVar = 0
+INFO  20:38:29,581 - GlobalArray = 0
+INFO  20:38:29,581 - FuncProg = 1
+INFO  20:38:29,581 - Blocks = 1
+INFO  20:38:29,581 - FuncCalls = 2
+INFO  20:38:29,581 - FormalArg = 0
+INFO  20:38:29,582 - DefClass = 0
+INFO  20:38:29,582 - DefMClass = 0
+INFO  20:38:29,582 - DeclFClass = 0
+INFO  20:59:14,570 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:59:14,589 - #2 program
+INFO  20:59:14,590 - #44 MJProgram
+INFO  20:59:14,590 - #44 int
+INFO  20:59:14,590 - #44 x
+INFO  20:59:14,590 - #31 ;
+INFO  20:59:14,590 - Deklarisana promenljiva x na liniji 2
+INFO  20:59:14,590 - #44 int
+INFO  20:59:14,590 - #44 y
+INFO  20:59:14,591 - #31 ;
+INFO  20:59:14,591 - Deklarisana promenljiva y na liniji 2
+INFO  20:59:14,591 - #38 {
+INFO  20:59:14,591 - #44 int
+INFO  20:59:14,591 - #44 main
+INFO  20:59:14,591 - #34 (
+INFO  20:59:14,591 - #35 )
+INFO  20:59:14,591 - #38 {
+INFO  20:59:14,592 - #9 print
+INFO  20:59:14,592 - #34 (
+INFO  20:59:14,592 - #43 1
+INFO  20:59:14,592 - #35 )
+INFO  20:59:14,593 - #31 ;
+INFO  20:59:14,593 - #44 x
+INFO  20:59:14,593 - #28 =
+INFO  20:59:14,593 - #44 y
+INFO  20:59:14,593 - #15 +
+INFO  20:59:14,593 - #43 1
+INFO  20:59:14,593 - #31 ;
+INFO  20:59:14,593 - #9 print
+INFO  20:59:14,593 - #34 (
+INFO  20:59:14,594 - #43 2
+INFO  20:59:14,594 - #35 )
+INFO  20:59:14,594 - #31 ;
+INFO  20:59:14,594 - #39 }
+INFO  20:59:14,594 - #39 }
+INFO  20:59:14,594 - GlobalVar = 2
+INFO  20:59:14,594 - GlobalConst = 0
+INFO  20:59:14,594 - LocalMainVar = 0
+INFO  20:59:14,595 - GlobalArray = 0
+INFO  20:59:14,595 - FuncProg = 1
+INFO  20:59:14,595 - Blocks = 1
+INFO  20:59:14,595 - FuncCalls = 2
+INFO  20:59:14,595 - FormalArg = 0
+INFO  20:59:14,595 - DefClass = 0
+INFO  20:59:14,595 - DefMClass = 0
+INFO  20:59:14,595 - DeclFClass = 0
+INFO  21:07:13,432 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:07:13,451 - #2 program
+INFO  21:07:13,451 - #44 MJProgram
+INFO  21:07:13,451 - #44 int
+INFO  21:07:35,947 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:07:35,971 - #2 program
+INFO  21:07:35,971 - #44 MJProgram
+INFO  21:07:35,971 - #44 int
+INFO  21:07:35,971 - #44 x
+INFO  21:07:35,971 - #31 ;
+INFO  21:07:35,971 - Deklarisana promenljiva x na liniji 2
+INFO  21:07:35,972 - #44 int
+INFO  21:07:35,972 - #44 y
+INFO  21:07:35,972 - #31 ;
+INFO  21:07:35,972 - Deklarisana promenljiva y na liniji 2
+INFO  21:07:35,972 - #38 {
+INFO  21:07:35,973 - #44 int
+INFO  21:07:35,973 - #44 main
+INFO  21:07:35,973 - #34 (
+INFO  21:07:35,973 - Obradjuje se funkcijamain na liniji 4
+INFO  21:07:35,973 - #35 )
+INFO  21:07:35,973 - #38 {
+INFO  21:07:35,973 - #9 print
+INFO  21:07:35,973 - #34 (
+INFO  21:07:35,973 - #43 1
+INFO  21:07:35,974 - #35 )
+INFO  21:07:35,974 - #31 ;
+INFO  21:07:35,974 - #44 x
+INFO  21:07:35,974 - #28 =
+INFO  21:07:35,974 - #44 y
+INFO  21:07:35,974 - #15 +
+INFO  21:07:35,974 - #43 1
+INFO  21:07:35,974 - #31 ;
+INFO  21:07:35,974 - #9 print
+INFO  21:07:35,975 - #34 (
+INFO  21:07:35,975 - #43 2
+INFO  21:07:35,975 - #35 )
+INFO  21:07:35,975 - #31 ;
+INFO  21:07:35,975 - #39 }
+INFO  21:07:35,975 - #39 }
+INFO  21:07:35,975 - GlobalVar = 2
+INFO  21:07:35,975 - GlobalConst = 0
+INFO  21:07:35,976 - LocalMainVar = 0
+INFO  21:07:35,976 - GlobalArray = 0
+INFO  21:07:35,976 - FuncProg = 1
+INFO  21:07:35,976 - Blocks = 1
+INFO  21:07:35,976 - FuncCalls = 2
+INFO  21:07:35,976 - FormalArg = 0
+INFO  21:07:35,976 - DefClass = 0
+INFO  21:07:35,976 - DefMClass = 0
+INFO  21:07:35,976 - DeclFClass = 0
+INFO  21:36:18,401 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:36:18,421 - #2 program
+INFO  21:36:18,421 - #44 MJProgram
+INFO  21:36:18,421 - #44 int
+INFO  21:36:18,421 - #44 x
+INFO  21:36:18,422 - #31 ;
+INFO  21:36:18,422 - Deklarisana promenljiva x na liniji 2
+INFO  21:36:18,422 - #44 int
+INFO  21:36:18,422 - #44 y
+INFO  21:36:18,422 - #31 ;
+INFO  21:36:18,422 - Deklarisana promenljiva y na liniji 2
+INFO  21:36:18,422 - #38 {
+INFO  21:36:18,422 - #44 int
+INFO  21:36:18,422 - #44 main
+INFO  21:36:18,423 - #34 (
+INFO  21:36:18,423 - Obradjuje se funkcija main na liniji 4
+INFO  21:36:18,423 - #35 )
+INFO  21:36:18,423 - #38 {
+INFO  21:36:18,423 - #9 print
+INFO  21:36:18,423 - #34 (
+INFO  21:36:18,423 - #43 1
+INFO  21:36:18,423 - #35 )
+INFO  21:36:18,423 - #31 ;
+INFO  21:36:18,423 - #44 x
+INFO  21:36:18,423 - #28 =
+INFO  21:36:18,424 - #44 y
+INFO  21:36:18,424 - #15 +
+INFO  21:36:18,424 - #43 1
+INFO  21:36:18,424 - #31 ;
+INFO  21:36:18,424 - #9 print
+INFO  21:36:18,424 - #34 (
+INFO  21:36:18,424 - #43 2
+INFO  21:36:18,424 - #35 )
+INFO  21:36:18,424 - #31 ;
+INFO  21:36:18,424 - #39 }
+INFO  21:36:18,424 - #39 }
+INFO  21:36:18,425 - GlobalVar = 2
+INFO  21:36:18,425 - GlobalConst = 0
+INFO  21:36:18,425 - LocalMainVar = 0
+INFO  21:36:18,425 - GlobalArray = 0
+INFO  21:36:18,425 - FuncProg = 1
+INFO  21:36:18,425 - Blocks = 1
+INFO  21:36:18,425 - FuncCalls = 2
+INFO  21:36:18,425 - FormalArg = 0
+INFO  21:36:18,425 - DefClass = 0
+INFO  21:36:18,426 - DefMClass = 0
+INFO  21:36:18,426 - DeclFClass = 0
+INFO  21:37:07,314 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:37:07,335 - #2 program
+INFO  21:37:07,336 - #44 MJProgram
+INFO  21:37:07,336 - #44 int
+INFO  21:37:07,336 - #44 x
+INFO  21:37:07,336 - #31 ;
+INFO  21:37:07,336 - Deklarisana promenljiva x na liniji 2
+INFO  21:37:07,336 - #44 int
+INFO  21:37:07,336 - #44 y
+INFO  21:37:07,336 - #31 ;
+INFO  21:37:07,337 - Deklarisana promenljiva y na liniji 2
+INFO  21:37:07,337 - #44 int
+INFO  21:37:07,337 - #44 k
+INFO  21:37:07,337 - #34 (
+ERROR 21:37:07,337 - 
+Sintaksna greska na liniji 3
+INFO  21:37:07,337 - #35 )
+INFO  21:37:07,337 - #44 int
+INFO  21:37:07,337 - #44 c
+INFO  21:37:07,338 - #31 ;
+INFO  21:37:07,338 - #38 {
+INFO  21:37:07,338 - #44 c
+INFO  21:37:07,338 - #28 =
+DEBUG 21:37:07,338 - uspesan oporavak
+ERROR 21:37:07,339 - 
+Sintaksna greska na liniji 4
+INFO  21:37:07,339 - #43 0
+INFO  21:37:07,339 - #31 ;
+INFO  21:37:07,339 - #11 return
+INFO  21:37:07,339 - #44 c
+INFO  21:37:07,339 - #15 +
+INFO  21:37:07,339 - #43 3
+INFO  21:37:07,339 - #31 ;
+INFO  21:37:07,339 - #39 }
+INFO  21:37:07,339 - #38 {
+INFO  21:37:07,340 - #44 int
+INFO  21:37:07,340 - #44 main
+INFO  21:37:07,340 - #34 (
+INFO  21:37:07,340 - #35 )
+INFO  21:37:07,340 - #38 {
+INFO  21:37:07,340 - #9 print
+INFO  21:37:07,340 - #34 (
+INFO  21:37:07,341 - #43 1
+INFO  21:37:07,341 - #35 )
+INFO  21:37:07,341 - #31 ;
+INFO  21:37:07,341 - #44 x
+INFO  21:37:07,341 - #28 =
+INFO  21:37:07,341 - #44 y
+INFO  21:37:07,341 - #15 +
+INFO  21:37:07,341 - #43 1
+INFO  21:37:07,341 - #31 ;
+INFO  21:37:07,341 - #44 k
+INFO  21:37:07,341 - #34 (
+INFO  21:37:07,342 - #35 )
+INFO  21:37:07,342 - #31 ;
+INFO  21:37:07,342 - #9 print
+INFO  21:37:07,342 - #34 (
+INFO  21:37:07,342 - #43 2
+INFO  21:37:07,342 - #35 )
+INFO  21:37:07,342 - #31 ;
+INFO  21:37:07,342 - #39 }
+INFO  21:37:07,342 - #39 }
+ERROR 21:37:07,343 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  21:37:07,343 - GlobalVar = 2
+INFO  21:37:07,343 - GlobalConst = 0
+INFO  21:37:07,343 - LocalMainVar = 0
+INFO  21:37:07,343 - GlobalArray = 0
+INFO  21:37:07,343 - FuncProg = 0
+INFO  21:37:07,343 - Blocks = 0
+INFO  21:37:07,343 - FuncCalls = 0
+INFO  21:37:07,343 - FormalArg = 0
+INFO  21:37:07,343 - DefClass = 0
+INFO  21:37:07,343 - DefMClass = 0
+INFO  21:37:07,344 - DeclFClass = 0
+INFO  21:40:37,485 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:40:37,510 - #2 program
+INFO  21:40:37,510 - #44 MJProgram
+INFO  21:40:37,510 - #44 int
+INFO  21:40:37,510 - #44 x
+INFO  21:40:37,511 - #31 ;
+INFO  21:40:37,511 - Deklarisana promenljiva x na liniji 2
+INFO  21:40:37,511 - #44 int
+INFO  21:40:37,511 - #44 y
+INFO  21:40:37,511 - #31 ;
+INFO  21:40:37,511 - Deklarisana promenljiva y na liniji 2
+INFO  21:40:37,511 - #44 int
+INFO  21:40:37,512 - #44 k
+INFO  21:40:37,512 - #34 (
+ERROR 21:40:37,512 - 
+Sintaksna greska na liniji 3
+INFO  21:40:37,512 - #35 )
+INFO  21:40:37,512 - #44 int
+INFO  21:40:37,512 - #44 c
+INFO  21:40:37,513 - #31 ;
+INFO  21:40:37,513 - #38 {
+INFO  21:40:37,513 - #44 c
+INFO  21:40:37,513 - #28 =
+DEBUG 21:40:37,514 - uspesan oporavak
+ERROR 21:40:37,514 - 
+Sintaksna greska na liniji 4
+INFO  21:40:37,514 - #43 0
+INFO  21:40:37,514 - #31 ;
+INFO  21:40:37,514 - #11 return
+INFO  21:40:37,514 - #44 c
+INFO  21:40:37,514 - #15 +
+INFO  21:40:37,514 - #43 3
+INFO  21:40:37,514 - #31 ;
+INFO  21:40:37,515 - #39 }
+INFO  21:40:37,515 - #38 {
+INFO  21:40:37,515 - #44 int
+INFO  21:40:37,515 - #44 main
+INFO  21:40:37,515 - #34 (
+INFO  21:40:37,515 - #35 )
+INFO  21:40:37,515 - #38 {
+INFO  21:40:37,515 - #9 print
+INFO  21:40:37,515 - #34 (
+INFO  21:40:37,516 - #43 1
+INFO  21:40:37,516 - #35 )
+INFO  21:40:37,516 - #31 ;
+INFO  21:40:37,516 - #44 x
+INFO  21:40:37,516 - #28 =
+INFO  21:40:37,516 - #44 y
+INFO  21:40:37,516 - #15 +
+INFO  21:40:37,516 - #43 1
+INFO  21:40:37,516 - #31 ;
+INFO  21:40:37,517 - #44 a
+INFO  21:40:37,517 - #28 =
+INFO  21:40:37,517 - #44 k
+INFO  21:40:37,517 - #34 (
+INFO  21:40:37,517 - #35 )
+INFO  21:40:37,517 - #15 +
+INFO  21:40:37,517 - #43 1
+INFO  21:40:37,517 - #31 ;
+INFO  21:40:37,517 - #9 print
+INFO  21:40:37,517 - #34 (
+INFO  21:40:37,518 - #43 2
+INFO  21:40:37,518 - #35 )
+INFO  21:40:37,518 - #31 ;
+INFO  21:40:37,518 - #39 }
+INFO  21:40:37,518 - #39 }
+ERROR 21:40:37,518 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  21:40:37,518 - GlobalVar = 2
+INFO  21:40:37,518 - GlobalConst = 0
+INFO  21:40:37,518 - LocalMainVar = 0
+INFO  21:40:37,519 - GlobalArray = 0
+INFO  21:40:37,519 - FuncProg = 0
+INFO  21:40:37,519 - Blocks = 0
+INFO  21:40:37,519 - FuncCalls = 0
+INFO  21:40:37,519 - FormalArg = 0
+INFO  21:40:37,519 - DefClass = 0
+INFO  21:40:37,519 - DefMClass = 0
+INFO  21:40:37,519 - DeclFClass = 0
+INFO  21:49:01,251 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:49:01,294 - #2 program
+INFO  21:49:01,294 - #44 MJProgram
+INFO  21:49:01,295 - #44 int
+INFO  21:49:01,296 - #44 x
+INFO  21:49:01,296 - #31 ;
+INFO  21:49:01,296 - Deklarisana promenljiva x na liniji 2
+INFO  21:49:01,297 - #44 int
+INFO  21:49:01,297 - #44 y
+INFO  21:49:01,297 - #31 ;
+INFO  21:49:01,297 - Deklarisana promenljiva y na liniji 2
+INFO  21:49:01,298 - #44 int
+INFO  21:49:01,298 - #44 ks
+INFO  21:49:01,298 - #34 (
+ERROR 21:49:01,298 - 
+Sintaksna greska na liniji 3
+INFO  21:49:01,299 - #35 )
+INFO  21:49:01,299 - #44 int
+INFO  21:49:01,299 - #44 c
+INFO  21:49:01,301 - #31 ;
+INFO  21:49:01,301 - #38 {
+INFO  21:49:01,301 - #44 c
+INFO  21:49:01,301 - #28 =
+DEBUG 21:49:01,301 - uspesan oporavak
+ERROR 21:49:01,302 - 
+Sintaksna greska na liniji 4
+INFO  21:49:01,302 - #43 0
+INFO  21:49:01,302 - #31 ;
+INFO  21:49:01,302 - #11 return
+INFO  21:49:01,303 - #44 c
+INFO  21:49:01,304 - #15 +
+INFO  21:49:01,304 - #43 3
+INFO  21:49:01,304 - #31 ;
+INFO  21:49:01,304 - #39 }
+INFO  21:49:01,305 - #38 {
+INFO  21:49:01,305 - #44 int
+INFO  21:49:01,305 - #44 main
+INFO  21:49:01,305 - #34 (
+INFO  21:49:01,306 - #35 )
+INFO  21:49:01,306 - #38 {
+INFO  21:49:01,306 - #9 print
+INFO  21:49:01,306 - #34 (
+INFO  21:49:01,306 - #43 1
+INFO  21:49:01,307 - #35 )
+INFO  21:49:01,307 - #31 ;
+INFO  21:49:01,307 - #44 x
+INFO  21:49:01,307 - #28 =
+INFO  21:49:01,307 - #44 y
+INFO  21:49:01,307 - #15 +
+INFO  21:49:01,308 - #43 1
+INFO  21:49:01,308 - #31 ;
+INFO  21:49:01,308 - #44 a
+INFO  21:49:01,308 - #28 =
+INFO  21:49:01,308 - #44 ks
+INFO  21:49:01,309 - #34 (
+INFO  21:49:01,309 - #35 )
+INFO  21:49:01,309 - #15 +
+INFO  21:49:01,309 - #43 1
+INFO  21:49:01,309 - #31 ;
+INFO  21:49:01,309 - #9 print
+INFO  21:49:01,310 - #34 (
+INFO  21:49:01,310 - #43 2
+INFO  21:49:01,310 - #35 )
+INFO  21:49:01,310 - #31 ;
+INFO  21:49:01,310 - #39 }
+INFO  21:49:01,310 - #39 }
+ERROR 21:49:01,311 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  21:49:01,311 - GlobalVar = 2
+INFO  21:49:01,311 - GlobalConst = 0
+INFO  21:49:01,311 - LocalMainVar = 0
+INFO  21:49:01,312 - GlobalArray = 0
+INFO  21:49:01,312 - FuncProg = 0
+INFO  21:49:01,312 - Blocks = 0
+INFO  21:49:01,312 - FuncCalls = 0
+INFO  21:49:01,312 - FormalArg = 0
+INFO  21:49:01,312 - DefClass = 0
+INFO  21:49:01,312 - DefMClass = 0
+INFO  21:49:01,313 - DeclFClass = 0
+INFO  21:49:32,320 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:49:32,340 - #2 program
+INFO  21:49:32,340 - #44 MJProgram
+INFO  21:49:32,340 - #44 int
+INFO  21:49:32,340 - #44 x
+INFO  21:49:32,341 - #31 ;
+INFO  21:49:32,341 - Deklarisana promenljiva x na liniji 2
+INFO  21:49:32,341 - #44 int
+INFO  21:49:32,341 - #44 y
+INFO  21:49:32,341 - #31 ;
+INFO  21:49:32,341 - Deklarisana promenljiva y na liniji 2
+INFO  21:49:32,341 - #44 int
+INFO  21:49:32,341 - #44 ks
+INFO  21:49:32,342 - #34 (
+ERROR 21:49:32,342 - 
+Sintaksna greska na liniji 3
+INFO  21:49:32,342 - #35 )
+INFO  21:49:32,342 - #38 {
+INFO  21:49:32,342 - #44 int
+INFO  21:49:32,343 - #44 c
+INFO  21:49:32,343 - #28 =
+INFO  21:49:32,343 - #43 0
+INFO  21:49:32,343 - #31 ;
+INFO  21:49:32,343 - #11 return
+INFO  21:49:32,344 - #44 c
+INFO  21:49:32,344 - #15 +
+INFO  21:49:32,344 - #43 3
+INFO  21:49:32,344 - #31 ;
+INFO  21:49:32,344 - #39 }
+INFO  21:49:32,344 - #38 {
+INFO  21:49:32,344 - #44 int
+INFO  21:49:32,344 - #44 main
+INFO  21:49:32,345 - #34 (
+INFO  21:49:32,345 - #35 )
+INFO  21:49:32,345 - #38 {
+INFO  21:49:32,345 - #9 print
+INFO  21:49:32,345 - #34 (
+INFO  21:49:32,345 - #43 1
+INFO  21:49:32,345 - #35 )
+INFO  21:49:32,346 - #31 ;
+INFO  21:49:32,346 - #44 x
+INFO  21:49:32,346 - #28 =
+INFO  21:49:32,346 - #44 y
+INFO  21:49:32,346 - #15 +
+INFO  21:49:32,346 - #43 1
+INFO  21:49:32,346 - #31 ;
+INFO  21:49:32,346 - #44 a
+INFO  21:49:32,346 - #28 =
+INFO  21:49:32,347 - #44 ks
+INFO  21:49:32,347 - #34 (
+INFO  21:49:32,347 - #35 )
+INFO  21:49:32,347 - #15 +
+INFO  21:49:32,347 - #43 1
+INFO  21:49:32,347 - #31 ;
+INFO  21:49:32,347 - #9 print
+INFO  21:49:32,347 - #34 (
+INFO  21:49:32,347 - #43 2
+INFO  21:49:32,348 - #35 )
+INFO  21:49:32,348 - #31 ;
+INFO  21:49:32,348 - #39 }
+INFO  21:49:32,348 - #39 }
+ERROR 21:49:32,348 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14
+INFO  21:49:32,348 - GlobalVar = 2
+INFO  21:49:32,348 - GlobalConst = 0
+INFO  21:49:32,349 - LocalMainVar = 0
+INFO  21:49:32,349 - GlobalArray = 0
+INFO  21:49:32,349 - FuncProg = 0
+INFO  21:49:32,349 - Blocks = 0
+INFO  21:49:32,349 - FuncCalls = 0
+INFO  21:49:32,349 - FormalArg = 0
+INFO  21:49:32,350 - DefClass = 0
+INFO  21:49:32,350 - DefMClass = 0
+INFO  21:49:32,350 - DeclFClass = 0
+INFO  21:50:07,178 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:50:07,198 - #2 program
+INFO  21:50:07,198 - #44 MJProgram
+INFO  21:50:07,199 - #44 int
+INFO  21:50:07,199 - #44 x
+INFO  21:50:07,199 - #31 ;
+INFO  21:50:07,199 - Deklarisana promenljiva x na liniji 2
+INFO  21:50:07,199 - #44 int
+INFO  21:50:07,199 - #44 y
+INFO  21:50:07,199 - #31 ;
+INFO  21:50:07,199 - Deklarisana promenljiva y na liniji 2
+INFO  21:50:07,200 - #38 {
+INFO  21:50:07,200 - #44 int
+INFO  21:50:07,200 - #44 ks
+INFO  21:50:07,200 - #34 (
+INFO  21:50:07,200 - Obradjuje se funkcija ks na liniji 4
+INFO  21:50:07,200 - #35 )
+INFO  21:50:07,200 - #38 {
+INFO  21:50:07,200 - #44 int
+INFO  21:50:07,200 - #44 c
+ERROR 21:50:07,200 - 
+Sintaksna greska na liniji 5
+INFO  21:50:07,201 - #28 =
+INFO  21:50:07,201 - #43 0
+INFO  21:50:07,201 - #31 ;
+INFO  21:50:07,202 - #11 return
+INFO  21:50:07,202 - #44 c
+INFO  21:50:07,202 - #15 +
+INFO  21:50:07,202 - #43 3
+INFO  21:50:07,202 - #31 ;
+INFO  21:50:07,202 - #39 }
+INFO  21:50:07,203 - #44 int
+INFO  21:50:07,203 - #44 main
+INFO  21:50:07,203 - #34 (
+INFO  21:50:07,203 - #35 )
+INFO  21:50:07,203 - #38 {
+INFO  21:50:07,204 - #9 print
+INFO  21:50:07,204 - #34 (
+INFO  21:50:07,204 - #43 1
+DEBUG 21:50:07,204 - uspesan oporavak
+INFO  21:50:07,204 - #35 )
+INFO  21:50:07,204 - #31 ;
+INFO  21:50:07,204 - #44 x
+INFO  21:50:07,205 - #28 =
+INFO  21:50:07,205 - #44 y
+INFO  21:50:07,205 - #15 +
+INFO  21:50:07,205 - #43 1
+INFO  21:50:07,205 - #31 ;
+INFO  21:50:07,205 - #44 a
+INFO  21:50:07,205 - #28 =
+ERROR 21:50:07,205 - Greska na liniji 11 :ime anije deklarisaano
+INFO  21:50:07,206 - #44 ks
+INFO  21:50:07,206 - #34 (
+INFO  21:50:07,206 - #35 )
+INFO  21:50:07,206 - #15 +
+INFO  21:50:07,206 - Pronadjen poziv f-je ks na liniji 11
+INFO  21:50:07,206 - #43 1
+INFO  21:50:07,206 - #31 ;
+INFO  21:50:07,206 - #9 print
+INFO  21:50:07,206 - #34 (
+INFO  21:50:07,206 - #43 2
+INFO  21:50:07,207 - #35 )
+INFO  21:50:07,207 - #31 ;
+INFO  21:50:07,207 - #39 }
+INFO  21:50:07,207 - #39 }
+INFO  21:50:07,207 - GlobalVar = 2
+INFO  21:50:07,207 - GlobalConst = 0
+INFO  21:50:07,207 - LocalMainVar = 0
+INFO  21:50:07,207 - GlobalArray = 0
+INFO  21:50:07,208 - FuncProg = 1
+INFO  21:50:07,208 - Blocks = 1
+INFO  21:50:07,208 - FuncCalls = 0
+INFO  21:50:07,208 - FormalArg = 0
+INFO  21:50:07,208 - DefClass = 0
+INFO  21:50:07,208 - DefMClass = 0
+INFO  21:50:07,208 - DeclFClass = 0
+INFO  21:51:02,295 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:51:02,316 - #2 program
+INFO  21:51:02,317 - #44 MJProgram
+INFO  21:51:02,317 - #44 int
+INFO  21:51:02,317 - #44 x
+INFO  21:51:02,317 - #31 ;
+INFO  21:51:02,318 - Deklarisana promenljiva x na liniji 2
+INFO  21:51:02,318 - #44 int
+INFO  21:51:02,318 - #44 y
+INFO  21:51:02,318 - #31 ;
+INFO  21:51:02,319 - Deklarisana promenljiva y na liniji 2
+INFO  21:51:02,319 - #38 {
+INFO  21:51:02,319 - #44 int
+INFO  21:51:02,320 - #44 ks
+INFO  21:51:02,320 - #34 (
+INFO  21:51:02,320 - Obradjuje se funkcija ks na liniji 4
+INFO  21:51:02,321 - #35 )
+INFO  21:51:02,321 - #38 {
+INFO  21:51:02,321 - #44 int
+INFO  21:51:02,321 - #44 c
+ERROR 21:51:02,322 - 
+Sintaksna greska na liniji 5
+INFO  21:51:02,322 - #28 =
+INFO  21:51:02,322 - #43 0
+INFO  21:51:02,322 - #31 ;
+INFO  21:51:02,324 - #11 return
+INFO  21:51:02,324 - #44 c
+INFO  21:51:02,324 - #15 +
+INFO  21:51:02,324 - #43 3
+INFO  21:51:02,324 - #31 ;
+INFO  21:51:02,324 - #39 }
+INFO  21:51:02,325 - #44 int
+INFO  21:51:02,325 - #44 main
+INFO  21:51:02,325 - #34 (
+INFO  21:51:02,325 - #35 )
+INFO  21:51:02,325 - #38 {
+INFO  21:51:02,325 - #9 print
+INFO  21:51:02,325 - #34 (
+INFO  21:51:02,326 - #43 1
+DEBUG 21:51:02,326 - uspesan oporavak
+INFO  21:51:02,326 - #35 )
+INFO  21:51:02,326 - #31 ;
+INFO  21:51:02,326 - #44 x
+INFO  21:51:02,326 - #28 =
+INFO  21:51:02,327 - #44 y
+INFO  21:51:02,327 - #15 +
+INFO  21:51:02,327 - #43 1
+INFO  21:51:02,327 - #31 ;
+INFO  21:51:02,327 - #44 x
+INFO  21:51:02,327 - #28 =
+INFO  21:51:02,327 - #44 ks
+INFO  21:51:02,327 - #34 (
+INFO  21:51:02,327 - #35 )
+INFO  21:51:02,328 - #15 +
+INFO  21:51:02,328 - Pronadjen poziv f-je ks na liniji 11
+INFO  21:51:02,328 - #43 1
+INFO  21:51:02,328 - #31 ;
+INFO  21:51:02,328 - #9 print
+INFO  21:51:02,328 - #34 (
+INFO  21:51:02,328 - #43 2
+INFO  21:51:02,328 - #35 )
+INFO  21:51:02,328 - #31 ;
+INFO  21:51:02,329 - #39 }
+INFO  21:51:02,329 - #39 }
+INFO  21:51:02,329 - GlobalVar = 2
+INFO  21:51:02,329 - GlobalConst = 0
+INFO  21:51:02,329 - LocalMainVar = 0
+INFO  21:51:02,329 - GlobalArray = 0
+INFO  21:51:02,329 - FuncProg = 1
+INFO  21:51:02,329 - Blocks = 1
+INFO  21:51:02,329 - FuncCalls = 0
+INFO  21:51:02,330 - FormalArg = 0
+INFO  21:51:02,330 - DefClass = 0
+INFO  21:51:02,330 - DefMClass = 0
+INFO  21:51:02,330 - DeclFClass = 0
+INFO  21:52:24,067 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:52:24,096 - #2 program
+INFO  21:52:24,097 - #44 MJProgram
+INFO  21:52:24,097 - #44 int
+INFO  21:52:24,097 - #44 x
+INFO  21:52:24,097 - #31 ;
+INFO  21:52:24,098 - Deklarisana promenljiva x na liniji 2
+INFO  21:52:24,098 - #44 int
+INFO  21:52:24,098 - #44 y
+INFO  21:52:24,098 - #31 ;
+INFO  21:52:24,098 - Deklarisana promenljiva y na liniji 2
+INFO  21:52:24,098 - #38 {
+INFO  21:52:24,098 - #44 int
+INFO  21:52:24,099 - #44 ks
+INFO  21:52:24,099 - #34 (
+INFO  21:52:24,099 - Obradjuje se funkcija ks na liniji 4
+INFO  21:52:24,099 - #35 )
+INFO  21:52:24,099 - #38 {
+INFO  21:52:24,099 - #11 return
+INFO  21:52:24,100 - #43 3
+INFO  21:52:24,100 - #31 ;
+INFO  21:52:24,100 - #39 }
+INFO  21:52:24,100 - #44 int
+INFO  21:52:24,100 - #44 main
+INFO  21:52:24,101 - #34 (
+INFO  21:52:24,101 - Obradjuje se funkcija main na liniji 7
+INFO  21:52:24,101 - #35 )
+INFO  21:52:24,101 - #38 {
+INFO  21:52:24,102 - #9 print
+INFO  21:52:24,102 - #34 (
+INFO  21:52:24,102 - #43 1
+INFO  21:52:24,102 - #35 )
+INFO  21:52:24,102 - #31 ;
+INFO  21:52:24,102 - #44 x
+INFO  21:52:24,103 - #28 =
+INFO  21:52:24,103 - #44 y
+INFO  21:52:24,103 - #15 +
+INFO  21:52:24,103 - #43 1
+INFO  21:52:24,104 - #31 ;
+INFO  21:52:24,104 - #44 x
+INFO  21:52:24,104 - #28 =
+INFO  21:52:24,104 - #44 ks
+INFO  21:52:24,104 - #34 (
+INFO  21:52:24,104 - #35 )
+INFO  21:52:24,105 - #15 +
+INFO  21:52:24,105 - Pronadjen poziv f-je ks na liniji 10
+INFO  21:52:24,105 - #43 1
+INFO  21:52:24,105 - #31 ;
+INFO  21:52:24,105 - #9 print
+INFO  21:52:24,105 - #34 (
+INFO  21:52:24,106 - #43 2
+INFO  21:52:24,106 - #35 )
+INFO  21:52:24,106 - #31 ;
+INFO  21:52:24,106 - #39 }
+INFO  21:52:24,106 - #39 }
+INFO  21:52:24,106 - GlobalVar = 2
+INFO  21:52:24,107 - GlobalConst = 0
+INFO  21:52:24,107 - LocalMainVar = 0
+INFO  21:52:24,107 - GlobalArray = 0
+INFO  21:52:24,107 - FuncProg = 2
+INFO  21:52:24,107 - Blocks = 2
+INFO  21:52:24,107 - FuncCalls = 3
+INFO  21:52:24,107 - FormalArg = 0
+INFO  21:52:24,107 - DefClass = 0
+INFO  21:52:24,108 - DefMClass = 0
+INFO  21:52:24,108 - DeclFClass = 0
+INFO  23:32:28,993 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:32:29,012 - #2 program
+INFO  23:32:29,012 - #44 MJProgram
+INFO  23:32:29,012 - #44 int
+INFO  23:32:29,013 - #44 x
+INFO  23:32:29,013 - #31 ;
+INFO  23:32:29,013 - Deklarisana promenljiva x na liniji 2
+INFO  23:32:29,013 - #44 int
+INFO  23:32:29,013 - #44 y
+INFO  23:32:29,013 - #31 ;
+INFO  23:32:29,013 - Deklarisana promenljiva y na liniji 2
+INFO  23:32:29,013 - #38 {
+INFO  23:32:29,013 - #44 int
+INFO  23:32:29,013 - #44 ks
+INFO  23:32:29,014 - #34 (
+INFO  23:32:29,014 - Obradjuje se funkcija ks na liniji 4
+INFO  23:32:29,014 - #35 )
+INFO  23:32:29,014 - #38 {
+INFO  23:32:29,014 - #11 return
+INFO  23:32:29,015 - #43 3
+INFO  23:32:29,015 - #31 ;
+INFO  23:32:29,015 - #39 }
+ERROR 23:32:29,015 - Greska na liniji 5 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije ks
+INFO  23:32:29,015 - #44 int
+INFO  23:32:29,016 - #44 main
+INFO  23:32:29,016 - #34 (
+INFO  23:32:29,016 - Obradjuje se funkcija main na liniji 7
+INFO  23:32:29,016 - #35 )
+INFO  23:32:29,016 - #38 {
+INFO  23:32:29,016 - #9 print
+INFO  23:32:29,016 - #34 (
+INFO  23:32:29,016 - #43 1
+INFO  23:32:29,017 - #35 )
+INFO  23:32:29,017 - #31 ;
+INFO  23:32:29,017 - #44 x
+INFO  23:32:29,017 - #28 =
+INFO  23:32:29,017 - #44 y
+INFO  23:32:29,017 - #15 +
+INFO  23:32:29,017 - #43 1
+INFO  23:32:29,018 - #31 ;
+INFO  23:32:29,018 - #44 x
+INFO  23:42:06,436 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:42:06,455 - #2 program
+INFO  23:42:06,455 - #44 MJProgram
+INFO  23:42:06,455 - #44 int
+INFO  23:42:40,289 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:42:40,306 - #2 program
+INFO  23:42:40,306 - #44 MJProgram
+INFO  23:42:40,306 - #44 int
+INFO  23:44:01,926 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:44:01,953 - #2 program
+INFO  23:44:01,953 - #44 MJProgram
+INFO  23:44:01,953 - #44 int
+INFO  23:44:01,954 - #44 x
+INFO  23:44:01,954 - #31 ;
+INFO  23:44:01,954 - Deklarisana promenljiva x na liniji 2
+INFO  23:44:01,954 - #44 int
+INFO  23:44:01,955 - #44 y
+INFO  23:44:01,955 - #31 ;
+INFO  23:44:01,955 - Deklarisana promenljiva y na liniji 2
+INFO  23:44:01,955 - #38 {
+INFO  23:44:01,955 - #44 int
+INFO  23:44:01,955 - #44 ks
+INFO  23:44:01,955 - #34 (
+INFO  23:44:01,956 - Obradjuje se funkcija ks na liniji 4
+INFO  23:44:01,956 - #35 )
+INFO  23:44:01,956 - #38 {
+INFO  23:44:01,956 - #11 return
+INFO  23:44:01,956 - #43 0
+INFO  23:44:01,956 - #31 ;
+INFO  23:44:01,956 - #39 }
+INFO  23:44:01,957 - #44 int
+INFO  23:44:01,957 - #44 main
+INFO  23:44:01,957 - #34 (
+INFO  23:44:01,957 - Obradjuje se funkcija main na liniji 7
+INFO  23:44:01,957 - #35 )
+INFO  23:44:01,957 - #38 {
+INFO  23:44:01,957 - #9 print
+INFO  23:44:01,958 - #34 (
+INFO  23:44:01,958 - #43 1
+INFO  23:44:01,958 - #35 )
+INFO  23:44:01,958 - #31 ;
+INFO  23:44:01,958 - #44 x
+INFO  23:44:01,959 - #28 =
+INFO  23:44:01,959 - #44 y
+INFO  23:44:01,959 - #15 +
+INFO  23:44:01,959 - #43 1
+INFO  23:44:01,959 - #31 ;
+INFO  23:44:01,960 - #44 x
+INFO  23:46:00,122 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:46:00,142 - #2 program
+INFO  23:46:00,142 - #44 MJProgram
+INFO  23:46:00,142 - #44 int
+INFO  23:46:00,142 - #44 x
+INFO  23:46:00,143 - #31 ;
+INFO  23:46:00,143 - Deklarisana promenljiva x na liniji 2
+INFO  23:46:00,143 - #44 int
+INFO  23:46:00,143 - #44 y
+INFO  23:46:00,143 - #31 ;
+INFO  23:46:00,143 - Deklarisana promenljiva y na liniji 2
+INFO  23:46:00,143 - #38 {
+INFO  23:46:00,143 - #44 int
+INFO  23:46:00,143 - #44 ks
+INFO  23:46:00,144 - #34 (
+INFO  23:46:00,144 - Obradjuje se funkcija ks na liniji 4
+INFO  23:46:00,144 - #35 )
+INFO  23:46:00,144 - #38 {
+INFO  23:46:00,144 - #11 return
+INFO  23:46:00,144 - #43 0
+INFO  23:46:00,144 - #31 ;
+INFO  23:46:00,144 - #39 }
+INFO  23:46:00,144 - #44 int
+INFO  23:46:00,145 - #44 main
+INFO  23:46:00,145 - #34 (
+INFO  23:46:00,145 - Obradjuje se funkcija main na liniji 7
+INFO  23:46:00,145 - #35 )
+INFO  23:46:00,145 - #38 {
+INFO  23:46:00,145 - #9 print
+INFO  23:46:00,145 - #34 (
+INFO  23:46:00,145 - #43 1
+INFO  23:46:00,145 - #35 )
+INFO  23:46:00,145 - #31 ;
+INFO  23:46:00,145 - #44 x
+INFO  23:46:00,146 - #28 =
+INFO  23:46:00,146 - #44 y
+INFO  23:46:00,146 - #15 +
+INFO  23:46:00,146 - #43 1
+INFO  23:46:00,146 - #31 ;
+INFO  23:46:00,146 - #44 x
+INFO  23:46:00,146 - #28 =
+INFO  23:46:00,147 - #44 ks
+INFO  23:46:00,147 - #34 (
+INFO  23:46:00,147 - #35 )
+INFO  23:46:00,147 - #15 +
+INFO  23:46:00,147 - Pronadjen poziv f-je ks na liniji 10
+INFO  23:46:00,147 - #43 1
+INFO  23:46:00,147 - #31 ;
+INFO  23:46:00,147 - #9 print
+INFO  23:46:00,147 - #34 (
+INFO  23:46:00,148 - #43 2
+INFO  23:46:00,148 - #35 )
+INFO  23:46:00,148 - #31 ;
+INFO  23:46:00,148 - #11 return
+INFO  23:46:00,148 - #43 0
+INFO  23:46:00,148 - #31 ;
+INFO  23:46:00,148 - #39 }
+INFO  23:46:00,148 - #39 }
+INFO  23:46:00,148 - GlobalVar = 2
+INFO  23:46:00,149 - GlobalConst = 0
+INFO  23:46:00,149 - LocalMainVar = 0
+INFO  23:46:00,149 - GlobalArray = 0
+INFO  23:46:00,149 - FuncProg = 2
+INFO  23:46:00,149 - Blocks = 2
+INFO  23:46:00,149 - FuncCalls = 3
+INFO  23:46:00,149 - FormalArg = 0
+INFO  23:46:00,149 - DefClass = 0
+INFO  23:46:00,149 - DefMClass = 0
+INFO  23:46:00,149 - DeclFClass = 0

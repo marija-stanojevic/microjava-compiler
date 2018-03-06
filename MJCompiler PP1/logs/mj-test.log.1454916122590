@@ -1,0 +1,18 @@
+INFO  08:20:39,811 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  08:20:39,815 - #2 program
+INFO  08:20:39,816 - #41 Program
+INFO  08:20:39,816 - #41 int
+INFO  08:20:39,816 - #41 t6
+INFO  08:20:39,816 - #30 ;
+INFO  08:20:39,816 - #37 {
+INFO  08:20:39,816 - #11 void
+INFO  08:20:39,816 - #41 main
+INFO  08:20:39,817 - #33 (
+INFO  08:20:39,817 - #34 )
+INFO  08:20:39,817 - #37 {
+INFO  08:20:39,817 - #41 t6
+INFO  08:20:39,817 - #27 =
+INFO  08:20:39,817 - #40 5
+INFO  08:20:39,817 - #30 ;
+INFO  08:20:39,817 - #38 }
+INFO  08:20:39,817 - #38 }

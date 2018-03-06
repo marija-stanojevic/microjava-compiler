@@ -1,0 +1,3987 @@
+INFO  00:31:08,677 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:31:08,720 - #2 program
+INFO  00:31:08,720 - #44 MJProgram
+INFO  00:31:08,720 - #44 int
+INFO  00:31:08,720 - #44 x
+INFO  00:31:08,721 - #31 ;
+INFO  00:31:08,721 - Deklarisana promenljiva x na liniji 2
+INFO  00:31:08,721 - #44 int
+INFO  00:31:08,721 - #44 y
+INFO  00:31:08,722 - #31 ;
+INFO  00:31:08,722 - Deklarisana promenljiva y na liniji 2
+INFO  00:31:08,722 - #4 class
+INFO  00:31:08,722 - #44 Ana
+INFO  00:31:08,722 - #38 {
+INFO  00:31:08,722 - Deklarisana klasa Ana na liniji 3
+INFO  00:31:08,723 - #44 int
+INFO  00:31:08,723 - #44 fklasa
+INFO  00:31:08,723 - #31 ;
+INFO  00:31:08,723 - Deklarisano polje fklasa na liniji 4
+INFO  00:31:08,744 - #38 {
+INFO  00:31:08,744 - #44 int
+INFO  00:31:08,744 - #44 d
+INFO  00:31:08,745 - #34 (
+INFO  00:31:08,745 - Obradjuje se metoda d na liniji 6
+INFO  00:31:08,745 - #35 )
+INFO  00:31:08,745 - #44 int
+INFO  00:31:08,745 - #44 p
+INFO  00:31:08,746 - #31 ;
+INFO  00:31:08,746 - Deklarisana promenljiva p na liniji 6
+INFO  00:31:08,746 - #44 int
+INFO  00:31:08,746 - #44 s
+INFO  00:31:08,746 - #31 ;
+INFO  00:31:08,747 - Deklarisana promenljiva s na liniji 6
+INFO  00:31:08,747 - #38 {
+INFO  00:31:08,747 - #11 return
+INFO  00:31:08,748 - #43 3
+INFO  00:31:08,748 - #31 ;
+INFO  00:31:08,748 - #39 }
+ERROR 00:31:08,749 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:31:08,749 - #39 }
+INFO  00:31:08,750 - #39 }
+INFO  00:31:08,750 - #38 {
+INFO  00:31:08,751 - #44 int
+INFO  00:31:08,751 - #44 main
+INFO  00:31:08,751 - #34 (
+INFO  00:31:08,752 - Obradjuje se funkcija main na liniji 10
+INFO  00:31:08,752 - #44 int
+INFO  00:31:08,752 - #44 n
+INFO  00:31:08,753 - #35 )
+INFO  00:31:08,753 - Deklarisan formalni argument  n na liniji 10
+INFO  00:31:08,753 - #38 {
+INFO  00:31:08,753 - #9 print
+INFO  00:31:08,753 - #34 (
+INFO  00:31:08,753 - #43 1
+INFO  00:31:08,754 - #35 )
+INFO  00:31:08,754 - #31 ;
+INFO  00:31:08,754 - #44 x
+INFO  00:31:08,754 - #28 =
+INFO  00:31:08,754 - #44 y
+INFO  00:31:08,755 - #15 +
+INFO  00:31:08,755 - #43 1
+INFO  00:31:08,755 - #31 ;
+ERROR 00:31:08,755 - Greska na liniji 13 nekompatibilni tipovi u izrazu za sabiranje
+INFO  00:31:08,755 - #9 print
+ERROR 00:31:08,756 - Greska na liniji 13 nekompatibilni tipovi u dodeli vrednosti
+INFO  00:31:08,756 - #34 (
+INFO  00:31:08,756 - #43 2
+INFO  00:31:08,756 - #35 )
+INFO  00:31:08,756 - #31 ;
+INFO  00:31:08,757 - #11 return
+INFO  00:31:08,757 - #43 0
+INFO  00:31:08,757 - #31 ;
+INFO  00:31:08,757 - #39 }
+ERROR 00:31:08,758 - Greska na liniji 15 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  00:31:08,758 - #39 }
+INFO  00:31:08,758 - GlobalVar = 2
+INFO  00:31:08,759 - GlobalConst = 0
+INFO  00:31:08,759 - LocalMainVar = 0
+INFO  00:31:08,759 - GlobalArray = 0
+INFO  00:31:08,759 - FuncProg = 1
+INFO  00:31:08,759 - Blocks = 2
+INFO  00:31:08,759 - FuncCalls = 2
+INFO  00:31:08,760 - FormalArg = 1
+INFO  00:31:08,760 - DefClass = 1
+INFO  00:31:08,760 - DefMClass = 1
+INFO  00:31:08,760 - DeclFClass = 1
+ERROR 00:31:08,762 - Parsiranje nije uspesno
+INFO  00:31:52,696 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:31:52,730 - #2 program
+INFO  00:31:52,730 - #44 MJProgram
+INFO  00:31:52,730 - #44 int
+INFO  00:31:52,730 - #44 x
+INFO  00:31:52,731 - #31 ;
+INFO  00:31:52,731 - Deklarisana promenljiva x na liniji 2
+INFO  00:31:52,731 - #44 int
+INFO  00:31:52,731 - #44 y
+INFO  00:31:52,731 - #31 ;
+INFO  00:31:52,732 - Deklarisana promenljiva y na liniji 2
+INFO  00:31:52,732 - #4 class
+INFO  00:31:52,732 - #44 Ana
+INFO  00:31:52,732 - #38 {
+INFO  00:31:52,732 - Deklarisana klasa Ana na liniji 3
+INFO  00:31:52,732 - #44 int
+INFO  00:31:52,733 - #44 fklasa
+INFO  00:31:52,733 - #31 ;
+INFO  00:31:52,733 - Deklarisano polje fklasa na liniji 4
+INFO  00:31:52,733 - #38 {
+INFO  00:31:52,733 - #44 int
+INFO  00:31:52,734 - #44 d
+INFO  00:31:52,734 - #34 (
+INFO  00:31:52,734 - Obradjuje se metoda d na liniji 6
+INFO  00:31:52,734 - #35 )
+INFO  00:31:52,734 - #44 int
+INFO  00:31:52,734 - #44 p
+INFO  00:31:52,735 - #31 ;
+INFO  00:31:52,735 - Deklarisana promenljiva p na liniji 6
+INFO  00:31:52,735 - #44 int
+INFO  00:31:52,735 - #44 s
+INFO  00:31:52,735 - #31 ;
+INFO  00:31:52,735 - Deklarisana promenljiva s na liniji 6
+INFO  00:31:52,736 - #38 {
+INFO  00:31:52,736 - #11 return
+INFO  00:31:52,736 - #43 3
+INFO  00:31:52,736 - #31 ;
+INFO  00:31:52,737 - #39 }
+ERROR 00:31:52,737 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:31:52,737 - #39 }
+INFO  00:31:52,737 - #39 }
+INFO  00:31:52,737 - #38 {
+INFO  00:31:52,738 - #44 int
+INFO  00:31:52,738 - #44 main
+INFO  00:31:52,738 - #34 (
+INFO  00:31:52,738 - Obradjuje se funkcija main na liniji 10
+INFO  00:31:52,738 - #44 int
+INFO  00:31:52,739 - #44 n
+INFO  00:31:52,739 - #35 )
+INFO  00:31:52,739 - Deklarisan formalni argument  n na liniji 10
+INFO  00:31:52,739 - #38 {
+INFO  00:31:52,739 - #9 print
+INFO  00:31:52,739 - #34 (
+INFO  00:31:52,739 - #43 1
+INFO  00:31:52,740 - #35 )
+INFO  00:31:52,740 - #31 ;
+INFO  00:31:52,740 - #44 x
+INFO  00:31:52,741 - #28 =
+INFO  00:31:52,741 - #44 y
+INFO  00:31:52,741 - #15 +
+INFO  00:31:52,742 - #43 1
+INFO  00:31:52,742 - #15 +
+ERROR 00:31:52,742 - Greska na liniji 13 nekompatibilni tipovi u izrazu za sabiranje
+INFO  00:31:52,742 - #44 z
+INFO  00:31:52,742 - #31 ;
+ERROR 00:31:52,743 - Greska na liniji 13 :ime znije deklarisano
+ERROR 00:31:52,743 - Greska na liniji 13 nekompatibilni tipovi u izrazu za sabiranje
+INFO  00:31:52,743 - #9 print
+ERROR 00:31:52,743 - Greska na liniji 13 nekompatibilni tipovi u dodeli vrednosti
+INFO  00:31:52,744 - #34 (
+INFO  00:31:52,744 - #43 2
+INFO  00:31:52,744 - #35 )
+INFO  00:31:52,744 - #31 ;
+INFO  00:31:52,745 - #11 return
+INFO  00:31:52,745 - #43 0
+INFO  00:31:52,745 - #31 ;
+INFO  00:31:52,745 - #39 }
+ERROR 00:31:52,745 - Greska na liniji 15 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  00:31:52,746 - #39 }
+INFO  00:31:52,746 - GlobalVar = 2
+INFO  00:31:52,746 - GlobalConst = 0
+INFO  00:31:52,746 - LocalMainVar = 0
+INFO  00:31:52,746 - GlobalArray = 0
+INFO  00:31:52,747 - FuncProg = 1
+INFO  00:31:52,747 - Blocks = 2
+INFO  00:31:52,747 - FuncCalls = 2
+INFO  00:31:52,747 - FormalArg = 1
+INFO  00:31:52,747 - DefClass = 1
+INFO  00:31:52,747 - DefMClass = 1
+INFO  00:31:52,747 - DeclFClass = 1
+ERROR 00:31:52,749 - Parsiranje nije uspesno
+INFO  00:35:00,509 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:35:00,558 - #2 program
+INFO  00:35:00,558 - #44 MJProgram
+INFO  00:35:00,558 - #44 int
+INFO  00:35:00,559 - #44 x
+INFO  00:35:00,559 - #31 ;
+INFO  00:35:00,559 - Deklarisana promenljiva x na liniji 2
+INFO  00:35:00,559 - #44 int
+INFO  00:35:00,559 - #44 y
+INFO  00:35:00,560 - #31 ;
+INFO  00:35:00,560 - Deklarisana promenljiva y na liniji 2
+INFO  00:35:00,560 - #4 class
+INFO  00:35:00,560 - #44 Ana
+INFO  00:35:00,560 - #38 {
+INFO  00:35:00,560 - Deklarisana klasa Ana na liniji 3
+INFO  00:35:00,560 - #44 int
+INFO  00:35:00,560 - #44 fklasa
+INFO  00:35:00,561 - #31 ;
+INFO  00:35:00,561 - Deklarisano polje fklasa na liniji 4
+INFO  00:35:00,561 - #38 {
+INFO  00:35:00,561 - #44 int
+INFO  00:35:00,561 - #44 d
+INFO  00:35:00,561 - #34 (
+INFO  00:35:00,562 - Obradjuje se metoda d na liniji 6
+INFO  00:35:00,562 - #35 )
+INFO  00:35:00,562 - #44 int
+INFO  00:35:00,562 - #44 p
+INFO  00:35:00,562 - #31 ;
+INFO  00:35:00,562 - Deklarisana promenljiva p na liniji 6
+INFO  00:35:00,563 - #44 int
+INFO  00:35:00,563 - #44 s
+INFO  00:35:00,563 - #31 ;
+INFO  00:35:00,563 - Deklarisana promenljiva s na liniji 6
+INFO  00:35:00,563 - #38 {
+INFO  00:35:00,563 - #11 return
+INFO  00:35:00,564 - #43 3
+INFO  00:35:00,564 - #31 ;
+INFO  00:35:00,564 - #39 }
+ERROR 00:35:00,564 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:35:00,565 - #39 }
+INFO  00:35:00,565 - #39 }
+INFO  00:35:00,565 - #38 {
+INFO  00:35:00,565 - #44 int
+INFO  00:35:00,566 - #44 main
+INFO  00:35:00,566 - #34 (
+INFO  00:35:00,566 - Obradjuje se funkcija main na liniji 10
+INFO  00:35:00,566 - #44 int
+INFO  00:35:00,566 - #44 n
+INFO  00:35:00,566 - #35 )
+INFO  00:35:00,566 - Deklarisan formalni argument  n na liniji 10
+INFO  00:35:00,567 - #38 {
+INFO  00:35:00,567 - #44 Ana
+INFO  00:35:00,567 - #44 t
+ERROR 00:35:00,567 - 
+Sintaksna greska na liniji 12
+INFO  00:35:00,567 - #28 =
+INFO  00:35:00,567 - #8 new
+INFO  00:35:00,567 - #44 Ana
+INFO  00:35:00,569 - #34 (
+INFO  00:35:00,569 - #35 )
+INFO  00:35:00,569 - #31 ;
+INFO  00:35:00,569 - #9 print
+INFO  00:35:00,569 - #34 (
+INFO  00:35:00,569 - #43 1
+INFO  00:35:00,570 - #35 )
+INFO  00:35:00,570 - #31 ;
+INFO  00:35:00,570 - #44 x
+INFO  00:35:00,570 - #28 =
+INFO  00:35:00,570 - #44 t
+INFO  00:35:00,570 - #33 .
+INFO  00:35:00,570 - #44 fklasa
+INFO  00:35:00,571 - #31 ;
+INFO  00:35:00,571 - #9 print
+INFO  00:35:00,571 - #34 (
+INFO  00:35:00,571 - #43 2
+INFO  00:35:00,571 - #35 )
+INFO  00:35:00,571 - #31 ;
+INFO  00:35:00,572 - #11 return
+INFO  00:35:00,572 - #43 0
+INFO  00:35:00,572 - #31 ;
+INFO  00:35:00,572 - #39 }
+INFO  00:35:00,572 - #39 }
+ERROR 00:35:00,573 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 18
+INFO  00:35:00,573 - GlobalVar = 2
+INFO  00:35:00,573 - GlobalConst = 0
+INFO  00:35:00,573 - LocalMainVar = 0
+INFO  00:35:00,573 - GlobalArray = 0
+INFO  00:35:00,573 - FuncProg = 0
+INFO  00:35:00,573 - Blocks = 1
+INFO  00:35:00,573 - FuncCalls = 0
+INFO  00:35:00,574 - FormalArg = 1
+INFO  00:35:00,574 - DefClass = 1
+INFO  00:35:00,574 - DefMClass = 1
+INFO  00:35:00,574 - DeclFClass = 1
+ERROR 00:35:00,575 - Parsiranje nije uspesno
+INFO  00:39:32,205 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:39:32,229 - #2 program
+INFO  00:39:32,230 - #44 MJProgram
+INFO  00:39:32,230 - #44 int
+INFO  00:39:32,230 - #44 x
+INFO  00:39:32,230 - #31 ;
+INFO  00:39:32,230 - Deklarisana promenljiva x na liniji 2
+INFO  00:39:32,231 - #44 int
+INFO  00:39:32,231 - #44 y
+INFO  00:39:32,231 - #31 ;
+INFO  00:39:32,231 - Deklarisana promenljiva y na liniji 2
+INFO  00:39:32,231 - #4 class
+INFO  00:39:32,231 - #44 Ana
+INFO  00:39:32,231 - #38 {
+INFO  00:39:32,231 - Deklarisana klasa Ana na liniji 3
+INFO  00:39:32,231 - #44 int
+INFO  00:39:32,232 - #44 fklasa
+INFO  00:39:32,232 - #31 ;
+INFO  00:39:32,232 - Deklarisano polje fklasa na liniji 4
+INFO  00:39:32,232 - #38 {
+INFO  00:39:32,232 - #44 int
+INFO  00:39:32,232 - #44 d
+INFO  00:39:32,232 - #34 (
+INFO  00:39:32,232 - Obradjuje se metoda d na liniji 6
+INFO  00:39:32,233 - #35 )
+INFO  00:39:32,233 - #44 int
+INFO  00:39:32,233 - #44 p
+INFO  00:39:32,233 - #31 ;
+INFO  00:39:32,233 - Deklarisana promenljiva p na liniji 6
+INFO  00:39:32,233 - #44 int
+INFO  00:39:32,233 - #44 s
+INFO  00:39:32,233 - #31 ;
+INFO  00:39:32,233 - Deklarisana promenljiva s na liniji 6
+INFO  00:39:32,234 - #38 {
+INFO  00:39:32,234 - #11 return
+INFO  00:39:32,234 - #43 3
+INFO  00:39:32,234 - #31 ;
+INFO  00:39:32,234 - #39 }
+ERROR 00:39:32,235 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:39:32,235 - #39 }
+INFO  00:39:32,235 - #39 }
+INFO  00:39:32,235 - #38 {
+INFO  00:39:32,236 - #44 int
+INFO  00:39:32,236 - #44 main
+INFO  00:39:32,236 - #34 (
+INFO  00:39:32,236 - Obradjuje se funkcija main na liniji 10
+INFO  00:39:32,236 - #44 int
+INFO  00:39:32,237 - #44 n
+INFO  00:39:32,237 - #35 )
+INFO  00:39:32,237 - Deklarisan formalni argument  n na liniji 10
+INFO  00:39:32,237 - #44 Ana
+INFO  00:39:32,237 - #44 t
+INFO  00:39:32,237 - #31 ;
+INFO  00:39:32,237 - Deklarisana promenljiva t na liniji 10
+INFO  00:39:32,237 - #38 {
+INFO  00:39:32,238 - #44 t
+INFO  00:39:32,238 - #28 =
+INFO  00:39:32,238 - #8 new
+INFO  00:39:32,238 - #44 Ana
+INFO  00:39:32,238 - #34 (
+ERROR 00:39:32,238 - 
+Sintaksna greska na liniji 12
+INFO  00:39:32,238 - #35 )
+INFO  00:39:32,238 - #31 ;
+INFO  00:39:32,239 - #9 print
+INFO  00:39:32,240 - #34 (
+INFO  00:39:32,240 - #43 1
+DEBUG 00:39:32,240 - uspesan oporavak
+INFO  00:49:14,099 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:49:14,132 - #2 program
+INFO  00:49:14,133 - #44 MJProgram
+INFO  00:49:14,133 - #44 int
+INFO  00:49:14,134 - #44 x
+INFO  00:49:14,137 - #31 ;
+INFO  00:49:14,138 - Deklarisana promenljiva x na liniji 2
+INFO  00:49:14,138 - #44 int
+INFO  00:49:14,138 - #44 y
+INFO  00:49:14,138 - #31 ;
+INFO  00:49:14,139 - Deklarisana promenljiva y na liniji 2
+INFO  00:49:14,139 - #4 class
+INFO  00:49:14,139 - #44 Ana
+INFO  00:49:14,139 - #38 {
+INFO  00:49:14,139 - Deklarisana klasa Ana na liniji 3
+INFO  00:49:14,140 - #44 int
+INFO  00:49:14,140 - #44 fklasa
+INFO  00:49:14,140 - #31 ;
+INFO  00:49:14,140 - Deklarisano polje fklasa na liniji 4
+INFO  00:49:14,141 - #38 {
+INFO  00:49:14,141 - #44 int
+INFO  00:49:14,141 - #44 d
+INFO  00:49:14,141 - #34 (
+INFO  00:49:14,141 - Obradjuje se metoda d na liniji 6
+INFO  00:49:14,142 - #35 )
+INFO  00:49:14,142 - #44 int
+INFO  00:49:14,142 - #44 p
+INFO  00:49:14,142 - #31 ;
+INFO  00:49:14,142 - Deklarisana promenljiva p na liniji 6
+INFO  00:49:14,143 - #44 int
+INFO  00:49:14,143 - #44 s
+INFO  00:49:14,143 - #31 ;
+INFO  00:49:14,143 - Deklarisana promenljiva s na liniji 6
+INFO  00:49:14,143 - #38 {
+INFO  00:49:14,144 - #11 return
+INFO  00:49:14,144 - #43 3
+INFO  00:49:14,144 - #31 ;
+INFO  00:49:14,145 - #39 }
+ERROR 00:49:14,145 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:49:14,145 - #39 }
+INFO  00:49:14,145 - #39 }
+INFO  00:49:14,145 - #38 {
+INFO  00:49:14,146 - #44 int
+INFO  00:49:14,146 - #44 main
+INFO  00:49:14,146 - #34 (
+INFO  00:49:14,147 - Obradjuje se funkcija main na liniji 10
+INFO  00:49:14,147 - #44 int
+INFO  00:49:14,147 - #44 n
+INFO  00:49:14,147 - #35 )
+INFO  00:49:14,147 - Deklarisan formalni argument  n na liniji 10
+INFO  00:49:14,147 - #44 Ana
+INFO  00:49:14,147 - #44 t
+INFO  00:49:14,148 - #31 ;
+INFO  00:49:14,148 - Deklarisana promenljiva t na liniji 10
+INFO  00:49:14,149 - #38 {
+INFO  00:49:14,150 - #44 t
+INFO  00:49:14,150 - #28 =
+INFO  00:49:14,150 - #8 new
+INFO  00:49:14,151 - #44 Ana
+INFO  00:49:14,151 - #34 (
+ERROR 00:49:14,151 - 
+Sintaksna greska na liniji 12
+INFO  00:49:14,152 - #35 )
+INFO  00:49:14,152 - #31 ;
+INFO  00:49:14,152 - #9 print
+INFO  00:49:14,154 - #34 (
+INFO  00:49:14,155 - #43 1
+DEBUG 00:49:14,155 - uspesan oporavak
+INFO  00:49:21,837 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:49:21,860 - #2 program
+INFO  00:49:21,860 - #44 MJProgram
+INFO  00:49:21,860 - #44 int
+INFO  00:49:21,861 - #44 x
+INFO  00:49:21,861 - #31 ;
+INFO  00:49:21,861 - Deklarisana promenljiva x na liniji 2
+INFO  00:49:21,862 - #44 int
+INFO  00:49:21,862 - #44 y
+INFO  00:49:21,862 - #31 ;
+INFO  00:49:21,862 - Deklarisana promenljiva y na liniji 2
+INFO  00:49:21,862 - #4 class
+INFO  00:49:21,862 - #44 Ana
+INFO  00:49:21,862 - #38 {
+INFO  00:49:21,863 - Deklarisana klasa Ana na liniji 3
+INFO  00:49:21,863 - #44 int
+INFO  00:49:21,863 - #44 fklasa
+INFO  00:49:21,863 - #31 ;
+INFO  00:49:21,863 - Deklarisano polje fklasa na liniji 4
+INFO  00:49:21,863 - #38 {
+INFO  00:49:21,864 - #44 int
+INFO  00:49:21,864 - #44 d
+INFO  00:49:21,864 - #34 (
+INFO  00:49:21,864 - Obradjuje se metoda d na liniji 6
+INFO  00:49:21,864 - #35 )
+INFO  00:49:21,864 - #44 int
+INFO  00:49:21,864 - #44 p
+INFO  00:49:21,864 - #31 ;
+INFO  00:49:21,864 - Deklarisana promenljiva p na liniji 6
+INFO  00:49:21,865 - #44 int
+INFO  00:49:21,865 - #44 s
+INFO  00:49:21,865 - #31 ;
+INFO  00:49:21,865 - Deklarisana promenljiva s na liniji 6
+INFO  00:49:21,865 - #38 {
+INFO  00:49:21,865 - #11 return
+INFO  00:49:21,866 - #43 3
+INFO  00:49:21,866 - #31 ;
+INFO  00:49:21,866 - #39 }
+ERROR 00:49:21,866 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:49:21,866 - #39 }
+INFO  00:49:21,867 - #39 }
+INFO  00:49:21,867 - #38 {
+INFO  00:49:21,867 - #44 int
+INFO  00:49:21,867 - #44 main
+INFO  00:49:21,867 - #34 (
+INFO  00:49:21,868 - Obradjuje se funkcija main na liniji 10
+INFO  00:49:21,868 - #44 int
+INFO  00:49:21,868 - #44 n
+INFO  00:49:21,868 - #35 )
+INFO  00:49:21,868 - Deklarisan formalni argument  n na liniji 10
+INFO  00:49:21,868 - #44 Ana
+INFO  00:49:21,868 - #44 t
+INFO  00:49:21,869 - #31 ;
+INFO  00:49:21,869 - Deklarisana promenljiva t na liniji 10
+INFO  00:49:21,869 - #38 {
+INFO  00:49:21,869 - #44 t
+INFO  00:49:21,869 - #28 =
+INFO  00:49:21,869 - #8 new
+INFO  00:49:21,869 - #44 Ana
+INFO  00:49:21,869 - #34 (
+ERROR 00:49:21,870 - 
+Sintaksna greska na liniji 12
+INFO  00:49:21,870 - #35 )
+INFO  00:49:21,870 - #31 ;
+INFO  00:49:21,870 - #9 print
+INFO  00:49:21,871 - #34 (
+INFO  00:49:21,871 - #43 1
+DEBUG 00:49:21,871 - uspesan oporavak
+INFO  00:49:41,938 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:49:41,967 - #2 program
+INFO  00:49:41,968 - #44 MJProgram
+INFO  00:49:41,968 - #44 int
+INFO  00:49:41,968 - #44 x
+INFO  00:49:41,968 - #31 ;
+INFO  00:49:41,968 - Deklarisana promenljiva x na liniji 2
+INFO  00:49:41,968 - #44 int
+INFO  00:49:41,969 - #44 y
+INFO  00:49:41,969 - #31 ;
+INFO  00:49:41,969 - Deklarisana promenljiva y na liniji 2
+INFO  00:49:41,969 - #4 class
+INFO  00:49:41,969 - #44 Ana
+INFO  00:49:41,969 - #38 {
+INFO  00:49:41,969 - Deklarisana klasa Ana na liniji 3
+INFO  00:49:41,969 - #44 int
+INFO  00:49:41,969 - #44 fklasa
+INFO  00:49:41,970 - #31 ;
+INFO  00:49:41,970 - Deklarisano polje fklasa na liniji 4
+INFO  00:49:41,970 - #38 {
+INFO  00:49:41,970 - #44 int
+INFO  00:49:41,970 - #44 d
+INFO  00:49:41,970 - #34 (
+INFO  00:49:41,970 - Obradjuje se metoda d na liniji 6
+INFO  00:49:41,970 - #35 )
+INFO  00:49:41,971 - #44 int
+INFO  00:49:41,971 - #44 p
+INFO  00:49:41,971 - #31 ;
+INFO  00:49:41,971 - Deklarisana promenljiva p na liniji 6
+INFO  00:49:41,971 - #44 int
+INFO  00:49:41,971 - #44 s
+INFO  00:49:41,971 - #31 ;
+INFO  00:49:41,971 - Deklarisana promenljiva s na liniji 6
+INFO  00:49:41,972 - #38 {
+INFO  00:49:41,972 - #11 return
+INFO  00:49:41,972 - #43 3
+INFO  00:49:41,972 - #31 ;
+INFO  00:49:41,972 - #39 }
+ERROR 00:49:41,973 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:49:41,973 - #39 }
+INFO  00:49:41,973 - #39 }
+INFO  00:49:41,973 - #38 {
+INFO  00:49:41,974 - #44 int
+INFO  00:49:41,974 - #44 main
+INFO  00:49:41,974 - #34 (
+INFO  00:49:41,974 - Obradjuje se funkcija main na liniji 10
+INFO  00:49:41,974 - #44 int
+INFO  00:49:41,974 - #44 n
+INFO  00:49:41,974 - #35 )
+INFO  00:49:41,975 - Deklarisan formalni argument  n na liniji 10
+INFO  00:49:41,975 - #44 Ana
+INFO  00:49:41,975 - #44 t
+INFO  00:49:41,975 - #31 ;
+INFO  00:49:41,975 - Deklarisana promenljiva t na liniji 10
+INFO  00:49:41,975 - #38 {
+INFO  00:49:41,975 - #9 print
+INFO  00:49:41,975 - #34 (
+INFO  00:49:41,976 - #43 1
+INFO  00:49:41,976 - #35 )
+INFO  00:49:41,976 - #31 ;
+INFO  00:49:41,976 - #9 print
+INFO  00:49:41,976 - #34 (
+INFO  00:49:41,976 - #43 2
+INFO  00:49:41,976 - #35 )
+INFO  00:49:41,977 - #31 ;
+INFO  00:49:41,977 - #44 x
+INFO  00:49:41,977 - #28 =
+INFO  00:49:41,977 - #44 t
+INFO  00:49:41,977 - #33 .
+INFO  00:49:41,977 - #44 fklasa
+INFO  00:49:41,977 - #31 ;
+ERROR 00:49:41,978 - Greska na liniji 14 :ime tnije deklarisano
+INFO  00:49:41,978 - #11 return
+ERROR 00:49:41,978 - Greska na liniji 14 nekompatibilni tipovi u dodeli vrednosti
+INFO  00:49:41,978 - #43 0
+INFO  00:49:41,978 - #31 ;
+INFO  00:49:41,978 - #39 }
+ERROR 00:49:41,978 - Greska na liniji 15 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  00:49:41,979 - #39 }
+INFO  00:49:41,979 - GlobalVar = 2
+INFO  00:49:41,979 - GlobalConst = 0
+INFO  00:49:41,979 - LocalMainVar = 1
+INFO  00:49:41,979 - GlobalArray = 0
+INFO  00:49:41,979 - FuncProg = 1
+INFO  00:49:41,979 - Blocks = 2
+INFO  00:49:41,980 - FuncCalls = 2
+INFO  00:49:41,980 - FormalArg = 1
+INFO  00:49:41,980 - DefClass = 1
+INFO  00:49:41,980 - DefMClass = 1
+INFO  00:49:41,980 - DeclFClass = 1
+ERROR 00:49:41,981 - Parsiranje nije uspesno
+INFO  00:50:17,607 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:50:17,638 - #2 program
+INFO  00:50:17,639 - #44 MJProgram
+INFO  00:50:17,639 - #44 int
+INFO  00:50:17,639 - #44 x
+INFO  00:50:17,640 - #31 ;
+INFO  00:50:17,640 - Deklarisana promenljiva x na liniji 2
+INFO  00:50:17,640 - #44 int
+INFO  00:50:17,640 - #44 y
+INFO  00:50:17,641 - #31 ;
+INFO  00:50:17,641 - Deklarisana promenljiva y na liniji 2
+INFO  00:50:17,641 - #4 class
+INFO  00:50:17,641 - #44 Klasa
+INFO  00:50:17,642 - #38 {
+INFO  00:50:17,642 - Deklarisana klasa Klasa na liniji 3
+INFO  00:50:17,642 - #44 int
+INFO  00:50:17,642 - #44 fklasa
+INFO  00:50:17,642 - #31 ;
+INFO  00:50:17,642 - Deklarisano polje fklasa na liniji 4
+INFO  00:50:17,643 - #38 {
+INFO  00:50:17,643 - #44 int
+INFO  00:50:17,643 - #44 d
+INFO  00:50:17,643 - #34 (
+INFO  00:50:17,643 - Obradjuje se metoda d na liniji 6
+INFO  00:50:17,643 - #35 )
+INFO  00:50:17,644 - #44 int
+INFO  00:50:17,644 - #44 p
+INFO  00:50:17,644 - #31 ;
+INFO  00:50:17,644 - Deklarisana promenljiva p na liniji 6
+INFO  00:50:17,645 - #44 int
+INFO  00:50:17,645 - #44 s
+INFO  00:50:17,645 - #31 ;
+INFO  00:50:17,645 - Deklarisana promenljiva s na liniji 6
+INFO  00:50:17,646 - #38 {
+INFO  00:50:17,647 - #11 return
+INFO  00:50:17,647 - #43 3
+INFO  00:50:17,648 - #31 ;
+INFO  00:50:17,648 - #39 }
+ERROR 00:50:17,648 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:50:17,649 - #39 }
+INFO  00:50:17,650 - #39 }
+INFO  00:50:17,650 - #38 {
+INFO  00:50:17,651 - #44 int
+INFO  00:50:17,651 - #44 main
+INFO  00:50:17,652 - #34 (
+INFO  00:50:17,652 - Obradjuje se funkcija main na liniji 10
+INFO  00:50:17,652 - #44 int
+INFO  00:50:17,652 - #44 n
+INFO  00:50:17,652 - #35 )
+INFO  00:50:17,652 - Deklarisan formalni argument  n na liniji 10
+INFO  00:50:17,653 - #44 Klasa
+INFO  00:50:17,653 - #44 t
+INFO  00:50:17,653 - #31 ;
+INFO  00:50:17,653 - Deklarisana promenljiva t na liniji 10
+INFO  00:50:17,653 - #38 {
+INFO  00:50:17,653 - #9 print
+INFO  00:50:17,654 - #34 (
+INFO  00:50:17,654 - #43 1
+INFO  00:50:17,654 - #35 )
+INFO  00:50:17,654 - #31 ;
+INFO  00:50:17,654 - #9 print
+INFO  00:50:17,654 - #34 (
+INFO  00:50:17,654 - #43 2
+INFO  00:50:17,655 - #35 )
+INFO  00:50:17,655 - #31 ;
+INFO  00:50:17,655 - #44 x
+INFO  00:50:17,655 - #28 =
+INFO  00:50:17,655 - #44 t
+INFO  00:50:17,656 - #33 .
+INFO  00:50:17,656 - #44 fklasa
+INFO  00:50:17,656 - #31 ;
+ERROR 00:50:17,657 - Greska na liniji 14 :ime tnije deklarisano
+INFO  00:50:17,657 - #11 return
+ERROR 00:50:17,657 - Greska na liniji 14 nekompatibilni tipovi u dodeli vrednosti
+INFO  00:50:17,657 - #43 0
+INFO  00:50:17,657 - #31 ;
+INFO  00:50:17,658 - #39 }
+ERROR 00:50:17,658 - Greska na liniji 15 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  00:50:17,658 - #39 }
+INFO  00:50:17,659 - GlobalVar = 2
+INFO  00:50:17,659 - GlobalConst = 0
+INFO  00:50:17,659 - LocalMainVar = 1
+INFO  00:50:17,659 - GlobalArray = 0
+INFO  00:50:17,659 - FuncProg = 1
+INFO  00:50:17,660 - Blocks = 2
+INFO  00:50:17,660 - FuncCalls = 2
+INFO  00:50:17,660 - FormalArg = 1
+INFO  00:50:17,660 - DefClass = 1
+INFO  00:50:17,660 - DefMClass = 1
+INFO  00:50:17,660 - DeclFClass = 1
+ERROR 00:50:17,662 - Parsiranje nije uspesno
+INFO  00:53:29,840 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:53:29,889 - #2 program
+INFO  00:53:29,890 - #44 MJProgram
+INFO  00:53:29,890 - #44 int
+INFO  00:53:29,890 - #44 x
+INFO  00:53:29,890 - #31 ;
+INFO  00:53:29,890 - Deklarisana promenljiva x na liniji 2
+INFO  00:53:29,891 - #44 int
+INFO  00:53:29,891 - #44 y
+INFO  00:53:29,891 - #31 ;
+INFO  00:53:29,891 - Deklarisana promenljiva y na liniji 2
+INFO  00:53:29,892 - #4 class
+INFO  00:53:29,892 - #44 Klasa
+INFO  00:53:29,892 - #38 {
+INFO  00:53:29,892 - Deklarisana klasa Klasa na liniji 3
+INFO  00:53:29,893 - #44 int
+INFO  00:53:29,893 - #44 fklasa
+INFO  00:53:29,893 - #31 ;
+INFO  00:53:29,893 - Deklarisano polje fklasa na liniji 4
+INFO  00:53:29,893 - #38 {
+INFO  00:53:29,894 - #44 int
+INFO  00:53:29,894 - #44 d
+INFO  00:53:29,894 - #34 (
+INFO  00:53:29,894 - Obradjuje se metoda d na liniji 6
+INFO  00:53:29,894 - #35 )
+INFO  00:53:29,894 - #44 int
+INFO  00:53:29,895 - #44 p
+INFO  00:53:29,895 - #31 ;
+INFO  00:53:29,895 - Deklarisana promenljiva p na liniji 6
+INFO  00:53:29,895 - #44 int
+INFO  00:53:29,895 - #44 s
+INFO  00:53:29,895 - #31 ;
+INFO  00:53:29,896 - Deklarisana promenljiva s na liniji 6
+INFO  00:53:29,896 - #38 {
+INFO  00:53:29,896 - #11 return
+INFO  00:53:29,896 - #43 3
+INFO  00:53:29,896 - #31 ;
+INFO  00:53:29,897 - #39 }
+ERROR 00:53:29,897 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  00:53:29,897 - #39 }
+INFO  00:53:29,897 - #39 }
+INFO  00:53:29,898 - #44 Klasa
+INFO  00:53:29,898 - #44 t
+INFO  00:53:29,898 - #31 ;
+INFO  00:53:29,898 - Deklarisana promenljiva t na liniji 9
+INFO  00:53:29,899 - #38 {
+INFO  00:53:29,899 - #44 int
+INFO  00:53:29,899 - #44 main
+INFO  00:53:29,899 - #34 (
+INFO  00:53:29,899 - Obradjuje se funkcija main na liniji 11
+INFO  00:53:29,900 - #44 int
+INFO  00:53:29,900 - #44 n
+INFO  00:53:29,900 - #35 )
+INFO  00:53:29,900 - Deklarisan formalni argument  n na liniji 11
+INFO  00:53:29,900 - #38 {
+INFO  00:53:29,900 - #9 print
+INFO  00:53:29,900 - #34 (
+INFO  00:53:29,901 - #43 1
+INFO  00:53:29,901 - #35 )
+INFO  00:53:29,901 - #31 ;
+INFO  00:53:29,901 - #9 print
+INFO  00:53:29,901 - #34 (
+INFO  00:53:29,901 - #43 2
+INFO  00:53:29,901 - #35 )
+INFO  00:53:29,901 - #31 ;
+INFO  00:53:29,902 - #44 x
+INFO  00:53:29,902 - #28 =
+INFO  00:53:29,902 - #44 t
+INFO  00:53:29,902 - #33 .
+INFO  00:53:29,902 - #44 fklasa
+INFO  00:53:29,903 - #31 ;
+ERROR 00:53:29,903 - Greska na liniji 15 :ime tnije deklarisano
+INFO  00:53:29,903 - #11 return
+ERROR 00:53:29,904 - Greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+INFO  00:53:29,904 - #43 0
+INFO  00:53:29,904 - #31 ;
+INFO  00:53:29,904 - #39 }
+ERROR 00:53:29,904 - Greska na liniji 16 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  00:53:29,904 - #39 }
+INFO  00:53:29,905 - GlobalVar = 3
+INFO  00:53:29,905 - GlobalConst = 0
+INFO  00:53:29,905 - LocalMainVar = 0
+INFO  00:53:29,905 - GlobalArray = 0
+INFO  00:53:29,905 - FuncProg = 1
+INFO  00:53:29,905 - Blocks = 2
+INFO  00:53:29,906 - FuncCalls = 2
+INFO  00:53:29,906 - FormalArg = 1
+INFO  00:53:29,906 - DefClass = 1
+INFO  00:53:29,906 - DefMClass = 1
+INFO  00:53:29,906 - DeclFClass = 1
+ERROR 00:53:29,907 - Parsiranje nije uspesno
+INFO  01:04:08,399 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:04:08,430 - #2 program
+INFO  01:04:08,430 - #44 MJProgram
+INFO  01:04:08,431 - #44 int
+INFO  01:04:08,431 - #44 x
+INFO  01:04:08,432 - #31 ;
+INFO  01:04:08,432 - Deklarisana promenljiva x na liniji 2
+INFO  01:04:08,432 - #44 int
+INFO  01:04:08,432 - #44 y
+INFO  01:04:08,432 - #31 ;
+INFO  01:04:08,432 - Deklarisana promenljiva y na liniji 2
+INFO  01:04:08,433 - #4 class
+INFO  01:04:08,433 - #44 Klasa
+INFO  01:04:08,433 - #38 {
+INFO  01:04:08,433 - Deklarisana klasa Klasa na liniji 3
+INFO  01:04:08,433 - #44 int
+INFO  01:04:08,433 - #44 fklasa
+INFO  01:04:08,433 - #31 ;
+INFO  01:04:08,434 - Deklarisano polje fklasa na liniji 4
+INFO  01:04:08,434 - #38 {
+INFO  01:04:08,434 - #44 int
+INFO  01:04:08,434 - #44 d
+INFO  01:04:08,434 - #34 (
+INFO  01:04:08,434 - Obradjuje se metoda d na liniji 6
+INFO  01:04:08,434 - #35 )
+INFO  01:04:08,434 - #44 int
+INFO  01:04:08,435 - #44 p
+INFO  01:04:08,435 - #31 ;
+INFO  01:04:08,435 - Deklarisana promenljiva p na liniji 6
+INFO  01:04:08,436 - #44 int
+INFO  01:04:08,436 - #44 s
+INFO  01:04:08,436 - #31 ;
+INFO  01:04:08,436 - Deklarisana promenljiva s na liniji 6
+INFO  01:04:08,436 - #38 {
+INFO  01:04:08,437 - #11 return
+INFO  01:04:08,437 - #43 3
+INFO  01:04:08,437 - #31 ;
+INFO  01:04:08,438 - #39 }
+ERROR 01:04:08,438 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  01:04:08,438 - #39 }
+INFO  01:04:08,438 - #39 }
+INFO  01:04:08,439 - #44 Klasa
+INFO  01:04:08,439 - #44 t
+INFO  01:04:08,439 - #31 ;
+INFO  01:04:08,439 - Deklarisana promenljiva t na liniji 9
+INFO  01:04:08,440 - #38 {
+INFO  01:04:08,440 - #44 int
+INFO  01:04:08,440 - #44 main
+INFO  01:04:08,440 - #34 (
+INFO  01:04:08,440 - Obradjuje se funkcija main na liniji 11
+INFO  01:04:08,440 - #44 int
+INFO  01:04:08,440 - #44 n
+INFO  01:04:08,441 - #35 )
+INFO  01:04:08,441 - Deklarisan formalni argument  n na liniji 11
+INFO  01:04:08,441 - #38 {
+INFO  01:04:08,441 - #9 print
+INFO  01:04:08,441 - #34 (
+INFO  01:04:08,441 - #43 1
+INFO  01:04:08,441 - #35 )
+INFO  01:04:08,442 - #31 ;
+INFO  01:04:08,442 - #9 print
+INFO  01:04:08,442 - #34 (
+INFO  01:04:08,442 - #43 2
+INFO  01:04:08,442 - #35 )
+INFO  01:04:08,442 - #31 ;
+INFO  01:04:08,442 - #44 x
+INFO  01:04:08,442 - #28 =
+INFO  01:04:08,443 - #44 t
+INFO  01:04:08,443 - #33 .
+INFO  01:04:08,443 - #44 fklasa
+INFO  01:04:08,443 - #31 ;
+ERROR 01:04:08,443 - Greska na liniji 15 :ime tnije deklarisano
+INFO  01:04:08,444 - #11 return
+ERROR 01:04:08,444 - Greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:04:08,444 - #43 0
+INFO  01:04:08,444 - #31 ;
+INFO  01:04:08,444 - #39 }
+ERROR 01:04:08,444 - Greska na liniji 16 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:04:08,445 - #39 }
+INFO  01:04:08,445 - GlobalVar = 3
+INFO  01:04:08,445 - GlobalConst = 0
+INFO  01:04:08,445 - LocalMainVar = 0
+INFO  01:04:08,445 - GlobalArray = 0
+INFO  01:04:08,445 - FuncProg = 1
+INFO  01:04:08,445 - Blocks = 2
+INFO  01:04:08,446 - FuncCalls = 2
+INFO  01:04:08,446 - FormalArg = 1
+INFO  01:04:08,446 - DefClass = 1
+INFO  01:04:08,446 - DefMClass = 1
+INFO  01:04:08,446 - DeclFClass = 1
+ERROR 01:04:08,447 - Parsiranje nije uspesno
+INFO  01:07:12,789 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:07:12,823 - #2 program
+INFO  01:07:12,824 - #44 MJProgram
+INFO  01:07:12,824 - #44 int
+INFO  01:07:12,824 - #44 x
+INFO  01:07:12,824 - #31 ;
+INFO  01:07:12,825 - Deklarisana promenljiva x na liniji 2
+INFO  01:07:12,825 - #44 int
+INFO  01:07:12,825 - #44 y
+INFO  01:07:12,825 - #31 ;
+INFO  01:07:12,825 - Deklarisana promenljiva y na liniji 2
+INFO  01:07:12,825 - #4 class
+INFO  01:07:12,826 - #44 Klasa
+INFO  01:07:12,826 - #38 {
+INFO  01:07:12,826 - Deklarisana klasa Klasa na liniji 3
+INFO  01:07:12,826 - #44 int
+INFO  01:07:12,826 - #44 fklasa
+INFO  01:07:12,826 - #31 ;
+INFO  01:07:12,827 - Deklarisano polje fklasa na liniji 4
+INFO  01:07:12,827 - #38 {
+INFO  01:07:12,827 - #44 int
+INFO  01:07:12,827 - #44 d
+INFO  01:07:12,827 - #34 (
+INFO  01:07:12,827 - Obradjuje se metoda d na liniji 6
+INFO  01:07:12,827 - #35 )
+INFO  01:07:12,828 - #44 int
+INFO  01:07:12,828 - #44 p
+INFO  01:07:12,828 - #31 ;
+INFO  01:07:12,828 - Deklarisana promenljiva p na liniji 6
+INFO  01:07:12,828 - #38 {
+INFO  01:07:12,828 - #11 return
+INFO  01:07:12,828 - #43 3
+INFO  01:07:12,829 - #31 ;
+INFO  01:07:12,829 - #39 }
+ERROR 01:07:12,829 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije d
+INFO  01:07:12,829 - #39 }
+INFO  01:07:12,829 - #39 }
+INFO  01:07:12,830 - #44 Klasa
+INFO  01:07:12,830 - #44 t
+INFO  01:07:12,830 - #31 ;
+INFO  01:07:12,831 - Deklarisana promenljiva t na liniji 9
+INFO  01:07:12,831 - #38 {
+INFO  01:07:12,831 - #44 int
+INFO  01:07:12,831 - #44 main
+INFO  01:07:12,831 - #34 (
+INFO  01:07:12,831 - Obradjuje se funkcija main na liniji 11
+INFO  01:07:12,831 - #44 int
+INFO  01:07:12,832 - #44 n
+INFO  01:07:12,832 - #35 )
+INFO  01:07:12,832 - Deklarisan formalni argument  n na liniji 11
+INFO  01:07:12,832 - #38 {
+INFO  01:07:12,832 - #9 print
+INFO  01:07:12,832 - #34 (
+INFO  01:07:12,833 - #43 1
+INFO  01:07:12,833 - #35 )
+INFO  01:07:12,833 - #31 ;
+INFO  01:07:12,833 - #9 print
+INFO  01:07:12,833 - #34 (
+INFO  01:07:12,833 - #43 2
+INFO  01:07:12,833 - #35 )
+INFO  01:07:12,833 - #31 ;
+INFO  01:07:12,834 - #44 x
+INFO  01:07:12,834 - #28 =
+INFO  01:07:12,834 - #44 t
+INFO  01:07:12,834 - #33 .
+INFO  01:07:12,834 - #44 fklasa
+INFO  01:07:12,834 - #31 ;
+ERROR 01:07:12,835 - Greska na liniji 15 :ime tnije deklarisano
+INFO  01:07:12,835 - #11 return
+ERROR 01:07:12,835 - Greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:07:12,836 - #43 0
+INFO  01:07:12,836 - #31 ;
+INFO  01:07:12,836 - #39 }
+ERROR 01:07:12,836 - Greska na liniji 16 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:07:12,836 - #39 }
+INFO  01:07:12,837 - GlobalVar = 3
+INFO  01:07:12,837 - GlobalConst = 0
+INFO  01:07:12,837 - LocalMainVar = 0
+INFO  01:07:12,837 - GlobalArray = 0
+INFO  01:07:12,837 - FuncProg = 1
+INFO  01:07:12,838 - Blocks = 2
+INFO  01:07:12,838 - FuncCalls = 2
+INFO  01:07:12,838 - FormalArg = 1
+INFO  01:07:12,838 - DefClass = 1
+INFO  01:07:12,838 - DefMClass = 1
+INFO  01:07:12,839 - DeclFClass = 1
+ERROR 01:07:12,841 - Parsiranje nije uspesno
+INFO  01:07:37,453 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:07:37,476 - #2 program
+INFO  01:07:37,477 - #44 MJProgram
+INFO  01:07:37,477 - #44 int
+INFO  01:07:37,477 - #44 x
+INFO  01:07:37,477 - #31 ;
+INFO  01:07:37,477 - Deklarisana promenljiva x na liniji 2
+INFO  01:07:37,478 - #44 int
+INFO  01:07:37,478 - #44 y
+INFO  01:07:37,478 - #31 ;
+INFO  01:07:37,478 - Deklarisana promenljiva y na liniji 2
+INFO  01:07:37,478 - #4 class
+INFO  01:07:37,478 - #44 Klasa
+INFO  01:07:37,478 - #38 {
+INFO  01:07:37,478 - Deklarisana klasa Klasa na liniji 3
+INFO  01:07:37,479 - #44 int
+INFO  01:07:37,479 - #44 fklasa
+INFO  01:07:37,479 - #31 ;
+INFO  01:07:37,479 - Deklarisano polje fklasa na liniji 4
+INFO  01:07:37,479 - #38 {
+INFO  01:07:37,479 - #39 }
+ERROR 01:07:37,479 - 
+Sintaksna greska na liniji 6
+INFO  01:07:37,480 - #39 }
+INFO  01:07:37,480 - #44 Klasa
+INFO  01:07:37,480 - #44 t
+INFO  01:07:37,481 - #31 ;
+INFO  01:07:37,481 - #38 {
+INFO  01:07:37,481 - #44 int
+INFO  01:07:37,481 - #44 main
+DEBUG 01:07:37,481 - uspesan oporavak
+INFO  01:07:37,481 - #34 (
+INFO  01:07:37,482 - Obradjuje se metoda main na liniji 10
+INFO  01:07:37,482 - #44 int
+INFO  01:07:37,482 - #44 n
+INFO  01:07:37,482 - #35 )
+INFO  01:07:37,482 - Deklarisan formalni argument  n na liniji 10
+INFO  01:07:37,482 - #38 {
+INFO  01:07:37,482 - #9 print
+INFO  01:07:37,483 - #34 (
+INFO  01:07:37,483 - #43 1
+INFO  01:07:37,483 - #35 )
+INFO  01:07:37,483 - #31 ;
+INFO  01:07:37,483 - #9 print
+INFO  01:07:37,483 - #34 (
+INFO  01:07:37,483 - #43 2
+INFO  01:07:37,484 - #35 )
+INFO  01:07:37,484 - #31 ;
+INFO  01:07:37,484 - #44 x
+INFO  01:07:37,484 - #28 =
+INFO  01:07:37,484 - #44 t
+INFO  01:07:37,484 - #33 .
+INFO  01:07:37,484 - #44 fklasa
+INFO  01:07:37,484 - #31 ;
+ERROR 01:07:37,485 - Greska na liniji 14 :ime tnije deklarisano
+INFO  01:07:37,485 - #11 return
+ERROR 01:07:37,485 - Greska na liniji 14 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:07:37,485 - #43 0
+INFO  01:07:37,485 - #31 ;
+INFO  01:07:37,485 - #39 }
+ERROR 01:07:37,486 - Greska na liniji 15 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:07:37,486 - #39 }
+ERROR 01:07:37,486 - 
+Sintaksna greska na liniji 17
+ERROR 01:07:37,486 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 17
+INFO  01:07:37,486 - GlobalVar = 2
+INFO  01:07:37,486 - GlobalConst = 0
+INFO  01:07:37,486 - LocalMainVar = 0
+INFO  01:07:37,487 - GlobalArray = 0
+INFO  01:07:37,487 - FuncProg = 0
+INFO  01:07:37,487 - Blocks = 1
+INFO  01:07:37,487 - FuncCalls = 0
+INFO  01:07:37,487 - FormalArg = 1
+INFO  01:07:37,487 - DefClass = 0
+INFO  01:07:37,487 - DefMClass = 1
+INFO  01:07:37,487 - DeclFClass = 1
+ERROR 01:07:37,489 - Parsiranje nije uspesno
+INFO  01:07:52,157 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:07:52,184 - #2 program
+INFO  01:07:52,184 - #44 MJProgram
+INFO  01:07:52,184 - #44 int
+INFO  01:07:52,184 - #44 x
+INFO  01:07:52,184 - #31 ;
+INFO  01:07:52,185 - Deklarisana promenljiva x na liniji 2
+INFO  01:07:52,185 - #44 int
+INFO  01:07:52,185 - #44 y
+INFO  01:07:52,185 - #31 ;
+INFO  01:07:52,185 - Deklarisana promenljiva y na liniji 2
+INFO  01:07:52,185 - #4 class
+INFO  01:07:52,186 - #44 Klasa
+INFO  01:07:52,186 - #38 {
+INFO  01:07:52,186 - Deklarisana klasa Klasa na liniji 3
+INFO  01:07:52,186 - #44 int
+INFO  01:07:52,186 - #44 fklasa
+INFO  01:07:52,186 - #31 ;
+INFO  01:07:52,186 - Deklarisano polje fklasa na liniji 4
+INFO  01:07:52,186 - #39 }
+INFO  01:07:52,187 - #44 Klasa
+INFO  01:07:52,187 - #44 t
+INFO  01:07:52,187 - #31 ;
+INFO  01:07:52,187 - Deklarisana promenljiva t na liniji 6
+INFO  01:07:52,187 - #38 {
+INFO  01:07:52,187 - #44 int
+INFO  01:07:52,188 - #44 main
+INFO  01:07:52,188 - #34 (
+INFO  01:07:52,188 - Obradjuje se funkcija main na liniji 8
+INFO  01:07:52,188 - #44 int
+INFO  01:07:52,188 - #44 n
+INFO  01:07:52,188 - #35 )
+INFO  01:07:52,189 - Deklarisan formalni argument  n na liniji 8
+INFO  01:07:52,189 - #38 {
+INFO  01:07:52,189 - #9 print
+INFO  01:07:52,189 - #34 (
+INFO  01:07:52,189 - #43 1
+INFO  01:07:52,189 - #35 )
+INFO  01:07:52,190 - #31 ;
+INFO  01:07:52,190 - #9 print
+INFO  01:07:52,190 - #34 (
+INFO  01:07:52,190 - #43 2
+INFO  01:07:52,190 - #35 )
+INFO  01:07:52,190 - #31 ;
+INFO  01:07:52,190 - #44 x
+INFO  01:07:52,190 - #28 =
+INFO  01:07:52,191 - #44 t
+INFO  01:07:52,191 - #33 .
+INFO  01:07:52,191 - #44 fklasa
+INFO  01:07:52,191 - #31 ;
+ERROR 01:07:52,191 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:07:52,191 - #11 return
+ERROR 01:07:52,192 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:07:52,192 - #43 0
+INFO  01:07:52,192 - #31 ;
+INFO  01:07:52,192 - #39 }
+ERROR 01:07:52,192 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:07:52,192 - #39 }
+INFO  01:07:52,193 - GlobalVar = 3
+INFO  01:07:52,193 - GlobalConst = 0
+INFO  01:07:52,193 - LocalMainVar = 0
+INFO  01:07:52,193 - GlobalArray = 0
+INFO  01:07:52,193 - FuncProg = 1
+INFO  01:07:52,193 - Blocks = 1
+INFO  01:07:52,193 - FuncCalls = 2
+INFO  01:07:52,193 - FormalArg = 1
+INFO  01:07:52,193 - DefClass = 1
+INFO  01:07:52,194 - DefMClass = 0
+INFO  01:07:52,194 - DeclFClass = 1
+ERROR 01:07:52,195 - Parsiranje nije uspesno
+INFO  01:11:54,448 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:11:54,472 - #2 program
+INFO  01:11:54,473 - #44 MJProgram
+INFO  01:11:54,473 - #44 int
+INFO  01:11:54,473 - #44 x
+INFO  01:11:54,473 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,473 - #31 ;
+INFO  01:11:54,474 - Deklarisana promenljiva x na liniji 2
+INFO  01:11:54,474 - #44 int
+INFO  01:11:54,474 - #44 y
+INFO  01:11:54,474 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,474 - #31 ;
+INFO  01:11:54,474 - Deklarisana promenljiva y na liniji 2
+INFO  01:11:54,474 - #4 class
+INFO  01:11:54,474 - #44 Klasa
+INFO  01:11:54,475 - #38 {
+INFO  01:11:54,475 - Deklarisana klasa Klasa na liniji 3
+INFO  01:11:54,475 - #44 int
+INFO  01:11:54,475 - #44 fklasa
+INFO  01:11:54,475 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,475 - #31 ;
+INFO  01:11:54,475 - Deklarisano polje fklasa na liniji 4
+INFO  01:11:54,475 - #39 }
+INFO  01:11:54,476 - #44 Klasa
+INFO  01:11:54,476 - #44 t
+INFO  01:11:54,476 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,476 - #31 ;
+INFO  01:11:54,476 - Deklarisana promenljiva t na liniji 6
+INFO  01:11:54,476 - #38 {
+INFO  01:11:54,477 - #44 int
+INFO  01:11:54,477 - #44 main
+INFO  01:11:54,477 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,477 - #34 (
+INFO  01:11:54,477 - Obradjuje se funkcija main na liniji 8
+INFO  01:11:54,477 - #44 int
+INFO  01:11:54,478 - #44 n
+INFO  01:11:54,478 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+INFO  01:11:54,478 - #35 )
+INFO  01:11:54,478 - Deklarisan formalni argument  n na liniji 8
+INFO  01:11:54,478 - #38 {
+INFO  01:11:54,478 - #9 print
+INFO  01:11:54,478 - #34 (
+INFO  01:11:54,479 - #43 1
+INFO  01:11:54,479 - #35 )
+INFO  01:11:54,479 - #31 ;
+INFO  01:11:54,479 - #9 print
+INFO  01:11:54,479 - #34 (
+INFO  01:11:54,479 - #43 2
+INFO  01:11:54,479 - #35 )
+INFO  01:11:54,480 - #31 ;
+INFO  01:11:54,480 - #44 x
+INFO  01:11:54,480 - #28 =
+INFO  01:11:54,480 - #44 t
+INFO  01:11:54,480 - #33 .
+INFO  01:11:54,480 - #44 fklasa
+INFO  01:11:54,481 - #31 ;
+ERROR 01:11:54,481 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:11:54,481 - #11 return
+ERROR 01:11:54,481 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:11:54,481 - #43 0
+INFO  01:11:54,482 - #31 ;
+INFO  01:11:54,482 - #39 }
+ERROR 01:11:54,482 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:11:54,482 - #39 }
+INFO  01:11:54,482 - GlobalVar = 3
+INFO  01:11:54,482 - GlobalConst = 0
+INFO  01:11:54,483 - LocalMainVar = 0
+INFO  01:11:54,483 - GlobalArray = 0
+INFO  01:11:54,483 - FuncProg = 1
+INFO  01:11:54,483 - Blocks = 1
+INFO  01:11:54,483 - FuncCalls = 2
+INFO  01:11:54,483 - FormalArg = 1
+INFO  01:11:54,483 - DefClass = 1
+INFO  01:11:54,483 - DefMClass = 0
+INFO  01:11:54,483 - DeclFClass = 1
+ERROR 01:11:54,484 - Parsiranje nije uspesno
+INFO  01:12:37,863 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:12:37,908 - #2 program
+INFO  01:12:37,909 - #44 MJProgram
+INFO  01:12:37,909 - #44 int
+INFO  01:12:37,909 - #44 x
+INFO  01:12:37,909 - #31 ;
+INFO  01:12:37,909 - Deklarisana promenljiva x na liniji 2
+INFO  01:12:37,910 - #44 int
+INFO  01:12:37,910 - #44 y
+INFO  01:12:37,910 - #31 ;
+INFO  01:12:37,910 - Deklarisana promenljiva y na liniji 2
+INFO  01:12:37,910 - #4 class
+INFO  01:12:37,911 - #44 Klasa
+INFO  01:12:37,911 - #38 {
+INFO  01:12:37,911 - Deklarisana klasa Klasa na liniji 3
+INFO  01:12:37,911 - #44 int
+INFO  01:12:37,911 - #44 fklasa
+INFO  01:12:37,912 - #31 ;
+INFO  01:12:37,912 - Deklarisano polje fklasa na liniji 4
+INFO  01:12:37,912 - #39 }
+INFO  01:12:37,912 - #44 Klasa
+INFO  01:12:37,913 - #44 t
+INFO  01:12:37,913 - #31 ;
+INFO  01:12:37,913 - Deklarisana promenljiva t na liniji 6
+INFO  01:12:37,913 - #38 {
+INFO  01:12:37,913 - #44 int
+INFO  01:12:37,914 - #44 main
+INFO  01:12:37,914 - #34 (
+INFO  01:12:37,914 - Obradjuje se funkcija main na liniji 8
+INFO  01:12:37,914 - #44 int
+INFO  01:12:37,914 - #44 n
+INFO  01:12:37,914 - #35 )
+INFO  01:12:37,915 - Deklarisan formalni argument  n na liniji 8
+INFO  01:12:37,915 - #38 {
+INFO  01:12:37,915 - #9 print
+INFO  01:12:37,915 - #34 (
+INFO  01:12:37,915 - #43 1
+INFO  01:12:37,916 - #35 )
+INFO  01:12:37,916 - #31 ;
+INFO  01:12:37,916 - #9 print
+INFO  01:12:37,916 - #34 (
+INFO  01:12:37,916 - #43 2
+INFO  01:12:37,916 - #35 )
+INFO  01:12:37,917 - #31 ;
+INFO  01:12:37,917 - #44 x
+INFO  01:12:37,917 - #28 =
+INFO  01:12:37,917 - #44 t
+INFO  01:12:37,917 - #33 .
+INFO  01:12:37,918 - #44 fklasa
+INFO  01:12:37,918 - #31 ;
+ERROR 01:12:37,918 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:12:37,918 - #11 return
+ERROR 01:12:37,919 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:12:37,919 - #43 0
+INFO  01:12:37,919 - #31 ;
+INFO  01:12:37,919 - #39 }
+ERROR 01:12:37,919 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:12:37,919 - #39 }
+INFO  01:12:37,920 - GlobalVar = 3
+INFO  01:12:37,920 - GlobalConst = 0
+INFO  01:12:37,920 - LocalMainVar = 0
+INFO  01:12:37,920 - GlobalArray = 0
+INFO  01:12:37,921 - FuncProg = 1
+INFO  01:12:37,921 - Blocks = 1
+INFO  01:12:37,921 - FuncCalls = 2
+INFO  01:12:37,921 - FormalArg = 1
+INFO  01:12:37,921 - DefClass = 1
+INFO  01:12:37,921 - DefMClass = 0
+INFO  01:12:37,921 - DeclFClass = 1
+ERROR 01:12:37,923 - Parsiranje nije uspesno
+INFO  01:20:11,858 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:20:11,893 - #2 program
+INFO  01:20:11,893 - #44 MJProgram
+INFO  01:20:11,893 - #44 int
+INFO  01:20:11,893 - #44 x
+INFO  01:20:11,893 - #31 ;
+INFO  01:20:11,894 - Deklarisana promenljiva x na liniji 2
+INFO  01:20:11,894 - #44 int
+INFO  01:20:11,894 - #44 y
+INFO  01:20:11,894 - #31 ;
+INFO  01:20:11,895 - Deklarisana promenljiva y na liniji 2
+INFO  01:20:11,895 - #4 class
+INFO  01:20:11,895 - #44 Klasa
+INFO  01:20:11,895 - #38 {
+INFO  01:20:11,895 - Deklarisana klasa Klasa na liniji 3
+INFO  01:20:11,895 - #44 int
+INFO  01:20:11,895 - #44 fklasa
+INFO  01:20:11,896 - #31 ;
+INFO  01:20:11,896 - Deklarisano polje fklasa na liniji 4
+INFO  01:20:11,896 - #39 }
+INFO  01:20:11,896 - #44 Klasa
+INFO  01:20:11,896 - #44 t
+INFO  01:20:11,897 - #31 ;
+INFO  01:20:11,897 - Deklarisana promenljiva t na liniji 6
+INFO  01:20:11,897 - #38 {
+INFO  01:20:11,897 - #44 int
+INFO  01:20:11,897 - #44 main
+INFO  01:20:11,897 - #34 (
+INFO  01:20:11,897 - Obradjuje se funkcija main na liniji 8
+INFO  01:20:11,898 - #44 int
+INFO  01:20:11,898 - #44 n
+INFO  01:20:11,898 - #35 )
+INFO  01:20:11,898 - Deklarisan formalni argument  n na liniji 8
+INFO  01:20:11,898 - #38 {
+INFO  01:20:11,898 - #9 print
+INFO  01:20:11,898 - #34 (
+INFO  01:20:11,899 - #43 1
+INFO  01:20:11,899 - #35 )
+INFO  01:20:11,899 - #31 ;
+INFO  01:20:11,899 - #9 print
+INFO  01:20:11,899 - #34 (
+INFO  01:20:11,899 - #43 2
+INFO  01:20:11,899 - #35 )
+INFO  01:20:11,899 - #31 ;
+INFO  01:20:11,900 - #44 x
+INFO  01:20:11,900 - #28 =
+INFO  01:20:11,900 - #44 t
+INFO  01:20:11,900 - #33 .
+INFO  01:20:11,900 - #44 fklasa
+INFO  01:20:11,900 - #31 ;
+ERROR 01:20:11,901 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:20:11,901 - #11 return
+ERROR 01:20:11,901 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:20:11,901 - #43 0
+INFO  01:20:11,902 - #31 ;
+INFO  01:20:11,902 - #39 }
+ERROR 01:20:11,902 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:20:11,902 - #39 }
+INFO  01:20:11,902 - GlobalVar = 3
+INFO  01:20:11,902 - GlobalConst = 0
+INFO  01:20:11,902 - LocalMainVar = 0
+INFO  01:20:11,903 - GlobalArray = 0
+INFO  01:20:11,903 - FuncProg = 1
+INFO  01:20:11,903 - Blocks = 1
+INFO  01:20:11,903 - FuncCalls = 2
+INFO  01:20:11,903 - FormalArg = 1
+INFO  01:20:11,903 - DefClass = 1
+INFO  01:20:11,903 - DefMClass = 0
+INFO  01:20:11,903 - DeclFClass = 1
+ERROR 01:20:11,904 - Parsiranje nije uspesno
+INFO  01:24:11,834 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:24:11,862 - #2 program
+INFO  01:24:11,862 - #44 MJProgram
+INFO  01:24:11,862 - #44 int
+INFO  01:24:11,863 - #44 x
+INFO  01:24:11,863 - #31 ;
+INFO  01:24:11,863 - Deklarisana promenljiva x na liniji 2
+INFO  01:24:11,864 - #44 int
+INFO  01:24:11,864 - #44 y
+INFO  01:24:11,864 - #31 ;
+INFO  01:24:11,864 - Deklarisana promenljiva y na liniji 2
+INFO  01:24:11,864 - #4 class
+INFO  01:24:11,864 - #44 Klasa
+INFO  01:24:11,864 - #38 {
+INFO  01:24:11,864 - Deklarisana klasa Klasa na liniji 3
+INFO  01:24:11,865 - #44 int
+INFO  01:24:11,865 - #44 fklasa
+INFO  01:24:11,865 - #31 ;
+INFO  01:24:11,865 - Deklarisano polje fklasa na liniji 4
+INFO  01:24:11,865 - #39 }
+INFO  01:24:11,865 - #44 Klasa
+INFO  01:24:11,866 - #44 t
+INFO  01:24:11,866 - #31 ;
+INFO  01:24:11,866 - Deklarisana promenljiva t na liniji 6
+INFO  01:24:11,866 - #38 {
+INFO  01:24:11,866 - #44 int
+INFO  01:24:11,866 - #44 main
+INFO  01:24:11,866 - #34 (
+INFO  01:24:11,867 - Obradjuje se funkcija main na liniji 8
+INFO  01:24:11,867 - #44 int
+INFO  01:24:11,867 - #44 n
+INFO  01:24:11,867 - #35 )
+INFO  01:24:11,867 - Deklarisan formalni argument  n na liniji 8
+INFO  01:24:11,867 - #38 {
+INFO  01:24:11,867 - #9 print
+INFO  01:24:11,867 - #34 (
+INFO  01:24:11,868 - #43 1
+INFO  01:24:11,868 - #35 )
+INFO  01:24:11,868 - #31 ;
+INFO  01:24:11,868 - #9 print
+INFO  01:24:11,868 - #34 (
+INFO  01:24:11,868 - #43 2
+INFO  01:24:11,868 - #35 )
+INFO  01:24:11,868 - #31 ;
+INFO  01:24:11,869 - #44 x
+INFO  01:24:11,869 - #28 =
+INFO  01:24:11,869 - #44 t
+INFO  01:24:11,869 - #33 .
+INFO  01:24:11,869 - #44 fklasa
+INFO  01:24:11,869 - #31 ;
+ERROR 01:24:11,870 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:24:11,870 - #11 return
+ERROR 01:24:11,870 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:24:11,870 - #43 0
+INFO  01:24:11,870 - #31 ;
+INFO  01:24:11,870 - #39 }
+ERROR 01:24:11,870 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:24:11,871 - #39 }
+INFO  01:24:11,871 - GlobalVar = 3
+INFO  01:24:11,871 - GlobalConst = 0
+INFO  01:24:11,871 - LocalMainVar = 0
+INFO  01:24:11,871 - GlobalArray = 0
+INFO  01:24:11,871 - FuncProg = 1
+INFO  01:24:11,871 - Blocks = 1
+INFO  01:24:11,872 - FuncCalls = 2
+INFO  01:24:11,872 - FormalArg = 1
+INFO  01:24:11,872 - DefClass = 1
+INFO  01:24:11,872 - DefMClass = 0
+INFO  01:24:11,872 - DeclFClass = 1
+ERROR 01:24:11,873 - Parsiranje nije uspesno
+INFO  01:24:36,511 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:24:36,534 - #2 program
+INFO  01:24:36,534 - #44 MJProgram
+INFO  01:24:36,534 - #44 int
+INFO  01:24:36,534 - #44 x
+INFO  01:24:36,535 - #31 ;
+INFO  01:24:36,535 - Deklarisana promenljiva x na liniji 2
+INFO  01:24:36,535 - #44 int
+INFO  01:24:36,535 - #44 y
+INFO  01:24:36,535 - #31 ;
+INFO  01:24:36,535 - Deklarisana promenljiva y na liniji 2
+INFO  01:24:36,535 - #4 class
+INFO  01:24:36,535 - #44 Klasa
+INFO  01:24:36,536 - #38 {
+INFO  01:24:36,536 - Deklarisana klasa Klasa na liniji 3
+INFO  01:24:36,536 - #44 int
+INFO  01:24:36,536 - #44 fklasa
+INFO  01:24:36,536 - #31 ;
+INFO  01:24:36,536 - Deklarisano polje fklasa na liniji 4
+INFO  01:24:36,536 - #39 }
+INFO  01:24:36,536 - #44 Klasa
+INFO  01:24:36,537 - #44 t
+INFO  01:24:36,537 - #31 ;
+INFO  01:24:36,537 - Deklarisana promenljiva t na liniji 6
+INFO  01:24:36,537 - #38 {
+INFO  01:24:36,537 - #44 int
+INFO  01:24:36,537 - #44 main
+INFO  01:24:36,537 - #34 (
+INFO  01:24:36,537 - Obradjuje se funkcija main na liniji 8
+INFO  01:24:36,538 - #44 int
+INFO  01:24:36,538 - #44 n
+INFO  01:24:36,538 - #35 )
+INFO  01:24:36,538 - Deklarisan formalni argument  n na liniji 8
+INFO  01:24:36,538 - #38 {
+INFO  01:24:36,538 - #9 print
+INFO  01:24:36,538 - #34 (
+INFO  01:24:36,539 - #43 1
+INFO  01:24:36,539 - #35 )
+INFO  01:24:36,539 - #31 ;
+INFO  01:24:36,539 - #9 print
+INFO  01:24:36,539 - #34 (
+INFO  01:24:36,539 - #43 2
+INFO  01:24:36,539 - #35 )
+INFO  01:24:36,539 - #31 ;
+INFO  01:24:36,540 - #44 x
+INFO  01:24:36,540 - #28 =
+INFO  01:24:36,540 - #44 t
+INFO  01:24:36,540 - #33 .
+INFO  01:24:36,540 - #44 fklasa
+INFO  01:24:36,540 - #31 ;
+ERROR 01:24:36,541 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:24:36,541 - #11 return
+ERROR 01:24:36,541 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:24:36,541 - #43 0
+INFO  01:24:36,541 - #31 ;
+INFO  01:24:36,541 - #39 }
+ERROR 01:24:36,541 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:24:36,541 - #39 }
+INFO  01:24:36,542 - GlobalVar = 3
+INFO  01:24:36,542 - GlobalConst = 0
+INFO  01:24:36,542 - LocalMainVar = 0
+INFO  01:24:36,542 - GlobalArray = 0
+INFO  01:24:36,542 - FuncProg = 1
+INFO  01:24:36,542 - Blocks = 1
+INFO  01:24:36,542 - FuncCalls = 2
+INFO  01:24:36,542 - FormalArg = 1
+INFO  01:24:36,542 - DefClass = 1
+INFO  01:24:36,543 - DefMClass = 0
+INFO  01:24:36,543 - DeclFClass = 1
+ERROR 01:24:36,543 - Parsiranje nije uspesno
+INFO  01:24:54,236 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:24:54,264 - #2 program
+INFO  01:24:54,264 - #44 MJProgram
+INFO  01:24:54,265 - #44 int
+INFO  01:24:54,265 - #44 x
+INFO  01:24:54,265 - #31 ;
+INFO  01:24:54,265 - Deklarisana promenljiva x na liniji 2
+INFO  01:24:54,265 - #44 int
+INFO  01:24:54,266 - #44 y
+INFO  01:24:54,266 - #31 ;
+INFO  01:24:54,266 - Deklarisana promenljiva y na liniji 2
+INFO  01:24:54,266 - #4 class
+INFO  01:24:54,266 - #44 Klasa
+INFO  01:24:54,266 - #38 {
+INFO  01:24:54,266 - Deklarisana klasa Klasa na liniji 3
+INFO  01:24:54,266 - #44 int
+INFO  01:24:54,267 - #44 fklasa
+INFO  01:24:54,267 - #31 ;
+INFO  01:24:54,267 - Deklarisano polje fklasa na liniji 4
+INFO  01:24:54,267 - #39 }
+INFO  01:24:54,267 - #44 Klasa
+INFO  01:24:54,268 - #44 t
+INFO  01:24:54,268 - #31 ;
+INFO  01:24:54,268 - Deklarisana promenljiva t na liniji 6
+INFO  01:24:54,268 - #38 {
+INFO  01:24:54,268 - #44 int
+INFO  01:24:54,268 - #44 main
+INFO  01:24:54,268 - #34 (
+INFO  01:24:54,269 - Obradjuje se funkcija main na liniji 8
+INFO  01:24:54,269 - #44 int
+INFO  01:24:54,269 - #44 n
+INFO  01:24:54,269 - #35 )
+INFO  01:24:54,269 - Deklarisan formalni argument  n na liniji 8
+INFO  01:24:54,269 - #38 {
+INFO  01:24:54,270 - #9 print
+INFO  01:24:54,270 - #34 (
+INFO  01:24:54,270 - #43 1
+INFO  01:24:54,270 - #35 )
+INFO  01:24:54,270 - #31 ;
+INFO  01:24:54,270 - #9 print
+INFO  01:24:54,271 - #34 (
+INFO  01:24:54,271 - #43 2
+INFO  01:24:54,271 - #35 )
+INFO  01:24:54,271 - #31 ;
+INFO  01:24:54,271 - #44 x
+INFO  01:24:54,271 - #28 =
+INFO  01:24:54,271 - #44 t
+INFO  01:24:54,272 - #33 .
+INFO  01:24:54,272 - #44 fklasa
+INFO  01:24:54,272 - #31 ;
+ERROR 01:24:54,272 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ERROR 01:24:54,272 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:24:54,273 - #11 return
+ERROR 01:24:54,273 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:24:54,273 - #43 0
+INFO  01:24:54,273 - #31 ;
+INFO  01:24:54,273 - #39 }
+ERROR 01:24:54,273 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:24:54,273 - #39 }
+INFO  01:24:54,274 - GlobalVar = 3
+INFO  01:24:54,274 - GlobalConst = 0
+INFO  01:24:54,274 - LocalMainVar = 0
+INFO  01:24:54,274 - GlobalArray = 0
+INFO  01:24:54,274 - FuncProg = 1
+INFO  01:24:54,274 - Blocks = 1
+INFO  01:24:54,274 - FuncCalls = 2
+INFO  01:24:54,274 - FormalArg = 1
+INFO  01:24:54,275 - DefClass = 1
+INFO  01:24:54,275 - DefMClass = 0
+INFO  01:24:54,275 - DeclFClass = 1
+ERROR 01:24:54,276 - Parsiranje nije uspesno
+INFO  01:26:13,120 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:26:13,154 - #2 program
+INFO  01:26:13,154 - #44 MJProgram
+INFO  01:26:13,154 - #44 int
+INFO  01:26:13,154 - #44 x
+INFO  01:26:13,155 - #31 ;
+INFO  01:26:13,155 - Deklarisana promenljiva x na liniji 2
+INFO  01:26:13,155 - #44 int
+INFO  01:26:13,155 - #44 y
+INFO  01:26:13,155 - #31 ;
+INFO  01:26:13,155 - Deklarisana promenljiva y na liniji 2
+INFO  01:26:13,156 - #4 class
+INFO  01:26:13,156 - #44 Klasa
+INFO  01:26:13,156 - #38 {
+INFO  01:26:13,156 - Deklarisana klasa Klasa na liniji 3
+INFO  01:26:13,157 - #44 int
+INFO  01:26:13,157 - #44 fklasa
+INFO  01:26:13,157 - #31 ;
+INFO  01:26:13,157 - Deklarisano polje fklasa na liniji 4
+INFO  01:26:13,157 - #39 }
+INFO  01:26:13,158 - #44 Klasa
+INFO  01:26:13,158 - #44 t
+INFO  01:26:13,158 - #31 ;
+INFO  01:26:13,159 - Deklarisana promenljiva t na liniji 6
+INFO  01:26:13,159 - #38 {
+INFO  01:26:13,159 - #44 int
+INFO  01:26:13,159 - #44 main
+INFO  01:26:13,159 - #34 (
+INFO  01:26:13,159 - Obradjuje se funkcija main na liniji 8
+INFO  01:26:13,159 - #44 int
+INFO  01:26:13,159 - #44 n
+INFO  01:26:13,160 - #35 )
+INFO  01:26:13,160 - Deklarisan formalni argument  n na liniji 8
+INFO  01:26:13,160 - #38 {
+INFO  01:26:13,160 - #9 print
+INFO  01:26:13,160 - #34 (
+INFO  01:26:13,160 - #43 1
+INFO  01:26:13,161 - #35 )
+INFO  01:26:13,161 - #31 ;
+INFO  01:26:13,161 - #9 print
+INFO  01:26:13,161 - #34 (
+INFO  01:26:13,161 - #43 2
+INFO  01:26:13,161 - #35 )
+INFO  01:26:13,162 - #31 ;
+INFO  01:26:13,162 - #44 x
+INFO  01:26:13,162 - #28 =
+INFO  01:26:13,162 - #44 t
+INFO  01:26:13,163 - #33 .
+INFO  01:26:13,163 - #44 fklasa
+INFO  01:26:13,163 - #31 ;
+ERROR 01:26:13,163 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:26:13,163 - #11 return
+ERROR 01:26:13,164 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:26:13,164 - #43 0
+INFO  01:26:13,164 - #31 ;
+INFO  01:26:13,164 - #39 }
+ERROR 01:26:13,164 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:26:13,165 - #39 }
+INFO  01:26:13,165 - GlobalVar = 3
+INFO  01:26:13,165 - GlobalConst = 0
+INFO  01:26:13,165 - LocalMainVar = 0
+INFO  01:26:13,166 - GlobalArray = 0
+INFO  01:26:13,166 - FuncProg = 1
+INFO  01:26:13,166 - Blocks = 1
+INFO  01:26:13,166 - FuncCalls = 2
+INFO  01:26:13,166 - FormalArg = 1
+INFO  01:26:13,166 - DefClass = 1
+INFO  01:26:13,166 - DefMClass = 0
+INFO  01:26:13,167 - DeclFClass = 1
+ERROR 01:26:13,168 - Parsiranje nije uspesno
+INFO  01:26:37,980 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:26:38,013 - #2 program
+INFO  01:26:38,014 - #44 MJProgram
+INFO  01:26:38,014 - #44 int
+INFO  01:26:38,014 - #44 x
+INFO  01:26:38,015 - #31 ;
+INFO  01:26:38,015 - Deklarisana promenljiva x na liniji 2
+INFO  01:26:38,015 - #44 int
+INFO  01:26:38,015 - #44 y
+INFO  01:26:38,016 - #31 ;
+INFO  01:26:38,016 - Deklarisana promenljiva y na liniji 2
+INFO  01:26:38,016 - #4 class
+INFO  01:26:38,016 - #44 Klasa
+INFO  01:26:38,016 - #38 {
+INFO  01:26:38,016 - Deklarisana klasa Klasa na liniji 3
+INFO  01:26:38,017 - #44 int
+INFO  01:26:38,017 - #44 fklasa
+INFO  01:26:38,017 - #31 ;
+INFO  01:26:38,017 - Deklarisano polje fklasa na liniji 4
+INFO  01:26:38,017 - #39 }
+INFO  01:26:38,017 - #44 Klasa
+INFO  01:26:38,018 - #44 t
+INFO  01:26:38,018 - #31 ;
+INFO  01:26:38,018 - Deklarisana promenljiva t na liniji 6
+INFO  01:26:38,019 - #38 {
+INFO  01:26:38,019 - #44 int
+INFO  01:26:38,019 - #44 main
+INFO  01:26:38,019 - #34 (
+INFO  01:26:38,019 - Obradjuje se funkcija main na liniji 8
+INFO  01:26:38,020 - #44 int
+INFO  01:26:38,020 - #44 n
+INFO  01:26:38,020 - #35 )
+INFO  01:26:38,020 - Deklarisan formalni argument  n na liniji 8
+INFO  01:26:38,020 - #38 {
+INFO  01:26:38,021 - #9 print
+INFO  01:26:38,021 - #34 (
+INFO  01:26:38,021 - #43 1
+INFO  01:26:38,021 - #35 )
+INFO  01:26:38,021 - #31 ;
+INFO  01:26:38,022 - #9 print
+INFO  01:26:38,022 - #34 (
+INFO  01:26:38,022 - #43 2
+INFO  01:26:38,022 - #35 )
+INFO  01:26:38,022 - #31 ;
+INFO  01:26:38,022 - #44 x
+INFO  01:26:38,023 - #28 =
+INFO  01:26:38,023 - #44 t
+INFO  01:26:38,023 - #33 .
+INFO  01:26:38,023 - #44 fklasa
+INFO  01:26:38,024 - #31 ;
+ERROR 01:26:38,024 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ERROR 01:26:38,024 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:26:38,025 - #11 return
+ERROR 01:26:38,025 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:26:38,025 - #43 0
+INFO  01:26:38,025 - #31 ;
+INFO  01:26:38,026 - #39 }
+ERROR 01:26:38,026 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:26:38,026 - #39 }
+INFO  01:26:38,027 - GlobalVar = 3
+INFO  01:26:38,027 - GlobalConst = 0
+INFO  01:26:38,027 - LocalMainVar = 0
+INFO  01:26:38,027 - GlobalArray = 0
+INFO  01:26:38,027 - FuncProg = 1
+INFO  01:26:38,027 - Blocks = 1
+INFO  01:26:38,028 - FuncCalls = 2
+INFO  01:26:38,028 - FormalArg = 1
+INFO  01:26:38,028 - DefClass = 1
+INFO  01:26:38,028 - DefMClass = 0
+INFO  01:26:38,028 - DeclFClass = 1
+ERROR 01:26:38,030 - Parsiranje nije uspesno
+INFO  01:27:52,364 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:27:52,389 - #2 program
+INFO  01:27:52,389 - #44 MJProgram
+INFO  01:27:52,389 - #44 int
+INFO  01:27:52,390 - #44 x
+INFO  01:27:52,390 - #31 ;
+INFO  01:27:52,390 - Deklarisana promenljiva x na liniji 2
+INFO  01:27:52,390 - #44 int
+INFO  01:27:52,391 - #44 y
+INFO  01:27:52,391 - #31 ;
+INFO  01:27:52,391 - Deklarisana promenljiva y na liniji 2
+INFO  01:27:52,391 - #4 class
+INFO  01:27:52,391 - #44 Klasa
+INFO  01:27:52,392 - #38 {
+INFO  01:27:52,392 - Deklarisana klasa Klasa na liniji 3
+INFO  01:27:52,392 - #44 int
+INFO  01:27:52,392 - #44 fklasa
+INFO  01:27:52,392 - #31 ;
+INFO  01:27:52,393 - Deklarisano polje fklasa na liniji 4
+INFO  01:27:52,393 - #39 }
+INFO  01:27:52,393 - #44 Klasa
+INFO  01:27:52,393 - #44 t
+INFO  01:27:52,394 - #31 ;
+INFO  01:27:52,394 - Deklarisana promenljiva t na liniji 6
+INFO  01:27:52,394 - #38 {
+INFO  01:27:52,394 - #44 int
+INFO  01:27:52,394 - #44 main
+INFO  01:27:52,394 - #34 (
+INFO  01:27:52,395 - Obradjuje se funkcija main na liniji 8
+INFO  01:27:52,395 - #44 int
+INFO  01:27:52,395 - #44 n
+INFO  01:27:52,395 - #35 )
+INFO  01:27:52,395 - Deklarisan formalni argument  n na liniji 8
+INFO  01:27:52,395 - #38 {
+INFO  01:27:52,396 - #9 print
+INFO  01:27:52,396 - #34 (
+INFO  01:27:52,396 - #43 1
+INFO  01:27:52,396 - #35 )
+INFO  01:27:52,396 - #31 ;
+INFO  01:27:52,396 - #9 print
+INFO  01:27:52,397 - #34 (
+INFO  01:27:52,397 - #43 2
+INFO  01:27:52,397 - #35 )
+INFO  01:27:52,397 - #31 ;
+INFO  01:27:52,397 - #44 x
+INFO  01:27:52,398 - #28 =
+INFO  01:27:52,398 - #44 t
+INFO  01:27:52,398 - #33 .
+INFO  01:27:52,398 - #44 fklasa
+INFO  01:27:52,399 - #31 ;
+ERROR 01:27:52,399 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ERROR 01:27:52,400 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:27:52,400 - #11 return
+ERROR 01:27:52,400 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:27:52,400 - #43 0
+INFO  01:27:52,400 - #31 ;
+INFO  01:27:52,401 - #39 }
+ERROR 01:27:52,401 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:27:52,401 - #39 }
+INFO  01:27:52,402 - GlobalVar = 3
+INFO  01:27:52,402 - GlobalConst = 0
+INFO  01:27:52,402 - LocalMainVar = 0
+INFO  01:27:52,402 - GlobalArray = 0
+INFO  01:27:52,402 - FuncProg = 1
+INFO  01:27:52,403 - Blocks = 1
+INFO  01:27:52,403 - FuncCalls = 2
+INFO  01:27:52,403 - FormalArg = 1
+INFO  01:27:52,403 - DefClass = 1
+INFO  01:27:52,403 - DefMClass = 0
+INFO  01:27:52,403 - DeclFClass = 1
+ERROR 01:27:52,405 - Parsiranje nije uspesno
+INFO  01:27:57,754 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:27:57,783 - #2 program
+INFO  01:27:57,783 - #44 MJProgram
+INFO  01:27:57,783 - #44 int
+INFO  01:27:57,784 - #44 x
+INFO  01:27:57,784 - #31 ;
+INFO  01:27:57,784 - Deklarisana promenljiva x na liniji 2
+INFO  01:27:57,785 - #44 int
+INFO  01:27:57,785 - #44 y
+INFO  01:27:57,785 - #31 ;
+INFO  01:27:57,785 - Deklarisana promenljiva y na liniji 2
+INFO  01:27:57,785 - #4 class
+INFO  01:27:57,785 - #44 Klasa
+INFO  01:27:57,786 - #38 {
+INFO  01:27:57,786 - Deklarisana klasa Klasa na liniji 3
+INFO  01:27:57,786 - #44 int
+INFO  01:27:57,786 - #44 fklasa
+INFO  01:27:57,786 - #31 ;
+INFO  01:27:57,786 - Deklarisano polje fklasa na liniji 4
+INFO  01:27:57,786 - #39 }
+INFO  01:27:57,787 - #44 Klasa
+INFO  01:27:57,787 - #44 t
+INFO  01:27:57,787 - #31 ;
+INFO  01:27:57,787 - Deklarisana promenljiva t na liniji 6
+INFO  01:27:57,787 - #38 {
+INFO  01:27:57,788 - #44 int
+INFO  01:27:57,788 - #44 main
+INFO  01:27:57,788 - #34 (
+INFO  01:27:57,788 - Obradjuje se funkcija main na liniji 8
+INFO  01:27:57,788 - #44 int
+INFO  01:27:57,788 - #44 n
+INFO  01:27:57,788 - #35 )
+INFO  01:27:57,789 - Deklarisan formalni argument  n na liniji 8
+INFO  01:27:57,789 - #38 {
+INFO  01:27:57,789 - #9 print
+INFO  01:27:57,789 - #34 (
+INFO  01:27:57,789 - #43 1
+INFO  01:27:57,790 - #35 )
+INFO  01:27:57,790 - #31 ;
+INFO  01:27:57,790 - #9 print
+INFO  01:27:57,790 - #34 (
+INFO  01:27:57,790 - #43 2
+INFO  01:27:57,790 - #35 )
+INFO  01:27:57,790 - #31 ;
+INFO  01:27:57,791 - #44 x
+INFO  01:27:57,791 - #28 =
+INFO  01:27:57,791 - #44 t
+INFO  01:27:57,791 - #33 .
+INFO  01:27:57,791 - #44 fklasa
+INFO  01:27:57,791 - #31 ;
+ERROR 01:27:57,792 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:27:57,792 - #11 return
+ERROR 01:27:57,792 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:27:57,792 - #43 0
+INFO  01:27:57,793 - #31 ;
+INFO  01:27:57,793 - #39 }
+ERROR 01:27:57,793 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:27:57,793 - #39 }
+INFO  01:27:57,793 - GlobalVar = 3
+INFO  01:27:57,793 - GlobalConst = 0
+INFO  01:27:57,794 - LocalMainVar = 0
+INFO  01:27:57,794 - GlobalArray = 0
+INFO  01:27:57,794 - FuncProg = 1
+INFO  01:27:57,794 - Blocks = 1
+INFO  01:27:57,794 - FuncCalls = 2
+INFO  01:27:57,795 - FormalArg = 1
+INFO  01:27:57,795 - DefClass = 1
+INFO  01:27:57,795 - DefMClass = 0
+INFO  01:27:57,795 - DeclFClass = 1
+ERROR 01:27:57,797 - Parsiranje nije uspesno
+INFO  01:29:17,141 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:29:17,187 - #2 program
+INFO  01:29:17,188 - #44 MJProgram
+INFO  01:29:17,188 - #44 int
+INFO  01:29:17,188 - #44 x
+INFO  01:29:17,189 - #31 ;
+INFO  01:29:17,189 - Deklarisana promenljiva x na liniji 2
+INFO  01:29:17,190 - #44 int
+INFO  01:29:17,190 - #44 y
+INFO  01:29:17,190 - #31 ;
+INFO  01:29:17,190 - Deklarisana promenljiva y na liniji 2
+INFO  01:29:17,191 - #4 class
+INFO  01:29:17,191 - #44 Klasa
+INFO  01:29:17,191 - #38 {
+INFO  01:29:17,191 - Deklarisana klasa Klasa na liniji 3
+INFO  01:29:17,191 - #44 int
+INFO  01:29:17,192 - #44 xx
+INFO  01:29:17,192 - #31 ;
+INFO  01:29:17,192 - Deklarisano polje xx na liniji 4
+INFO  01:29:17,192 - #39 }
+INFO  01:29:17,193 - #44 Klasa
+INFO  01:29:17,193 - #44 t
+INFO  01:29:17,194 - #31 ;
+INFO  01:29:17,194 - Deklarisana promenljiva t na liniji 6
+INFO  01:29:17,194 - #38 {
+INFO  01:29:17,194 - #44 int
+INFO  01:29:17,194 - #44 main
+INFO  01:29:17,195 - #34 (
+INFO  01:29:17,195 - Obradjuje se funkcija main na liniji 8
+INFO  01:29:17,195 - #44 int
+INFO  01:29:17,195 - #44 n
+INFO  01:29:17,195 - #35 )
+INFO  01:29:17,195 - Deklarisan formalni argument  n na liniji 8
+INFO  01:29:17,196 - #38 {
+INFO  01:29:17,196 - #9 print
+INFO  01:29:17,196 - #34 (
+INFO  01:29:17,196 - #43 1
+INFO  01:29:17,196 - #35 )
+INFO  01:29:17,197 - #31 ;
+INFO  01:29:17,197 - #9 print
+INFO  01:29:17,197 - #34 (
+INFO  01:29:17,197 - #43 2
+INFO  01:29:17,197 - #35 )
+INFO  01:29:17,198 - #31 ;
+INFO  01:29:17,198 - #44 x
+INFO  01:29:17,198 - #28 =
+INFO  01:29:17,198 - #44 t
+INFO  01:29:17,198 - #33 .
+INFO  01:29:17,198 - #44 xx
+INFO  01:29:17,199 - #31 ;
+ERROR 01:29:17,199 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ERROR 01:29:17,199 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:29:17,199 - #11 return
+ERROR 01:29:17,200 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:29:17,200 - #43 0
+INFO  01:29:17,200 - #31 ;
+INFO  01:29:17,200 - #39 }
+ERROR 01:29:17,201 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:29:17,201 - #39 }
+INFO  01:29:17,201 - GlobalVar = 3
+INFO  01:29:17,201 - GlobalConst = 0
+INFO  01:29:17,202 - LocalMainVar = 0
+INFO  01:29:17,202 - GlobalArray = 0
+INFO  01:29:17,202 - FuncProg = 1
+INFO  01:29:17,202 - Blocks = 1
+INFO  01:29:17,202 - FuncCalls = 2
+INFO  01:29:17,202 - FormalArg = 1
+INFO  01:29:17,203 - DefClass = 1
+INFO  01:29:17,203 - DefMClass = 0
+INFO  01:29:17,203 - DeclFClass = 1
+ERROR 01:29:17,205 - Parsiranje nije uspesno
+INFO  01:31:42,613 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:31:42,640 - #2 program
+INFO  01:31:42,640 - #44 MJProgram
+INFO  01:31:42,640 - #44 int
+INFO  01:31:42,640 - #44 x
+INFO  01:31:42,641 - #31 ;
+INFO  01:31:42,641 - Deklarisana promenljiva x na liniji 2
+INFO  01:31:42,641 - #44 int
+INFO  01:31:42,641 - #44 y
+INFO  01:31:42,641 - #31 ;
+INFO  01:31:42,641 - Deklarisana promenljiva y na liniji 2
+INFO  01:31:42,641 - #4 class
+INFO  01:31:42,641 - #44 Klasa
+INFO  01:31:42,642 - #38 {
+INFO  01:31:42,642 - Deklarisana klasa Klasa na liniji 3
+INFO  01:31:42,642 - #44 int
+INFO  01:31:42,642 - #44 xx
+INFO  01:31:42,642 - #31 ;
+INFO  01:31:42,642 - Deklarisano polje xx na liniji 4
+INFO  01:31:42,642 - #39 }
+INFO  01:31:42,643 - #44 Klasa
+INFO  01:31:42,643 - #44 t
+INFO  01:31:42,643 - #31 ;
+INFO  01:31:42,643 - Deklarisana promenljiva t na liniji 6
+INFO  01:31:42,643 - #38 {
+INFO  01:31:42,643 - #44 int
+INFO  01:31:42,644 - #44 main
+INFO  01:31:42,644 - #34 (
+INFO  01:31:42,644 - Obradjuje se funkcija main na liniji 8
+INFO  01:31:42,644 - #44 int
+INFO  01:31:42,644 - #44 n
+INFO  01:31:42,644 - #35 )
+INFO  01:31:42,644 - Deklarisan formalni argument  n na liniji 8
+INFO  01:31:42,644 - #38 {
+INFO  01:31:42,645 - #9 print
+INFO  01:31:42,645 - #34 (
+INFO  01:31:42,645 - #43 1
+INFO  01:31:42,645 - #35 )
+INFO  01:31:42,645 - #31 ;
+INFO  01:31:42,645 - #9 print
+INFO  01:31:42,645 - #34 (
+INFO  01:31:42,646 - #43 2
+INFO  01:31:42,646 - #35 )
+INFO  01:31:42,646 - #31 ;
+INFO  01:31:42,646 - #44 x
+INFO  01:31:42,646 - #28 =
+INFO  01:31:42,646 - #44 t
+INFO  01:31:42,646 - #33 .
+INFO  01:31:42,646 - #44 xx
+INFO  01:31:42,647 - #31 ;
+ERROR 01:31:42,647 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:31:42,647 - #11 return
+ERROR 01:31:42,647 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:31:42,647 - #43 0
+INFO  01:31:42,647 - #31 ;
+INFO  01:31:42,648 - #39 }
+ERROR 01:31:42,648 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:31:42,648 - #39 }
+INFO  01:31:42,648 - GlobalVar = 3
+INFO  01:31:42,648 - GlobalConst = 0
+INFO  01:31:42,648 - LocalMainVar = 0
+INFO  01:31:42,648 - GlobalArray = 0
+INFO  01:31:42,649 - FuncProg = 1
+INFO  01:31:42,649 - Blocks = 1
+INFO  01:31:42,649 - FuncCalls = 2
+INFO  01:31:42,649 - FormalArg = 1
+INFO  01:31:42,649 - DefClass = 1
+INFO  01:31:42,649 - DefMClass = 0
+INFO  01:31:42,649 - DeclFClass = 1
+ERROR 01:31:42,650 - Parsiranje nije uspesno
+INFO  01:32:21,214 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:32:21,246 - #2 program
+INFO  01:32:21,246 - #44 MJProgram
+INFO  01:32:21,246 - #44 int
+INFO  01:32:21,246 - #44 x
+INFO  01:32:21,247 - #31 ;
+INFO  01:32:21,247 - Deklarisana promenljiva x na liniji 2
+INFO  01:32:21,247 - #44 int
+INFO  01:32:21,247 - #44 y
+INFO  01:32:21,247 - #31 ;
+INFO  01:32:21,247 - Deklarisana promenljiva y na liniji 2
+INFO  01:32:21,247 - #4 class
+INFO  01:32:21,248 - #44 Klasa
+INFO  01:32:21,248 - #38 {
+INFO  01:32:21,248 - Deklarisana klasa Klasa na liniji 3
+INFO  01:32:21,248 - #44 int
+INFO  01:32:21,248 - #44 xx
+INFO  01:32:21,248 - #31 ;
+INFO  01:32:21,248 - Deklarisano polje xx na liniji 4
+INFO  01:32:21,249 - #39 }
+INFO  01:32:21,249 - #44 Klasa
+INFO  01:32:21,249 - #44 t
+INFO  01:32:21,249 - #31 ;
+INFO  01:32:21,250 - Deklarisana promenljiva t na liniji 6
+INFO  01:32:21,250 - #38 {
+INFO  01:32:21,250 - #44 int
+INFO  01:32:21,250 - #44 main
+INFO  01:32:21,250 - #34 (
+INFO  01:32:21,251 - Obradjuje se funkcija main na liniji 8
+INFO  01:32:21,251 - #44 int
+INFO  01:32:21,251 - #44 n
+INFO  01:32:21,251 - #35 )
+INFO  01:32:21,251 - Deklarisan formalni argument  n na liniji 8
+INFO  01:32:21,251 - #38 {
+INFO  01:32:21,252 - #9 print
+INFO  01:32:21,252 - #34 (
+INFO  01:32:21,252 - #43 1
+INFO  01:32:21,252 - #35 )
+INFO  01:32:21,252 - #31 ;
+INFO  01:32:21,253 - #9 print
+INFO  01:32:21,253 - #34 (
+INFO  01:32:21,253 - #43 2
+INFO  01:32:21,253 - #35 )
+INFO  01:32:21,253 - #31 ;
+INFO  01:32:21,253 - #44 x
+INFO  01:32:21,253 - #28 =
+INFO  01:32:21,254 - #44 t
+INFO  01:32:21,254 - #33 .
+INFO  01:32:21,254 - #44 xx
+INFO  01:32:21,254 - #31 ;
+ERROR 01:32:21,254 - Greska na liniji 12 :ime tnije deklarisano
+INFO  01:32:21,255 - #11 return
+ERROR 01:32:21,255 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:32:21,255 - #43 0
+INFO  01:32:21,255 - #31 ;
+INFO  01:32:21,255 - #39 }
+ERROR 01:32:21,255 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:32:21,255 - #39 }
+INFO  01:32:21,256 - GlobalVar = 3
+INFO  01:32:21,256 - GlobalConst = 0
+INFO  01:32:21,256 - LocalMainVar = 0
+INFO  01:32:21,256 - GlobalArray = 0
+INFO  01:32:21,256 - FuncProg = 1
+INFO  01:32:21,256 - Blocks = 1
+INFO  01:32:21,257 - FuncCalls = 2
+INFO  01:32:21,257 - FormalArg = 1
+INFO  01:32:21,257 - DefClass = 1
+INFO  01:32:21,257 - DefMClass = 0
+INFO  01:32:21,257 - DeclFClass = 1
+ERROR 01:32:21,258 - Parsiranje nije uspesno
+INFO  01:38:02,235 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:38:02,261 - #2 program
+INFO  01:38:02,262 - #44 MJProgram
+INFO  01:38:02,262 - #44 int
+INFO  01:38:02,262 - #44 x
+INFO  01:38:02,262 - #31 ;
+INFO  01:38:02,262 - Deklarisana promenljiva x na liniji 2
+INFO  01:38:02,263 - #44 int
+INFO  01:38:02,263 - #44 y
+INFO  01:38:02,263 - #31 ;
+INFO  01:38:02,263 - Deklarisana promenljiva y na liniji 2
+INFO  01:38:02,263 - #4 class
+INFO  01:38:02,263 - #44 Klasa
+INFO  01:38:02,263 - #38 {
+INFO  01:38:02,263 - Deklarisana klasa Klasa na liniji 3
+INFO  01:38:02,264 - #44 int
+INFO  01:38:02,264 - #44 xx
+INFO  01:38:02,264 - #31 ;
+INFO  01:38:02,264 - Deklarisano polje xx na liniji 4
+INFO  01:38:02,264 - #39 }
+INFO  01:38:02,264 - #44 Klasa
+INFO  01:38:02,265 - #44 t
+INFO  01:38:02,265 - #31 ;
+INFO  01:38:02,265 - Deklarisana promenljiva t na liniji 6
+INFO  01:38:02,265 - #38 {
+INFO  01:38:02,265 - #44 int
+INFO  01:38:02,265 - #44 main
+INFO  01:38:02,265 - #34 (
+INFO  01:38:02,265 - Obradjuje se funkcija main na liniji 8
+INFO  01:38:02,266 - #44 int
+INFO  01:38:02,266 - #44 n
+INFO  01:38:02,266 - #35 )
+INFO  01:38:02,266 - Deklarisan formalni argument  n na liniji 8
+INFO  01:38:02,266 - #38 {
+INFO  01:38:02,266 - #9 print
+INFO  01:38:02,266 - #34 (
+INFO  01:38:02,267 - #43 1
+INFO  01:38:02,267 - #35 )
+INFO  01:38:02,267 - #31 ;
+INFO  01:38:02,267 - #9 print
+INFO  01:38:02,267 - #34 (
+INFO  01:38:02,267 - #43 2
+INFO  01:38:02,267 - #35 )
+INFO  01:38:02,267 - #31 ;
+INFO  01:38:02,268 - #44 x
+INFO  01:38:02,268 - #28 =
+INFO  01:38:02,268 - #44 t
+INFO  01:38:02,268 - #33 .
+INFO  01:38:02,268 - #44 xx
+INFO  01:38:02,268 - #31 ;
+INFO  01:38:02,268 - #11 return
+ERROR 01:38:02,269 - Greska na liniji 12 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:38:02,269 - #43 0
+INFO  01:38:02,269 - #31 ;
+INFO  01:38:02,269 - #39 }
+ERROR 01:38:02,269 - Greska na liniji 13 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:38:02,269 - #39 }
+INFO  01:38:02,270 - GlobalVar = 3
+INFO  01:38:02,270 - GlobalConst = 0
+INFO  01:38:02,270 - LocalMainVar = 0
+INFO  01:38:02,270 - GlobalArray = 0
+INFO  01:38:02,270 - FuncProg = 1
+INFO  01:38:02,270 - Blocks = 1
+INFO  01:38:02,270 - FuncCalls = 2
+INFO  01:38:02,270 - FormalArg = 1
+INFO  01:38:02,270 - DefClass = 1
+INFO  01:38:02,270 - DefMClass = 0
+INFO  01:38:02,270 - DeclFClass = 1
+ERROR 01:38:02,272 - Parsiranje nije uspesno
+INFO  01:38:58,437 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:38:58,463 - #2 program
+INFO  01:38:58,463 - #44 MJProgram
+INFO  01:38:58,463 - #44 int
+INFO  01:38:58,463 - #44 x
+INFO  01:38:58,463 - #31 ;
+INFO  01:38:58,463 - Deklarisana promenljiva x na liniji 2
+INFO  01:38:58,464 - #44 int
+INFO  01:38:58,464 - #44 y
+INFO  01:38:58,464 - #31 ;
+INFO  01:38:58,464 - Deklarisana promenljiva y na liniji 2
+INFO  01:38:58,464 - #4 class
+INFO  01:38:58,464 - #44 Klasa
+INFO  01:38:58,464 - #38 {
+INFO  01:38:58,464 - Deklarisana klasa Klasa na liniji 3
+INFO  01:38:58,464 - #44 int
+INFO  01:38:58,465 - #44 xx
+INFO  01:38:58,465 - #31 ;
+INFO  01:38:58,465 - Deklarisano polje xx na liniji 4
+INFO  01:38:58,465 - #39 }
+INFO  01:38:58,465 - #4 class
+INFO  01:38:58,465 - #44 Pom
+INFO  01:38:58,466 - #38 {
+INFO  01:38:58,466 - Deklarisana klasa Pom na liniji 6
+INFO  01:38:58,466 - #44 Klasa
+INFO  01:38:58,466 - #44 tt
+INFO  01:38:58,466 - #31 ;
+INFO  01:38:58,466 - Deklarisano polje tt na liniji 7
+INFO  01:38:58,467 - #39 }
+INFO  01:38:58,467 - #44 Pom
+INFO  01:38:58,467 - #44 t
+INFO  01:38:58,467 - #31 ;
+INFO  01:38:58,467 - Deklarisana promenljiva t na liniji 9
+INFO  01:38:58,467 - #38 {
+INFO  01:38:58,468 - #44 int
+INFO  01:38:58,468 - #44 main
+INFO  01:38:58,468 - #34 (
+INFO  01:38:58,468 - Obradjuje se funkcija main na liniji 11
+INFO  01:38:58,469 - #44 int
+INFO  01:38:58,469 - #44 n
+INFO  01:38:58,469 - #35 )
+INFO  01:38:58,469 - Deklarisan formalni argument  n na liniji 11
+INFO  01:38:58,470 - #38 {
+INFO  01:38:58,470 - #9 print
+INFO  01:38:58,470 - #34 (
+INFO  01:38:58,470 - #43 1
+INFO  01:38:58,470 - #35 )
+INFO  01:38:58,471 - #31 ;
+INFO  01:38:58,471 - #9 print
+INFO  01:38:58,471 - #34 (
+INFO  01:38:58,471 - #43 2
+INFO  01:38:58,471 - #35 )
+INFO  01:38:58,472 - #31 ;
+INFO  01:38:58,472 - #44 x
+INFO  01:38:58,472 - #28 =
+INFO  01:38:58,472 - #44 t
+INFO  01:38:58,472 - #33 .
+INFO  01:38:58,472 - #44 tt
+INFO  01:38:58,472 - #33 .
+INFO  01:38:58,473 - #44 xx
+INFO  01:38:58,473 - #31 ;
+INFO  01:38:58,473 - #11 return
+ERROR 01:38:58,473 - Greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:38:58,473 - #43 0
+INFO  01:38:58,473 - #31 ;
+INFO  01:38:58,473 - #39 }
+ERROR 01:38:58,474 - Greska na liniji 16 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:38:58,474 - #39 }
+INFO  01:38:58,474 - GlobalVar = 3
+INFO  01:38:58,474 - GlobalConst = 0
+INFO  01:38:58,474 - LocalMainVar = 0
+INFO  01:38:58,474 - GlobalArray = 0
+INFO  01:38:58,474 - FuncProg = 1
+INFO  01:38:58,475 - Blocks = 1
+INFO  01:38:58,475 - FuncCalls = 2
+INFO  01:38:58,475 - FormalArg = 1
+INFO  01:38:58,475 - DefClass = 2
+INFO  01:38:58,475 - DefMClass = 0
+INFO  01:38:58,475 - DeclFClass = 2
+ERROR 01:38:58,476 - Parsiranje nije uspesno
+INFO  01:39:16,042 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:39:16,066 - #2 program
+INFO  01:39:16,067 - #44 MJProgram
+INFO  01:39:16,067 - #44 int
+INFO  01:39:16,067 - #44 x
+INFO  01:39:16,067 - #31 ;
+INFO  01:39:16,067 - Deklarisana promenljiva x na liniji 2
+INFO  01:39:16,067 - #44 int
+INFO  01:39:16,068 - #44 y
+INFO  01:39:16,068 - #31 ;
+INFO  01:39:16,068 - Deklarisana promenljiva y na liniji 2
+INFO  01:39:16,068 - #4 class
+INFO  01:39:16,068 - #44 Klasa
+INFO  01:39:16,068 - #38 {
+INFO  01:39:16,068 - Deklarisana klasa Klasa na liniji 3
+INFO  01:39:16,068 - #44 int
+INFO  01:39:16,069 - #44 xx
+INFO  01:39:16,069 - #31 ;
+INFO  01:39:16,069 - Deklarisano polje xx na liniji 4
+INFO  01:39:16,069 - #39 }
+INFO  01:39:16,069 - #4 class
+INFO  01:39:16,070 - #44 Pom
+INFO  01:39:16,070 - #38 {
+INFO  01:39:16,070 - Deklarisana klasa Pom na liniji 6
+INFO  01:39:16,070 - #44 Klasa
+INFO  01:39:16,070 - #44 tt
+INFO  01:39:16,070 - #31 ;
+INFO  01:39:16,070 - Deklarisano polje tt na liniji 7
+INFO  01:39:16,071 - #39 }
+INFO  01:39:16,071 - #44 Pom
+INFO  01:39:16,071 - #44 t
+INFO  01:39:16,071 - #31 ;
+INFO  01:39:16,071 - Deklarisana promenljiva t na liniji 9
+INFO  01:39:16,071 - #38 {
+INFO  01:39:16,071 - #44 int
+INFO  01:39:16,072 - #44 main
+INFO  01:39:16,072 - #34 (
+INFO  01:39:16,072 - Obradjuje se funkcija main na liniji 11
+INFO  01:39:16,072 - #44 int
+INFO  01:39:16,072 - #44 n
+INFO  01:39:16,072 - #35 )
+INFO  01:39:16,072 - Deklarisan formalni argument  n na liniji 11
+INFO  01:39:16,072 - #38 {
+INFO  01:39:16,073 - #9 print
+INFO  01:39:16,073 - #34 (
+INFO  01:39:16,073 - #43 1
+INFO  01:39:16,073 - #35 )
+INFO  01:39:16,073 - #31 ;
+INFO  01:39:16,073 - #9 print
+INFO  01:39:16,073 - #34 (
+INFO  01:39:16,073 - #43 2
+INFO  01:39:16,074 - #35 )
+INFO  01:39:16,074 - #31 ;
+INFO  01:39:16,074 - #44 x
+INFO  01:39:16,074 - #28 =
+INFO  01:39:16,074 - #44 t
+INFO  01:39:16,074 - #33 .
+INFO  01:39:16,074 - #44 tt
+INFO  01:39:16,074 - #33 .
+INFO  01:39:16,074 - #44 x
+INFO  01:39:16,075 - #31 ;
+ERROR 01:39:16,075 - Greska na liniji 15 :ime tnije deklarisano
+INFO  01:39:16,075 - #11 return
+ERROR 01:39:16,075 - Greska na liniji 15 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:39:16,075 - #43 0
+INFO  01:39:16,075 - #31 ;
+INFO  01:39:16,075 - #39 }
+ERROR 01:39:16,076 - Greska na liniji 16 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:39:16,076 - #39 }
+INFO  01:39:16,076 - GlobalVar = 3
+INFO  01:39:16,076 - GlobalConst = 0
+INFO  01:39:16,076 - LocalMainVar = 0
+INFO  01:39:16,076 - GlobalArray = 0
+INFO  01:39:16,076 - FuncProg = 1
+INFO  01:39:16,076 - Blocks = 1
+INFO  01:39:16,077 - FuncCalls = 2
+INFO  01:39:16,077 - FormalArg = 1
+INFO  01:39:16,077 - DefClass = 2
+INFO  01:39:16,077 - DefMClass = 0
+INFO  01:39:16,077 - DeclFClass = 2
+ERROR 01:39:16,079 - Parsiranje nije uspesno
+INFO  01:56:42,012 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:56:42,043 - #2 program
+INFO  01:56:42,043 - #44 MJProgram
+INFO  01:56:42,044 - #44 int
+INFO  01:56:42,044 - #44 x
+INFO  01:56:42,044 - #31 ;
+INFO  01:56:42,044 - Deklarisana promenljiva x na liniji 2
+INFO  01:56:42,044 - #44 int
+INFO  01:56:42,045 - #44 y
+INFO  01:56:42,045 - #31 ;
+INFO  01:56:42,045 - Deklarisana promenljiva y na liniji 2
+INFO  01:56:42,045 - #4 class
+INFO  01:56:42,045 - #44 Klasa
+INFO  01:56:42,045 - #38 {
+INFO  01:56:42,046 - Deklarisana klasa Klasa na liniji 3
+INFO  01:56:42,046 - #44 int
+INFO  01:56:42,046 - #44 xx
+INFO  01:56:42,046 - #31 ;
+INFO  01:56:42,046 - Deklarisano polje xx na liniji 4
+INFO  01:56:42,046 - #38 {
+INFO  01:56:42,047 - #44 int
+INFO  01:56:42,047 - #44 k
+INFO  01:56:42,047 - #34 (
+INFO  01:56:42,047 - Obradjuje se metoda k na liniji 6
+INFO  01:56:42,048 - #35 )
+INFO  01:56:42,048 - #38 {
+INFO  01:56:42,048 - #11 return
+INFO  01:56:42,048 - #43 3
+INFO  01:56:42,048 - #31 ;
+INFO  01:56:42,048 - #39 }
+ERROR 01:56:42,049 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:56:42,049 - #39 }
+INFO  01:56:42,050 - #39 }
+INFO  01:56:42,050 - #4 class
+INFO  01:56:42,051 - #44 Pom
+INFO  01:56:42,051 - #38 {
+INFO  01:56:42,051 - Deklarisana klasa Pom na liniji 9
+INFO  01:56:42,051 - #44 Klasa
+INFO  01:56:42,051 - #44 tt
+INFO  01:56:42,052 - #31 ;
+INFO  01:56:42,052 - Deklarisano polje tt na liniji 10
+INFO  01:56:42,052 - #39 }
+INFO  01:56:42,052 - #44 Pom
+INFO  01:56:42,052 - #44 t
+INFO  01:56:42,052 - #31 ;
+INFO  01:56:42,053 - Deklarisana promenljiva t na liniji 12
+INFO  01:56:42,053 - #38 {
+INFO  01:56:42,053 - #44 int
+INFO  01:56:42,054 - #44 main
+INFO  01:56:42,054 - #34 (
+INFO  01:56:42,054 - Obradjuje se funkcija main na liniji 14
+INFO  01:56:42,054 - #44 int
+INFO  01:56:42,054 - #44 n
+INFO  01:56:42,055 - #35 )
+INFO  01:56:42,055 - Deklarisan formalni argument  n na liniji 14
+INFO  01:56:42,055 - #38 {
+INFO  01:56:42,055 - #9 print
+INFO  01:56:42,056 - #34 (
+INFO  01:56:42,056 - #43 1
+INFO  01:56:42,056 - #35 )
+INFO  01:56:42,056 - #31 ;
+INFO  01:56:42,057 - #9 print
+INFO  01:56:42,057 - #34 (
+INFO  01:56:42,057 - #43 2
+INFO  01:56:42,057 - #35 )
+INFO  01:56:42,058 - #31 ;
+INFO  01:56:42,058 - #44 x
+INFO  01:56:42,058 - #28 =
+INFO  01:56:42,058 - #44 t
+INFO  01:56:42,059 - #33 .
+INFO  01:56:42,059 - #44 tt
+INFO  01:56:42,059 - #33 .
+INFO  01:56:42,059 - #44 x
+INFO  01:56:42,059 - #31 ;
+ERROR 01:56:42,060 - Greska na liniji 18 :ime tnije deklarisano
+INFO  01:56:42,060 - #11 return
+ERROR 01:56:42,060 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:56:42,060 - #43 0
+INFO  01:56:42,060 - #31 ;
+INFO  01:56:42,061 - #39 }
+ERROR 01:56:42,061 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:56:42,061 - #39 }
+INFO  01:56:42,061 - GlobalVar = 3
+INFO  01:56:42,061 - GlobalConst = 0
+INFO  01:56:42,061 - LocalMainVar = 0
+INFO  01:56:42,061 - GlobalArray = 0
+INFO  01:56:42,062 - FuncProg = 1
+INFO  01:56:42,062 - Blocks = 2
+INFO  01:56:42,062 - FuncCalls = 2
+INFO  01:56:42,062 - FormalArg = 1
+INFO  01:56:42,062 - DefClass = 2
+INFO  01:56:42,062 - DefMClass = 1
+INFO  01:56:42,062 - DeclFClass = 2
+ERROR 01:56:42,064 - Parsiranje nije uspesno
+INFO  01:57:05,284 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:57:05,319 - #2 program
+INFO  01:57:05,320 - #44 MJProgram
+INFO  01:57:05,320 - #44 int
+INFO  01:57:05,321 - #44 x
+INFO  01:57:05,321 - #31 ;
+INFO  01:57:05,321 - Deklarisana promenljiva x na liniji 2
+INFO  01:57:05,321 - #44 int
+INFO  01:57:05,322 - #44 y
+INFO  01:57:05,322 - #31 ;
+INFO  01:57:05,322 - Deklarisana promenljiva y na liniji 2
+INFO  01:57:05,322 - #4 class
+INFO  01:57:05,322 - #44 Klasa
+INFO  01:57:05,322 - #38 {
+INFO  01:57:05,323 - Deklarisana klasa Klasa na liniji 3
+INFO  01:57:05,323 - #44 int
+INFO  01:57:05,323 - #44 xx
+INFO  01:57:05,323 - #31 ;
+INFO  01:57:05,323 - Deklarisano polje xx na liniji 4
+INFO  01:57:05,323 - #38 {
+INFO  01:57:05,324 - #44 int
+INFO  01:57:05,324 - #44 k
+INFO  01:57:05,324 - #34 (
+INFO  01:57:05,324 - Obradjuje se metoda k na liniji 6
+INFO  01:57:05,324 - #35 )
+INFO  01:57:05,325 - #38 {
+INFO  01:57:05,325 - #11 return
+INFO  01:57:05,325 - #43 3
+INFO  01:57:05,325 - #31 ;
+INFO  01:57:05,325 - #39 }
+ERROR 01:57:05,326 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:57:05,326 - #39 }
+INFO  01:57:05,326 - #39 }
+INFO  01:57:05,326 - #4 class
+INFO  01:57:05,327 - #44 Pom
+INFO  01:57:05,327 - #38 {
+INFO  01:57:05,328 - Deklarisana klasa Pom na liniji 9
+INFO  01:57:05,328 - #44 Klasa
+INFO  01:57:05,328 - #44 tt
+INFO  01:57:05,328 - #31 ;
+INFO  01:57:05,328 - Deklarisano polje tt na liniji 10
+INFO  01:57:05,329 - #39 }
+INFO  01:57:05,329 - #44 Pom
+INFO  01:57:05,329 - #44 t
+INFO  01:57:05,329 - #31 ;
+INFO  01:57:05,330 - Deklarisana promenljiva t na liniji 12
+INFO  01:57:05,330 - #38 {
+INFO  01:57:05,330 - #44 int
+INFO  01:57:05,330 - #44 main
+INFO  01:57:05,330 - #34 (
+INFO  01:57:05,331 - Obradjuje se funkcija main na liniji 14
+INFO  01:57:05,331 - #44 int
+INFO  01:57:05,331 - #44 n
+INFO  01:57:05,331 - #35 )
+INFO  01:57:05,331 - Deklarisan formalni argument  n na liniji 14
+INFO  01:57:05,331 - #38 {
+INFO  01:57:05,332 - #9 print
+INFO  01:57:05,332 - #34 (
+INFO  01:57:05,332 - #43 1
+INFO  01:57:05,332 - #35 )
+INFO  01:57:05,332 - #31 ;
+INFO  01:57:05,332 - #9 print
+INFO  01:57:05,333 - #34 (
+INFO  01:57:05,333 - #43 2
+INFO  01:57:05,333 - #35 )
+INFO  01:57:05,333 - #31 ;
+INFO  01:57:05,333 - #44 x
+INFO  01:57:05,333 - #28 =
+INFO  01:57:05,334 - #44 t
+INFO  01:57:05,334 - #33 .
+INFO  01:57:05,334 - #44 tt
+INFO  01:57:05,334 - #33 .
+INFO  01:57:05,335 - #44 xx
+INFO  01:57:05,335 - #31 ;
+INFO  01:57:05,335 - #11 return
+ERROR 01:57:05,335 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:57:05,335 - #43 0
+INFO  01:57:05,336 - #31 ;
+INFO  01:57:05,336 - #39 }
+ERROR 01:57:05,336 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:57:05,336 - #39 }
+INFO  01:57:05,337 - GlobalVar = 3
+INFO  01:57:05,337 - GlobalConst = 0
+INFO  01:57:05,337 - LocalMainVar = 0
+INFO  01:57:05,337 - GlobalArray = 0
+INFO  01:57:05,337 - FuncProg = 1
+INFO  01:57:05,337 - Blocks = 2
+INFO  01:57:05,338 - FuncCalls = 2
+INFO  01:57:05,338 - FormalArg = 1
+INFO  01:57:05,338 - DefClass = 2
+INFO  01:57:05,338 - DefMClass = 1
+INFO  01:57:05,338 - DeclFClass = 2
+ERROR 01:57:05,341 - Parsiranje nije uspesno
+INFO  01:57:47,178 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:57:47,217 - #2 program
+INFO  01:57:47,217 - #44 MJProgram
+INFO  01:57:47,217 - #44 int
+INFO  01:57:47,217 - #44 x
+INFO  01:57:47,218 - #31 ;
+INFO  01:57:47,218 - Deklarisana promenljiva x na liniji 2
+INFO  01:57:47,218 - #44 int
+INFO  01:57:47,218 - #44 y
+INFO  01:57:47,218 - #31 ;
+INFO  01:57:47,218 - Deklarisana promenljiva y na liniji 2
+INFO  01:57:47,219 - #4 class
+INFO  01:57:47,219 - #44 Klasa
+INFO  01:57:47,219 - #38 {
+INFO  01:57:47,219 - Deklarisana klasa Klasa na liniji 3
+INFO  01:57:47,219 - #44 int
+INFO  01:57:47,219 - #44 xx
+INFO  01:57:47,220 - #31 ;
+INFO  01:57:47,220 - Deklarisano polje xx na liniji 4
+INFO  01:57:47,220 - #38 {
+INFO  01:57:47,220 - #44 int
+INFO  01:57:47,220 - #44 k
+INFO  01:57:47,220 - #34 (
+INFO  01:57:47,221 - Obradjuje se metoda k na liniji 6
+INFO  01:57:47,221 - #35 )
+INFO  01:57:47,221 - #38 {
+INFO  01:57:47,221 - #11 return
+INFO  01:57:47,221 - #43 3
+INFO  01:57:47,221 - #31 ;
+INFO  01:57:47,222 - #39 }
+ERROR 01:57:47,222 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:57:47,222 - #39 }
+INFO  01:57:47,222 - #39 }
+INFO  01:57:47,222 - #4 class
+INFO  01:57:47,223 - #44 Pom
+INFO  01:57:47,223 - #38 {
+INFO  01:57:47,223 - Deklarisana klasa Pom na liniji 9
+INFO  01:57:47,223 - #44 Klasa
+INFO  01:57:47,223 - #44 tt
+INFO  01:57:47,224 - #31 ;
+INFO  01:57:47,224 - Deklarisano polje tt na liniji 10
+INFO  01:57:47,224 - #39 }
+INFO  01:57:47,224 - #44 Pom
+INFO  01:57:47,224 - #44 t
+INFO  01:57:47,224 - #31 ;
+INFO  01:57:47,225 - Deklarisana promenljiva t na liniji 12
+INFO  01:57:47,225 - #38 {
+INFO  01:57:47,225 - #44 int
+INFO  01:57:47,225 - #44 main
+INFO  01:57:47,225 - #34 (
+INFO  01:57:47,225 - Obradjuje se funkcija main na liniji 14
+INFO  01:57:47,226 - #44 int
+INFO  01:57:47,226 - #44 n
+INFO  01:57:47,226 - #35 )
+INFO  01:57:47,226 - Deklarisan formalni argument  n na liniji 14
+INFO  01:57:47,226 - #38 {
+INFO  01:57:47,226 - #9 print
+INFO  01:57:47,227 - #34 (
+INFO  01:57:47,227 - #43 1
+INFO  01:57:47,227 - #35 )
+INFO  01:57:47,227 - #31 ;
+INFO  01:57:47,227 - #9 print
+INFO  01:57:47,227 - #34 (
+INFO  01:57:47,227 - #43 2
+INFO  01:57:47,228 - #35 )
+INFO  01:57:47,228 - #31 ;
+INFO  01:57:47,228 - #44 x
+INFO  01:57:47,228 - #28 =
+INFO  01:57:47,228 - #44 t
+INFO  01:57:47,228 - #33 .
+INFO  01:57:47,229 - #44 tt
+INFO  01:57:47,229 - #33 .
+INFO  01:57:47,229 - #44 k
+INFO  01:57:47,229 - #34 (
+INFO  01:57:47,229 - #35 )
+INFO  01:57:47,229 - #31 ;
+INFO  01:57:47,230 - Pronadjen poziv f-je k na liniji 18
+INFO  01:57:47,230 - #11 return
+ERROR 01:57:47,230 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:57:47,230 - #43 0
+INFO  01:57:47,231 - #31 ;
+INFO  01:57:47,231 - #39 }
+ERROR 01:57:47,231 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:57:47,231 - #39 }
+INFO  01:57:47,231 - GlobalVar = 3
+INFO  01:57:47,232 - GlobalConst = 0
+INFO  01:57:47,232 - LocalMainVar = 0
+INFO  01:57:47,232 - GlobalArray = 0
+INFO  01:57:47,232 - FuncProg = 1
+INFO  01:57:47,232 - Blocks = 2
+INFO  01:57:47,232 - FuncCalls = 3
+INFO  01:57:47,232 - FormalArg = 1
+INFO  01:57:47,232 - DefClass = 2
+INFO  01:57:47,233 - DefMClass = 1
+INFO  01:57:47,233 - DeclFClass = 2
+ERROR 01:57:47,235 - Parsiranje nije uspesno
+INFO  01:58:10,036 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:58:10,085 - #2 program
+INFO  01:58:10,085 - #44 MJProgram
+INFO  01:58:10,086 - #44 int
+INFO  01:58:10,086 - #44 x
+INFO  01:58:10,087 - #31 ;
+INFO  01:58:10,087 - Deklarisana promenljiva x na liniji 2
+INFO  01:58:10,087 - #44 int
+INFO  01:58:10,088 - #44 y
+INFO  01:58:10,088 - #31 ;
+INFO  01:58:10,088 - Deklarisana promenljiva y na liniji 2
+INFO  01:58:10,088 - #4 class
+INFO  01:58:10,089 - #44 Klasa
+INFO  01:58:10,089 - #38 {
+INFO  01:58:10,089 - Deklarisana klasa Klasa na liniji 3
+INFO  01:58:10,090 - #44 int
+INFO  01:58:10,090 - #44 xx
+INFO  01:58:10,090 - #31 ;
+INFO  01:58:10,090 - Deklarisano polje xx na liniji 4
+INFO  01:58:10,091 - #38 {
+INFO  01:58:10,091 - #44 int
+INFO  01:58:10,091 - #44 k
+INFO  01:58:10,091 - #34 (
+INFO  01:58:10,092 - Obradjuje se metoda k na liniji 6
+INFO  01:58:10,092 - #35 )
+INFO  01:58:10,092 - #38 {
+INFO  01:58:10,093 - #11 return
+INFO  01:58:10,093 - #43 3
+INFO  01:58:10,093 - #31 ;
+INFO  01:58:10,094 - #39 }
+ERROR 01:58:10,094 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:58:10,095 - #39 }
+INFO  01:58:10,095 - #39 }
+INFO  01:58:10,095 - #4 class
+INFO  01:58:10,097 - #44 Pom
+INFO  01:58:10,097 - #38 {
+INFO  01:58:10,097 - Deklarisana klasa Pom na liniji 9
+INFO  01:58:10,098 - #44 Klasa
+INFO  01:58:10,098 - #44 tt
+INFO  01:58:10,098 - #31 ;
+INFO  01:58:10,099 - Deklarisano polje tt na liniji 10
+INFO  01:58:10,099 - #39 }
+INFO  01:58:10,099 - #44 Pom
+INFO  01:58:10,100 - #44 t
+INFO  01:58:10,100 - #31 ;
+INFO  01:58:10,100 - Deklarisana promenljiva t na liniji 12
+INFO  01:58:10,101 - #38 {
+INFO  01:58:10,101 - #44 int
+INFO  01:58:10,101 - #44 main
+INFO  01:58:10,102 - #34 (
+INFO  01:58:10,102 - Obradjuje se funkcija main na liniji 14
+INFO  01:58:10,103 - #44 int
+INFO  01:58:10,103 - #44 n
+INFO  01:58:10,103 - #35 )
+INFO  01:58:10,104 - Deklarisan formalni argument  n na liniji 14
+INFO  01:58:10,104 - #38 {
+INFO  01:58:10,104 - #9 print
+INFO  01:58:10,105 - #34 (
+INFO  01:58:10,105 - #43 1
+INFO  01:58:10,105 - #35 )
+INFO  01:58:10,105 - #31 ;
+INFO  01:58:10,106 - #9 print
+INFO  01:58:10,106 - #34 (
+INFO  01:58:10,106 - #43 2
+INFO  01:58:10,107 - #35 )
+INFO  01:58:10,107 - #31 ;
+INFO  01:58:10,107 - #44 x
+INFO  01:58:10,108 - #28 =
+INFO  01:58:10,108 - #44 t
+INFO  01:58:10,108 - #33 .
+INFO  01:58:10,109 - #44 d
+INFO  01:58:10,109 - #33 .
+INFO  01:58:10,109 - #44 k
+INFO  01:58:10,110 - #34 (
+ERROR 01:58:10,110 - Greska na liniji 18 :ime tnije deklarisano
+INFO  01:58:10,110 - #35 )
+INFO  01:58:10,110 - #31 ;
+ERROR 01:58:10,111 - Greska na liniji 18 :ime noObjnije funkcija
+INFO  01:58:10,111 - #11 return
+ERROR 01:58:10,112 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:58:10,112 - #43 0
+INFO  01:58:10,112 - #31 ;
+INFO  01:58:10,112 - #39 }
+ERROR 01:58:10,112 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:58:10,113 - #39 }
+INFO  01:58:10,113 - GlobalVar = 3
+INFO  01:58:10,113 - GlobalConst = 0
+INFO  01:58:10,113 - LocalMainVar = 0
+INFO  01:58:10,114 - GlobalArray = 0
+INFO  01:58:10,114 - FuncProg = 1
+INFO  01:58:10,114 - Blocks = 2
+INFO  01:58:10,114 - FuncCalls = 3
+INFO  01:58:10,115 - FormalArg = 1
+INFO  01:58:10,115 - DefClass = 2
+INFO  01:58:10,115 - DefMClass = 1
+INFO  01:58:10,115 - DeclFClass = 2
+ERROR 01:58:10,118 - Parsiranje nije uspesno
+INFO  01:58:19,258 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:58:19,297 - #2 program
+INFO  01:58:19,298 - #44 MJProgram
+INFO  01:58:19,298 - #44 int
+INFO  01:58:19,298 - #44 x
+INFO  01:58:19,299 - #31 ;
+INFO  01:58:19,299 - Deklarisana promenljiva x na liniji 2
+INFO  01:58:19,299 - #44 int
+INFO  01:58:19,300 - #44 y
+INFO  01:58:19,300 - #31 ;
+INFO  01:58:19,300 - Deklarisana promenljiva y na liniji 2
+INFO  01:58:19,301 - #4 class
+INFO  01:58:19,301 - #44 Klasa
+INFO  01:58:19,301 - #38 {
+INFO  01:58:19,301 - Deklarisana klasa Klasa na liniji 3
+INFO  01:58:19,302 - #44 int
+INFO  01:58:19,302 - #44 xx
+INFO  01:58:19,302 - #31 ;
+INFO  01:58:19,302 - Deklarisano polje xx na liniji 4
+INFO  01:58:19,302 - #38 {
+INFO  01:58:19,303 - #44 int
+INFO  01:58:19,303 - #44 k
+INFO  01:58:19,303 - #34 (
+INFO  01:58:19,303 - Obradjuje se metoda k na liniji 6
+INFO  01:58:19,303 - #35 )
+INFO  01:58:19,304 - #38 {
+INFO  01:58:19,304 - #11 return
+INFO  01:58:19,304 - #43 3
+INFO  01:58:19,304 - #31 ;
+INFO  01:58:19,304 - #39 }
+ERROR 01:58:19,305 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:58:19,305 - #39 }
+INFO  01:58:19,305 - #39 }
+INFO  01:58:19,306 - #4 class
+INFO  01:58:19,307 - #44 Pom
+INFO  01:58:19,307 - #38 {
+INFO  01:58:19,307 - Deklarisana klasa Pom na liniji 9
+INFO  01:58:19,307 - #44 Klasa
+INFO  01:58:19,307 - #44 tt
+INFO  01:58:19,308 - #31 ;
+INFO  01:58:19,308 - Deklarisano polje tt na liniji 10
+INFO  01:58:19,308 - #39 }
+INFO  01:58:19,308 - #44 Pom
+INFO  01:58:19,309 - #44 t
+INFO  01:58:19,309 - #31 ;
+INFO  01:58:19,309 - Deklarisana promenljiva t na liniji 12
+INFO  01:58:19,310 - #38 {
+INFO  01:58:19,310 - #44 int
+INFO  01:58:19,310 - #44 main
+INFO  01:58:19,311 - #34 (
+INFO  01:58:19,311 - Obradjuje se funkcija main na liniji 14
+INFO  01:58:19,311 - #44 int
+INFO  01:58:19,311 - #44 n
+INFO  01:58:19,312 - #35 )
+INFO  01:58:19,312 - Deklarisan formalni argument  n na liniji 14
+INFO  01:58:19,313 - #38 {
+INFO  01:58:19,313 - #9 print
+INFO  01:58:19,313 - #34 (
+INFO  01:58:19,314 - #43 1
+INFO  01:58:19,314 - #35 )
+INFO  01:58:19,314 - #31 ;
+INFO  01:58:19,314 - #9 print
+INFO  01:58:19,315 - #34 (
+INFO  01:58:19,315 - #43 2
+INFO  01:58:19,315 - #35 )
+INFO  01:58:19,315 - #31 ;
+INFO  01:58:19,315 - #44 x
+INFO  01:58:19,316 - #28 =
+INFO  01:58:19,316 - #44 t
+INFO  01:58:19,316 - #33 .
+INFO  01:58:19,316 - #44 tt
+INFO  01:58:19,316 - #33 .
+INFO  01:58:19,317 - #44 d
+INFO  01:58:19,317 - #34 (
+ERROR 01:58:19,317 - Greska na liniji 18 :ime tnije deklarisano
+INFO  01:58:19,317 - #35 )
+INFO  01:58:19,317 - #31 ;
+ERROR 01:58:19,318 - Greska na liniji 18 :ime noObjnije funkcija
+INFO  01:58:19,318 - #11 return
+ERROR 01:58:19,318 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:58:19,318 - #43 0
+INFO  01:58:19,318 - #31 ;
+INFO  01:58:19,319 - #39 }
+ERROR 01:58:19,319 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:58:19,319 - #39 }
+INFO  01:58:19,320 - GlobalVar = 3
+INFO  01:58:19,320 - GlobalConst = 0
+INFO  01:58:19,320 - LocalMainVar = 0
+INFO  01:58:19,320 - GlobalArray = 0
+INFO  01:58:19,320 - FuncProg = 1
+INFO  01:58:19,320 - Blocks = 2
+INFO  01:58:19,321 - FuncCalls = 3
+INFO  01:58:19,321 - FormalArg = 1
+INFO  01:58:19,321 - DefClass = 2
+INFO  01:58:19,321 - DefMClass = 1
+INFO  01:58:19,321 - DeclFClass = 2
+ERROR 01:58:19,323 - Parsiranje nije uspesno
+INFO  01:58:30,364 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:58:30,394 - #2 program
+INFO  01:58:30,394 - #44 MJProgram
+INFO  01:58:30,394 - #44 int
+INFO  01:58:30,394 - #44 x
+INFO  01:58:30,395 - #31 ;
+INFO  01:58:30,395 - Deklarisana promenljiva x na liniji 2
+INFO  01:58:30,395 - #44 int
+INFO  01:58:30,395 - #44 y
+INFO  01:58:30,395 - #31 ;
+INFO  01:58:30,395 - Deklarisana promenljiva y na liniji 2
+INFO  01:58:30,396 - #4 class
+INFO  01:58:30,396 - #44 Klasa
+INFO  01:58:30,396 - #38 {
+INFO  01:58:30,396 - Deklarisana klasa Klasa na liniji 3
+INFO  01:58:30,396 - #44 int
+INFO  01:58:30,396 - #44 xx
+INFO  01:58:30,397 - #31 ;
+INFO  01:58:30,397 - Deklarisano polje xx na liniji 4
+INFO  01:58:30,397 - #38 {
+INFO  01:58:30,397 - #44 int
+INFO  01:58:30,397 - #44 k
+INFO  01:58:30,398 - #34 (
+INFO  01:58:30,398 - Obradjuje se metoda k na liniji 6
+INFO  01:58:30,398 - #35 )
+INFO  01:58:30,398 - #38 {
+INFO  01:58:30,398 - #11 return
+INFO  01:58:30,398 - #43 3
+INFO  01:58:30,399 - #31 ;
+INFO  01:58:30,399 - #39 }
+ERROR 01:58:30,399 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  01:58:30,399 - #39 }
+INFO  01:58:30,399 - #39 }
+INFO  01:58:30,400 - #4 class
+INFO  01:58:30,400 - #44 Pom
+INFO  01:58:30,400 - #38 {
+INFO  01:58:30,400 - Deklarisana klasa Pom na liniji 9
+INFO  01:58:30,401 - #44 Klasa
+INFO  01:58:30,401 - #44 tt
+INFO  01:58:30,401 - #31 ;
+INFO  01:58:30,401 - Deklarisano polje tt na liniji 10
+INFO  01:58:30,401 - #39 }
+INFO  01:58:30,401 - #44 Pom
+INFO  01:58:30,402 - #44 t
+INFO  01:58:30,402 - #31 ;
+INFO  01:58:30,402 - Deklarisana promenljiva t na liniji 12
+INFO  01:58:30,402 - #38 {
+INFO  01:58:30,402 - #44 int
+INFO  01:58:30,402 - #44 main
+INFO  01:58:30,403 - #34 (
+INFO  01:58:30,403 - Obradjuje se funkcija main na liniji 14
+INFO  01:58:30,403 - #44 int
+INFO  01:58:30,403 - #44 n
+INFO  01:58:30,403 - #35 )
+INFO  01:58:30,403 - Deklarisan formalni argument  n na liniji 14
+INFO  01:58:30,404 - #38 {
+INFO  01:58:30,404 - #9 print
+INFO  01:58:30,404 - #34 (
+INFO  01:58:30,404 - #43 1
+INFO  01:58:30,404 - #35 )
+INFO  01:58:30,404 - #31 ;
+INFO  01:58:30,405 - #9 print
+INFO  01:58:30,405 - #34 (
+INFO  01:58:30,405 - #43 2
+INFO  01:58:30,405 - #35 )
+INFO  01:58:30,405 - #31 ;
+INFO  01:58:30,405 - #44 x
+INFO  01:58:30,406 - #28 =
+INFO  01:58:30,406 - #44 t
+INFO  01:58:30,406 - #33 .
+INFO  01:58:30,406 - #44 tt
+INFO  01:58:30,406 - #33 .
+INFO  01:58:30,406 - #44 k
+INFO  01:58:30,407 - #34 (
+INFO  01:58:30,407 - #35 )
+INFO  01:58:30,407 - #31 ;
+INFO  01:58:30,407 - Pronadjen poziv f-je k na liniji 18
+INFO  01:58:30,408 - #11 return
+ERROR 01:58:30,408 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  01:58:30,408 - #43 0
+INFO  01:58:30,408 - #31 ;
+INFO  01:58:30,409 - #39 }
+ERROR 01:58:30,409 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  01:58:30,409 - #39 }
+INFO  01:58:30,410 - GlobalVar = 3
+INFO  01:58:30,410 - GlobalConst = 0
+INFO  01:58:30,410 - LocalMainVar = 0
+INFO  01:58:30,410 - GlobalArray = 0
+INFO  01:58:30,410 - FuncProg = 1
+INFO  01:58:30,411 - Blocks = 2
+INFO  01:58:30,411 - FuncCalls = 3
+INFO  01:58:30,411 - FormalArg = 1
+INFO  01:58:30,411 - DefClass = 2
+INFO  01:58:30,412 - DefMClass = 1
+INFO  01:58:30,412 - DeclFClass = 2
+ERROR 01:58:30,414 - Parsiranje nije uspesno
+INFO  02:24:19,353 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:24:19,384 - #2 program
+INFO  02:24:19,385 - #44 MJProgram
+INFO  02:24:19,385 - #44 int
+INFO  02:24:19,385 - #44 x
+INFO  02:24:19,385 - #31 ;
+INFO  02:24:19,386 - Deklarisana promenljiva x na liniji 2
+INFO  02:24:19,386 - #44 int
+INFO  02:24:19,386 - #44 y
+INFO  02:24:19,386 - #31 ;
+INFO  02:24:19,386 - Deklarisana promenljiva y na liniji 2
+INFO  02:24:19,386 - #4 class
+INFO  02:24:19,386 - #44 Klasa
+INFO  02:24:19,387 - #38 {
+INFO  02:24:19,387 - Deklarisana klasa Klasa na liniji 3
+INFO  02:24:19,387 - #44 int
+INFO  02:24:19,387 - #44 xx
+INFO  02:24:19,387 - #31 ;
+INFO  02:24:19,387 - Deklarisano polje xx na liniji 4
+INFO  02:24:19,388 - #38 {
+INFO  02:24:19,388 - #44 int
+INFO  02:24:19,388 - #44 k
+INFO  02:24:19,388 - #34 (
+INFO  02:24:19,388 - Obradjuje se metoda k na liniji 6
+INFO  02:24:19,389 - #35 )
+INFO  02:24:19,389 - #38 {
+INFO  02:24:19,389 - #11 return
+INFO  02:24:19,389 - #43 3
+INFO  02:24:19,389 - #31 ;
+INFO  02:24:19,389 - #39 }
+ERROR 02:24:19,389 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  02:24:19,390 - #39 }
+INFO  02:24:19,390 - #39 }
+INFO  02:24:19,390 - #4 class
+INFO  02:24:19,391 - #44 Pom
+INFO  02:24:19,391 - #38 {
+INFO  02:24:19,391 - Deklarisana klasa Pom na liniji 9
+INFO  02:24:19,391 - #44 Klasa
+INFO  02:24:19,391 - #44 tt
+INFO  02:24:19,391 - #31 ;
+INFO  02:24:19,391 - Deklarisano polje tt na liniji 10
+INFO  02:24:19,392 - #39 }
+INFO  02:24:19,392 - #44 Pom
+INFO  02:24:19,392 - #44 t
+INFO  02:24:19,392 - #31 ;
+INFO  02:24:19,392 - Deklarisana promenljiva t na liniji 12
+INFO  02:24:19,392 - #38 {
+INFO  02:24:19,392 - #44 int
+INFO  02:24:19,393 - #44 main
+INFO  02:24:19,393 - #34 (
+INFO  02:24:19,393 - Obradjuje se funkcija main na liniji 14
+INFO  02:24:19,393 - #44 int
+INFO  02:24:19,393 - #44 n
+INFO  02:24:19,393 - #35 )
+INFO  02:24:19,394 - Deklarisan formalni argument  n na liniji 14
+INFO  02:24:19,394 - #38 {
+INFO  02:24:19,394 - #9 print
+INFO  02:24:19,394 - #34 (
+INFO  02:24:19,394 - #43 1
+INFO  02:24:19,394 - #35 )
+INFO  02:24:19,395 - #31 ;
+INFO  02:24:19,395 - #9 print
+INFO  02:24:19,395 - #34 (
+INFO  02:24:19,395 - #43 2
+INFO  02:24:19,395 - #35 )
+INFO  02:24:19,395 - #31 ;
+INFO  02:24:19,396 - #44 x
+INFO  02:24:19,396 - #28 =
+INFO  02:24:19,396 - #44 t
+INFO  02:24:19,396 - #33 .
+INFO  02:24:19,396 - #44 tt
+INFO  02:24:19,396 - #33 .
+INFO  02:24:19,396 - #44 k
+INFO  02:24:19,397 - #34 (
+INFO  02:24:19,397 - #35 )
+INFO  02:24:19,397 - #31 ;
+INFO  02:24:19,397 - Pronadjen poziv f-je k na liniji 18
+INFO  02:24:19,397 - #11 return
+ERROR 02:24:19,397 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  02:24:19,397 - #43 0
+INFO  02:24:19,398 - #31 ;
+INFO  02:24:19,398 - #39 }
+ERROR 02:24:19,398 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  02:24:19,398 - #39 }
+INFO  02:24:19,398 - GlobalVar = 3
+INFO  02:24:19,399 - GlobalConst = 0
+INFO  02:24:19,399 - LocalMainVar = 0
+INFO  02:24:19,399 - GlobalArray = 0
+INFO  02:24:19,399 - FuncProg = 1
+INFO  02:24:19,399 - Blocks = 2
+INFO  02:24:19,399 - FuncCalls = 3
+INFO  02:24:19,399 - FormalArg = 1
+INFO  02:24:19,399 - DefClass = 2
+INFO  02:24:19,399 - DefMClass = 1
+INFO  02:24:19,400 - DeclFClass = 2
+ERROR 02:24:19,401 - Parsiranje nije uspesno
+INFO  02:26:32,141 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  02:26:32,219 - #2 program
+INFO  02:26:32,219 - #44 MJProgram
+INFO  02:26:32,220 - #44 int
+INFO  02:26:32,220 - #44 x
+INFO  02:26:32,221 - #31 ;
+INFO  02:26:32,222 - Deklarisana promenljiva x na liniji 2
+INFO  02:26:32,223 - #44 int
+INFO  02:26:32,223 - #44 y
+INFO  02:26:32,224 - #31 ;
+INFO  02:26:32,224 - Deklarisana promenljiva y na liniji 2
+INFO  02:26:32,225 - #44 string
+INFO  02:26:32,225 - #44 s
+INFO  02:26:32,226 - #31 ;
+INFO  02:26:32,226 - Deklarisana promenljiva s na liniji 3
+INFO  02:26:32,227 - #4 class
+INFO  02:26:32,228 - #44 Klasa
+INFO  02:26:32,228 - #38 {
+INFO  02:26:32,228 - Deklarisana klasa Klasa na liniji 4
+INFO  02:26:32,229 - #44 int
+INFO  02:26:32,230 - #44 xx
+INFO  02:26:32,231 - #31 ;
+INFO  02:26:32,231 - Deklarisano polje xx na liniji 5
+INFO  02:26:32,232 - #38 {
+INFO  02:26:32,233 - #44 int
+INFO  02:26:32,233 - #44 k
+INFO  02:26:32,234 - #34 (
+INFO  02:26:32,234 - Obradjuje se metoda k na liniji 7
+INFO  02:26:32,235 - #35 )
+INFO  02:26:32,235 - #38 {
+INFO  02:26:32,235 - #11 return
+INFO  02:26:32,236 - #43 3
+INFO  02:26:32,236 - #31 ;
+INFO  02:26:32,237 - #39 }
+ERROR 02:26:32,238 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  02:26:32,238 - #39 }
+INFO  02:26:32,239 - #39 }
+INFO  02:26:32,239 - #4 class
+INFO  02:26:32,240 - #44 Pom
+INFO  02:26:32,241 - #38 {
+INFO  02:26:32,241 - Deklarisana klasa Pom na liniji 10
+INFO  02:26:32,241 - #44 Klasa
+INFO  02:26:32,242 - #44 tt
+INFO  02:26:32,242 - #31 ;
+INFO  02:26:32,243 - Deklarisano polje tt na liniji 11
+INFO  02:26:32,243 - #39 }
+INFO  02:26:32,243 - #44 Pom
+INFO  02:26:32,244 - #44 t
+INFO  02:26:32,244 - #31 ;
+INFO  02:26:32,245 - Deklarisana promenljiva t na liniji 13
+INFO  02:26:32,245 - #38 {
+INFO  02:26:32,247 - #44 int
+INFO  02:26:32,247 - #44 main
+INFO  02:26:32,248 - #34 (
+INFO  02:26:32,249 - Obradjuje se funkcija main na liniji 15
+INFO  02:26:32,249 - #44 int
+INFO  02:26:32,249 - #44 n
+INFO  02:26:32,250 - #35 )
+INFO  02:26:32,250 - Deklarisan formalni argument  n na liniji 15
+INFO  02:26:32,251 - #38 {
+INFO  02:26:32,251 - #9 print
+INFO  02:26:32,252 - #34 (
+INFO  02:26:32,252 - #43 1
+INFO  02:26:32,253 - #35 )
+INFO  02:26:32,253 - #31 ;
+INFO  02:26:32,254 - #9 print
+INFO  02:26:32,254 - #34 (
+INFO  02:26:32,255 - #43 2
+INFO  02:26:32,255 - #35 )
+INFO  02:26:32,255 - #31 ;
+INFO  02:26:32,256 - #44 x
+INFO  02:26:32,256 - #28 =
+INFO  02:26:32,257 - #44 t
+INFO  02:26:32,257 - #33 .
+INFO  02:26:32,258 - #44 tt
+INFO  02:26:32,258 - #33 .
+INFO  02:26:32,259 - #44 k
+INFO  02:26:32,259 - #34 (
+INFO  02:26:32,259 - #35 )
+INFO  02:26:32,260 - #31 ;
+INFO  02:26:32,260 - Pronadjen poziv f-je k na liniji 19
+INFO  02:26:32,261 - #11 return
+ERROR 02:26:32,261 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  02:26:32,261 - #43 0
+INFO  02:26:32,262 - #31 ;
+INFO  02:26:32,263 - #39 }
+ERROR 02:26:32,264 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  02:26:32,265 - #39 }
+INFO  02:26:32,266 - GlobalVar = 4
+INFO  02:26:32,266 - GlobalConst = 0
+INFO  02:26:32,266 - LocalMainVar = 0
+INFO  02:26:32,267 - GlobalArray = 0
+INFO  02:26:32,267 - FuncProg = 1
+INFO  02:26:32,268 - Blocks = 2
+INFO  02:26:32,268 - FuncCalls = 3
+INFO  02:26:32,269 - FormalArg = 1
+INFO  02:26:32,270 - DefClass = 2
+INFO  02:26:32,270 - DefMClass = 1
+INFO  02:26:32,270 - DeclFClass = 2
+ERROR 02:26:32,278 - Parsiranje nije uspesno
+INFO  13:25:05,620 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  13:25:05,664 - #2 program
+INFO  13:25:05,664 - #44 MJProgram
+INFO  13:25:05,664 - #44 int
+INFO  13:25:05,664 - #44 x
+INFO  13:25:05,664 - #31 ;
+INFO  13:25:05,664 - Deklarisana promenljiva x na liniji 2
+INFO  13:25:05,664 - #44 int
+INFO  13:25:05,664 - #44 y
+INFO  13:25:05,664 - #31 ;
+INFO  13:25:05,665 - Deklarisana promenljiva y na liniji 2
+INFO  13:25:05,665 - #44 string
+INFO  13:25:05,665 - #44 s
+INFO  13:25:05,665 - #31 ;
+INFO  13:25:05,665 - Deklarisana promenljiva s na liniji 3
+INFO  13:25:05,665 - #4 class
+INFO  13:25:05,665 - #44 Klasa
+INFO  13:25:05,665 - #38 {
+INFO  13:25:05,665 - Deklarisana klasa Klasa na liniji 4
+INFO  13:25:05,665 - #44 int
+INFO  13:25:05,665 - #44 xx
+INFO  13:25:05,665 - #31 ;
+INFO  13:25:05,666 - Deklarisano polje xx na liniji 5
+INFO  13:25:05,666 - #38 {
+INFO  13:25:05,666 - #44 int
+INFO  13:25:05,666 - #44 k
+INFO  13:25:05,666 - #34 (
+INFO  13:25:05,666 - Obradjuje se metoda k na liniji 7
+INFO  13:25:05,666 - #35 )
+INFO  13:25:05,666 - #38 {
+INFO  13:25:05,666 - #11 return
+INFO  13:25:05,666 - #43 3
+INFO  13:25:05,666 - #31 ;
+INFO  13:25:05,666 - #39 }
+ERROR 13:25:05,667 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  13:25:05,667 - #39 }
+INFO  13:25:05,667 - #39 }
+INFO  13:25:05,667 - #4 class
+INFO  13:25:05,667 - #44 Pom
+INFO  13:25:05,667 - #38 {
+INFO  13:25:05,667 - Deklarisana klasa Pom na liniji 10
+INFO  13:25:05,667 - #44 Klasa
+INFO  13:25:05,667 - #44 tt
+INFO  13:25:05,667 - #31 ;
+INFO  13:25:05,668 - Deklarisano polje tt na liniji 11
+INFO  13:25:05,668 - #39 }
+INFO  13:25:05,668 - #44 Pom
+INFO  13:25:05,668 - #44 t
+INFO  13:25:05,668 - #31 ;
+INFO  13:25:05,668 - Deklarisana promenljiva t na liniji 13
+INFO  13:25:05,668 - #38 {
+INFO  13:25:05,668 - #44 int
+INFO  13:25:05,668 - #44 main
+INFO  13:25:05,668 - #34 (
+INFO  13:25:05,668 - Obradjuje se funkcija main na liniji 15
+INFO  13:25:05,668 - #44 int
+INFO  13:25:05,669 - #44 n
+INFO  13:25:05,669 - #35 )
+INFO  13:25:05,669 - Deklarisan formalni argument  n na liniji 15
+INFO  13:25:05,669 - #38 {
+INFO  13:25:05,669 - #9 print
+INFO  13:25:05,669 - #34 (
+INFO  13:25:05,669 - #43 1
+INFO  13:25:05,669 - #35 )
+INFO  13:25:05,669 - #31 ;
+INFO  13:25:05,669 - #9 print
+INFO  13:25:05,669 - #34 (
+INFO  13:25:05,669 - #43 2
+INFO  13:25:05,670 - #35 )
+INFO  13:25:05,670 - #31 ;
+INFO  13:25:05,670 - #44 x
+INFO  13:25:05,670 - #28 =
+INFO  13:25:05,670 - #44 t
+INFO  13:25:05,670 - #33 .
+INFO  13:25:05,670 - #44 tt
+INFO  13:25:05,670 - #33 .
+INFO  13:25:05,670 - #44 k
+INFO  13:25:05,670 - #34 (
+INFO  13:25:05,670 - #35 )
+INFO  13:25:05,670 - #31 ;
+INFO  13:25:05,671 - Pronadjen poziv f-je k na liniji 19
+INFO  13:25:05,671 - #11 return
+ERROR 13:25:05,671 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  13:25:05,671 - #43 0
+INFO  13:25:05,671 - #31 ;
+INFO  13:25:05,671 - #39 }
+ERROR 13:25:05,671 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  13:25:05,671 - #39 }
+INFO  13:25:05,671 - GlobalVar = 4
+INFO  13:25:05,671 - GlobalConst = 0
+INFO  13:25:05,671 - LocalMainVar = 0
+INFO  13:25:05,671 - GlobalArray = 0
+INFO  13:25:05,672 - FuncProg = 1
+INFO  13:25:05,672 - Blocks = 2
+INFO  13:25:05,672 - FuncCalls = 3
+INFO  13:25:05,672 - FormalArg = 1
+INFO  13:25:05,672 - DefClass = 2
+INFO  13:25:05,672 - DefMClass = 1
+INFO  13:25:05,672 - DeclFClass = 2
+ERROR 13:25:05,674 - Parsiranje nije uspesno
+INFO  14:46:16,639 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:46:16,698 - #2 program
+INFO  14:46:16,698 - #44 MJProgram
+INFO  14:46:16,698 - #44 int
+INFO  14:46:16,698 - #44 x
+INFO  14:46:16,699 - #31 ;
+INFO  14:46:16,699 - Deklarisana promenljiva x na liniji 2
+INFO  14:46:16,699 - #44 int
+INFO  14:46:16,699 - #44 y
+INFO  14:46:16,699 - #31 ;
+INFO  14:46:16,699 - Deklarisana promenljiva y na liniji 2
+INFO  14:46:16,699 - #44 string
+INFO  14:46:16,699 - #44 s
+INFO  14:46:16,700 - #31 ;
+INFO  14:46:16,700 - Deklarisana promenljiva s na liniji 3
+INFO  14:46:16,700 - #4 class
+INFO  14:46:16,700 - #44 Klasa
+INFO  14:46:16,700 - #38 {
+INFO  14:46:16,700 - Deklarisana klasa Klasa na liniji 4
+INFO  14:46:16,700 - #44 int
+INFO  14:46:16,701 - #44 xx
+INFO  14:46:16,701 - #31 ;
+INFO  14:46:16,701 - Deklarisano polje xx na liniji 5
+INFO  14:46:16,701 - #38 {
+INFO  14:46:16,701 - #44 int
+INFO  14:46:16,701 - #44 k
+INFO  14:46:16,701 - #34 (
+INFO  14:46:16,701 - Obradjuje se metoda k na liniji 7
+INFO  14:46:16,702 - #35 )
+INFO  14:46:16,702 - #38 {
+INFO  14:46:16,702 - #11 return
+INFO  14:46:16,702 - #43 3
+INFO  14:46:16,702 - #31 ;
+INFO  14:46:16,702 - #39 }
+ERROR 14:46:16,702 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  14:46:16,702 - #39 }
+INFO  14:46:16,703 - #39 }
+INFO  14:46:16,703 - #4 class
+INFO  14:46:16,703 - #44 Pom
+INFO  14:46:16,703 - #38 {
+INFO  14:46:16,703 - Deklarisana klasa Pom na liniji 10
+INFO  14:46:16,703 - #44 Klasa
+INFO  14:46:16,703 - #44 tt
+INFO  14:46:16,703 - #31 ;
+INFO  14:46:16,704 - Deklarisano polje tt na liniji 11
+INFO  14:46:16,704 - #39 }
+INFO  14:46:16,704 - #44 Pom
+INFO  14:46:16,704 - #44 t
+INFO  14:46:16,704 - #31 ;
+INFO  14:46:16,704 - Deklarisana promenljiva t na liniji 13
+INFO  14:46:16,704 - #38 {
+INFO  14:46:16,704 - #44 int
+INFO  14:46:16,704 - #44 main
+INFO  14:46:16,704 - #34 (
+INFO  14:46:16,705 - Obradjuje se funkcija main na liniji 15
+INFO  14:46:16,705 - #44 int
+INFO  14:46:16,705 - #44 n
+INFO  14:46:16,705 - #35 )
+INFO  14:46:16,705 - Deklarisan formalni argument  n na liniji 15
+INFO  14:46:16,705 - #38 {
+INFO  14:46:16,705 - #9 print
+INFO  14:46:16,705 - #34 (
+INFO  14:46:16,705 - #43 1
+INFO  14:46:16,705 - #35 )
+INFO  14:46:16,705 - #31 ;
+INFO  14:46:16,706 - #9 print
+INFO  14:46:16,706 - #34 (
+INFO  14:46:16,706 - #43 2
+INFO  14:46:16,706 - #35 )
+INFO  14:46:16,706 - #31 ;
+INFO  14:46:16,706 - #44 x
+INFO  14:46:16,706 - #28 =
+INFO  14:46:16,706 - #44 t
+INFO  14:46:16,706 - #33 .
+INFO  14:46:16,706 - #44 tt
+INFO  14:46:16,706 - #33 .
+INFO  14:46:16,707 - #44 k
+INFO  14:46:16,707 - #34 (
+INFO  14:46:16,707 - #35 )
+INFO  14:46:16,707 - #31 ;
+INFO  14:46:16,707 - Pronadjen poziv f-je k na liniji 19
+INFO  14:46:16,707 - #11 return
+ERROR 14:46:16,707 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  14:46:16,707 - #43 0
+INFO  14:46:16,707 - #31 ;
+INFO  14:46:16,708 - #39 }
+ERROR 14:46:16,708 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  14:46:16,708 - #39 }
+INFO  14:46:16,708 - GlobalVar = 4
+INFO  14:46:16,708 - GlobalConst = 0
+INFO  14:46:16,708 - LocalMainVar = 0
+INFO  14:46:16,708 - GlobalArray = 0
+INFO  14:46:16,708 - FuncProg = 1
+INFO  14:46:16,708 - Blocks = 2
+INFO  14:46:16,708 - FuncCalls = 3
+INFO  14:46:16,708 - FormalArg = 1
+INFO  14:46:16,709 - DefClass = 2
+INFO  14:46:16,709 - DefMClass = 1
+INFO  14:46:16,709 - DeclFClass = 2
+INFO  14:58:43,163 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  14:58:43,182 - #2 program
+INFO  14:58:43,182 - #44 MJProgram
+INFO  14:58:43,182 - #44 int
+INFO  14:58:43,183 - #44 x
+INFO  14:58:43,183 - #31 ;
+INFO  14:58:43,183 - Deklarisana promenljiva x na liniji 2
+INFO  14:58:43,183 - #44 int
+INFO  14:58:43,183 - #44 y
+INFO  14:58:43,183 - #31 ;
+INFO  14:58:43,183 - Deklarisana promenljiva y na liniji 2
+INFO  14:58:43,183 - #44 string
+INFO  14:58:43,183 - #44 s
+INFO  14:58:43,183 - #31 ;
+INFO  14:58:43,183 - Deklarisana promenljiva s na liniji 3
+INFO  14:58:43,184 - #4 class
+INFO  14:58:43,184 - #44 Klasa
+INFO  14:58:43,184 - #38 {
+INFO  14:58:43,184 - Deklarisana klasa Klasa na liniji 4
+INFO  14:58:43,184 - #44 int
+INFO  14:58:43,184 - #44 xx
+INFO  14:58:43,184 - #31 ;
+INFO  14:58:43,184 - Deklarisano polje xx na liniji 5
+INFO  14:58:43,184 - #38 {
+INFO  14:58:43,184 - #44 int
+INFO  14:58:43,184 - #44 k
+INFO  14:58:43,185 - #34 (
+INFO  14:58:43,185 - Obradjuje se metoda k na liniji 7
+INFO  14:58:43,185 - #35 )
+INFO  14:58:43,185 - #38 {
+INFO  14:58:43,185 - #11 return
+INFO  14:58:43,185 - #43 3
+INFO  14:58:43,185 - #31 ;
+INFO  14:58:43,185 - #39 }
+ERROR 14:58:43,185 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  14:58:43,185 - #39 }
+INFO  14:58:43,186 - #39 }
+INFO  14:58:43,186 - #4 class
+INFO  14:58:43,186 - #44 Pom
+INFO  14:58:43,186 - #38 {
+INFO  14:58:43,186 - Deklarisana klasa Pom na liniji 10
+INFO  14:58:43,186 - #44 Klasa
+INFO  14:58:43,186 - #44 tt
+INFO  14:58:43,186 - #31 ;
+INFO  14:58:43,186 - Deklarisano polje tt na liniji 11
+INFO  14:58:43,186 - #39 }
+INFO  14:58:43,186 - #44 Pom
+INFO  14:58:43,186 - #44 t
+INFO  14:58:43,187 - #31 ;
+INFO  14:58:43,187 - Deklarisana promenljiva t na liniji 13
+INFO  14:58:43,187 - #38 {
+INFO  14:58:43,187 - #44 int
+INFO  14:58:43,187 - #44 main
+INFO  14:58:43,187 - #34 (
+INFO  14:58:43,187 - Obradjuje se funkcija main na liniji 15
+INFO  14:58:43,187 - #44 int
+INFO  14:58:43,187 - #44 n
+INFO  14:58:43,187 - #35 )
+INFO  14:58:43,187 - Deklarisan formalni argument  n na liniji 15
+INFO  14:58:43,187 - #38 {
+INFO  14:58:43,188 - #9 print
+INFO  14:58:43,188 - #34 (
+INFO  14:58:43,188 - #43 1
+INFO  14:58:43,188 - #35 )
+INFO  14:58:43,188 - #31 ;
+INFO  14:58:43,188 - #9 print
+INFO  14:58:43,188 - #34 (
+INFO  14:58:43,188 - #43 2
+INFO  14:58:43,188 - #35 )
+INFO  14:58:43,188 - #31 ;
+INFO  14:58:43,188 - #44 x
+INFO  14:58:43,188 - #28 =
+INFO  14:58:43,188 - #44 t
+INFO  14:58:43,189 - #33 .
+INFO  14:58:43,189 - #44 tt
+INFO  14:58:43,189 - #33 .
+INFO  14:58:43,189 - #44 k
+INFO  14:58:43,189 - #34 (
+INFO  14:58:43,189 - #35 )
+INFO  14:58:43,189 - #31 ;
+INFO  14:58:43,189 - Pronadjen poziv f-je k na liniji 19
+INFO  14:58:43,189 - #11 return
+ERROR 14:58:43,189 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  14:58:43,189 - #43 0
+INFO  14:58:43,189 - #31 ;
+INFO  14:58:43,190 - #39 }
+ERROR 14:58:43,190 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  14:58:43,190 - #39 }
+INFO  14:58:43,190 - GlobalVar = 4
+INFO  14:58:43,190 - GlobalConst = 0
+INFO  14:58:43,190 - LocalMainVar = 0
+INFO  14:58:43,190 - GlobalArray = 0
+INFO  14:58:43,190 - FuncProg = 1
+INFO  14:58:43,190 - Blocks = 2
+INFO  14:58:43,190 - FuncCalls = 3
+INFO  14:58:43,190 - FormalArg = 1
+INFO  14:58:43,191 - DefClass = 2
+INFO  14:58:43,191 - DefMClass = 1
+INFO  14:58:43,191 - DeclFClass = 2
+INFO  15:05:36,997 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:05:37,045 - #2 program
+INFO  15:05:37,046 - #44 MJProgram
+INFO  15:05:37,046 - #44 int
+INFO  15:05:37,046 - #44 x
+INFO  15:05:37,046 - #31 ;
+INFO  15:05:37,046 - Deklarisana promenljiva x na liniji 2
+INFO  15:05:37,046 - #44 int
+INFO  15:05:37,046 - #44 y
+INFO  15:05:37,046 - #31 ;
+INFO  15:05:37,047 - Deklarisana promenljiva y na liniji 2
+INFO  15:05:37,047 - #44 string
+INFO  15:05:37,047 - #44 s
+INFO  15:05:37,047 - #31 ;
+INFO  15:05:37,047 - Deklarisana promenljiva s na liniji 3
+INFO  15:05:37,047 - #4 class
+INFO  15:05:37,047 - #44 Klasa
+INFO  15:05:37,047 - #38 {
+INFO  15:05:37,047 - Deklarisana klasa Klasa na liniji 4
+INFO  15:05:37,048 - #44 int
+INFO  15:05:37,048 - #44 xx
+INFO  15:05:37,048 - #31 ;
+INFO  15:05:37,048 - Deklarisano polje xx na liniji 5
+INFO  15:05:37,048 - #38 {
+INFO  15:05:37,048 - #44 int
+INFO  15:05:37,048 - #44 k
+INFO  15:05:37,048 - #34 (
+INFO  15:05:37,049 - Obradjuje se metoda k na liniji 7
+INFO  15:05:37,049 - #35 )
+INFO  15:05:37,049 - #38 {
+INFO  15:05:37,049 - #11 return
+INFO  15:05:37,049 - #43 3
+INFO  15:05:37,049 - #31 ;
+INFO  15:05:37,049 - #39 }
+ERROR 15:05:37,049 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:05:37,050 - #39 }
+INFO  15:05:37,050 - #39 }
+INFO  15:05:37,050 - #4 class
+INFO  15:05:37,050 - #44 Pom
+INFO  15:05:37,050 - #38 {
+INFO  15:05:37,050 - Deklarisana klasa Pom na liniji 10
+INFO  15:05:37,050 - #44 Klasa
+INFO  15:05:37,050 - #44 tt
+INFO  15:05:37,051 - #31 ;
+INFO  15:05:37,051 - Deklarisano polje tt na liniji 11
+INFO  15:05:37,051 - #39 }
+INFO  15:05:37,051 - #44 Pom
+INFO  15:05:37,051 - #44 t
+INFO  15:05:37,051 - #31 ;
+INFO  15:05:37,051 - Deklarisana promenljiva t na liniji 13
+INFO  15:05:37,051 - #38 {
+INFO  15:05:37,051 - #44 int
+INFO  15:05:37,051 - #44 main
+INFO  15:05:37,052 - #34 (
+INFO  15:05:37,052 - Obradjuje se funkcija main na liniji 15
+INFO  15:05:37,052 - #44 int
+INFO  15:05:37,052 - #44 n
+INFO  15:05:37,052 - #35 )
+INFO  15:05:37,052 - Deklarisan formalni argument  n na liniji 15
+INFO  15:05:37,052 - #38 {
+INFO  15:05:37,052 - #9 print
+INFO  15:05:37,052 - #34 (
+INFO  15:05:37,053 - #43 1
+INFO  15:05:37,053 - #35 )
+INFO  15:05:37,053 - #31 ;
+INFO  15:05:37,053 - #9 print
+INFO  15:05:37,053 - #34 (
+INFO  15:05:37,053 - #43 2
+INFO  15:05:37,053 - #35 )
+INFO  15:05:37,053 - #31 ;
+INFO  15:05:37,053 - #44 x
+INFO  15:05:37,053 - #28 =
+INFO  15:05:37,054 - #44 t
+INFO  15:05:37,054 - #33 .
+INFO  15:05:37,054 - #44 tt
+INFO  15:05:37,054 - #33 .
+INFO  15:05:37,054 - #44 k
+INFO  15:05:37,054 - #34 (
+INFO  15:05:37,054 - #35 )
+INFO  15:05:37,055 - #31 ;
+INFO  15:05:37,055 - Pronadjen poziv f-je k na liniji 19
+INFO  15:05:37,055 - #11 return
+ERROR 15:05:37,055 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:05:37,055 - #43 0
+INFO  15:05:37,055 - #31 ;
+INFO  15:05:37,055 - #39 }
+ERROR 15:05:37,055 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:05:37,056 - #39 }
+INFO  15:05:37,056 - GlobalVar = 4
+INFO  15:05:37,056 - GlobalConst = 0
+INFO  15:05:37,056 - LocalMainVar = 0
+INFO  15:05:37,056 - GlobalArray = 0
+INFO  15:05:37,056 - FuncProg = 1
+INFO  15:05:37,056 - Blocks = 2
+INFO  15:05:37,057 - FuncCalls = 3
+INFO  15:05:37,057 - FormalArg = 1
+INFO  15:05:37,057 - DefClass = 2
+INFO  15:05:37,057 - DefMClass = 1
+INFO  15:05:37,057 - DeclFClass = 2
+INFO  15:08:55,231 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:08:55,246 - #2 program
+INFO  15:08:55,246 - #44 MJProgram
+INFO  15:08:55,247 - #44 int
+INFO  15:09:29,105 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:09:29,124 - #2 program
+INFO  15:09:29,124 - #44 MJProgram
+INFO  15:09:29,124 - #44 int
+INFO  15:09:29,125 - #44 x
+INFO  15:09:29,125 - #31 ;
+INFO  15:09:29,125 - Deklarisana promenljiva x na liniji 2
+INFO  15:09:29,125 - #44 int
+INFO  15:09:29,125 - #44 y
+INFO  15:09:29,125 - #31 ;
+INFO  15:09:29,125 - Deklarisana promenljiva y na liniji 2
+INFO  15:09:29,125 - #44 string
+INFO  15:09:29,126 - #44 s
+INFO  15:09:29,126 - #31 ;
+INFO  15:09:29,126 - Deklarisana promenljiva s na liniji 3
+INFO  15:09:29,126 - #4 class
+INFO  15:09:29,126 - #44 Klasa
+INFO  15:09:29,126 - #38 {
+INFO  15:09:29,126 - Deklarisana klasa Klasa na liniji 4
+INFO  15:09:29,126 - #44 int
+INFO  15:09:29,126 - #44 xx
+INFO  15:09:29,126 - #31 ;
+INFO  15:09:29,127 - Deklarisano polje xx na liniji 5
+INFO  15:09:29,127 - #38 {
+INFO  15:09:29,127 - #44 int
+INFO  15:09:29,127 - #44 k
+INFO  15:09:29,127 - #34 (
+INFO  15:09:29,127 - Obradjuje se metoda k na liniji 7
+INFO  15:09:29,127 - #35 )
+INFO  15:09:29,127 - #38 {
+INFO  15:09:29,127 - #11 return
+INFO  15:09:29,127 - #43 3
+INFO  15:09:29,127 - #31 ;
+INFO  15:09:29,128 - #39 }
+ERROR 15:09:29,128 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:09:29,128 - #39 }
+INFO  15:09:29,128 - #39 }
+INFO  15:09:29,128 - #4 class
+INFO  15:09:29,128 - #44 Pom
+INFO  15:09:29,129 - #38 {
+INFO  15:09:29,129 - Deklarisana klasa Pom na liniji 10
+INFO  15:09:29,129 - #44 Klasa
+INFO  15:09:29,129 - #44 tt
+INFO  15:09:29,129 - #31 ;
+INFO  15:09:29,129 - Deklarisano polje tt na liniji 11
+INFO  15:09:29,129 - #39 }
+INFO  15:09:29,129 - #44 Pom
+INFO  15:09:29,129 - #44 t
+INFO  15:09:29,130 - #31 ;
+INFO  15:09:29,130 - Deklarisana promenljiva t na liniji 13
+INFO  15:09:29,130 - #38 {
+INFO  15:09:29,130 - #44 int
+INFO  15:09:29,130 - #44 main
+INFO  15:09:29,130 - #34 (
+INFO  15:09:29,130 - Obradjuje se funkcija main na liniji 15
+INFO  15:09:29,130 - #44 int
+INFO  15:09:29,130 - #44 n
+INFO  15:09:29,130 - #35 )
+INFO  15:09:29,131 - Deklarisan formalni argument  n na liniji 15
+INFO  15:09:29,131 - #38 {
+INFO  15:09:29,131 - #9 print
+INFO  15:09:29,131 - #34 (
+INFO  15:09:29,131 - #43 1
+INFO  15:09:29,131 - #35 )
+INFO  15:09:29,131 - #31 ;
+INFO  15:09:29,131 - #9 print
+INFO  15:09:29,131 - #34 (
+INFO  15:09:29,131 - #43 2
+INFO  15:09:29,131 - #35 )
+INFO  15:09:29,132 - #31 ;
+INFO  15:09:29,132 - #44 x
+INFO  15:09:29,132 - #28 =
+INFO  15:09:29,132 - #44 t
+INFO  15:09:29,132 - #33 .
+INFO  15:09:29,132 - #44 tt
+INFO  15:09:29,133 - #33 .
+INFO  15:09:29,133 - #44 k
+INFO  15:09:29,133 - #34 (
+INFO  15:09:29,133 - #35 )
+INFO  15:09:29,133 - #31 ;
+INFO  15:09:29,133 - Pronadjen poziv f-je k na liniji 19
+INFO  15:09:29,134 - #11 return
+ERROR 15:09:29,134 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:09:29,134 - #43 0
+INFO  15:09:29,134 - #31 ;
+INFO  15:09:29,134 - #39 }
+ERROR 15:09:29,134 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:09:29,134 - #39 }
+INFO  15:09:29,135 - GlobalVar = 4
+INFO  15:09:29,135 - GlobalConst = 0
+INFO  15:09:29,135 - LocalMainVar = 0
+INFO  15:09:29,135 - GlobalArray = 0
+INFO  15:09:29,135 - FuncProg = 1
+INFO  15:09:29,135 - Blocks = 2
+INFO  15:09:29,135 - FuncCalls = 3
+INFO  15:09:29,135 - FormalArg = 1
+INFO  15:09:29,135 - DefClass = 2
+INFO  15:09:29,135 - DefMClass = 1
+INFO  15:09:29,135 - DeclFClass = 2
+INFO  15:10:24,533 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:10:24,553 - #2 program
+INFO  15:10:24,553 - #44 MJProgram
+INFO  15:10:24,553 - #44 int
+INFO  15:10:24,553 - #44 x
+INFO  15:10:24,554 - #31 ;
+INFO  15:10:24,554 - Deklarisana promenljiva x na liniji 2
+INFO  15:10:24,554 - #44 int
+INFO  15:10:24,554 - #44 y
+INFO  15:10:24,554 - #31 ;
+INFO  15:10:24,554 - Deklarisana promenljiva y na liniji 2
+INFO  15:10:24,554 - #44 string
+INFO  15:10:24,554 - #44 s
+INFO  15:10:24,554 - #31 ;
+INFO  15:10:24,554 - Deklarisana promenljiva s na liniji 3
+INFO  15:10:24,555 - #4 class
+INFO  15:10:24,555 - #44 Klasa
+INFO  15:10:24,555 - #38 {
+INFO  15:10:24,555 - Deklarisana klasa Klasa na liniji 4
+INFO  15:10:24,555 - #44 int
+INFO  15:10:24,555 - #44 xx
+INFO  15:10:24,555 - #31 ;
+INFO  15:10:24,555 - Deklarisano polje xx na liniji 5
+INFO  15:10:24,555 - #38 {
+INFO  15:10:24,555 - #44 int
+INFO  15:10:24,555 - #44 k
+INFO  15:10:24,556 - #34 (
+INFO  15:10:24,556 - Obradjuje se metoda k na liniji 7
+INFO  15:10:24,556 - #35 )
+INFO  15:10:24,556 - #38 {
+INFO  15:10:24,556 - #11 return
+INFO  15:10:24,556 - #43 3
+INFO  15:10:24,556 - #31 ;
+INFO  15:10:24,556 - #39 }
+ERROR 15:10:24,556 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:10:24,557 - #39 }
+INFO  15:10:24,557 - #39 }
+INFO  15:10:24,557 - #4 class
+INFO  15:10:24,557 - #44 Pom
+INFO  15:10:24,557 - #38 {
+INFO  15:10:24,557 - Deklarisana klasa Pom na liniji 10
+INFO  15:10:24,557 - #44 Klasa
+INFO  15:10:24,557 - #44 tt
+INFO  15:10:24,557 - #31 ;
+INFO  15:10:24,558 - Deklarisano polje tt na liniji 11
+INFO  15:10:24,558 - #39 }
+INFO  15:10:24,558 - #44 Pom
+INFO  15:10:24,558 - #44 t
+INFO  15:10:24,558 - #31 ;
+INFO  15:10:24,558 - Deklarisana promenljiva t na liniji 13
+INFO  15:10:24,558 - #38 {
+INFO  15:10:24,558 - #44 int
+INFO  15:10:24,558 - #44 main
+INFO  15:10:24,559 - #34 (
+INFO  15:10:24,559 - Obradjuje se funkcija main na liniji 15
+INFO  15:10:24,559 - #44 int
+INFO  15:10:24,559 - #44 n
+INFO  15:10:24,559 - #35 )
+INFO  15:10:24,559 - Deklarisan formalni argument  n na liniji 15
+INFO  15:10:24,559 - #38 {
+INFO  15:10:24,559 - #9 print
+INFO  15:10:24,559 - #34 (
+INFO  15:10:24,559 - #43 1
+INFO  15:10:24,559 - #35 )
+INFO  15:10:24,560 - #31 ;
+INFO  15:10:24,560 - #9 print
+INFO  15:10:24,560 - #34 (
+INFO  15:10:24,560 - #43 2
+INFO  15:10:24,560 - #35 )
+INFO  15:10:24,560 - #31 ;
+INFO  15:10:24,560 - #44 x
+INFO  15:10:24,560 - #28 =
+INFO  15:10:24,560 - #44 t
+INFO  15:10:24,560 - #33 .
+INFO  15:10:24,560 - #44 tt
+INFO  15:10:24,560 - #33 .
+INFO  15:10:24,561 - #44 k
+INFO  15:10:24,561 - #34 (
+INFO  15:10:24,561 - #35 )
+INFO  15:10:24,561 - #31 ;
+INFO  15:10:24,561 - Pronadjen poziv f-je k na liniji 19
+INFO  15:10:24,561 - #11 return
+ERROR 15:10:24,561 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:10:24,561 - #43 0
+INFO  15:10:24,561 - #31 ;
+INFO  15:10:24,562 - #39 }
+ERROR 15:10:24,562 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:10:24,562 - #39 }
+INFO  15:10:24,562 - GlobalVar = 4
+INFO  15:10:24,562 - GlobalConst = 0
+INFO  15:10:24,562 - LocalMainVar = 0
+INFO  15:10:24,562 - GlobalArray = 0
+INFO  15:10:24,562 - FuncProg = 1
+INFO  15:10:24,562 - Blocks = 2
+INFO  15:10:24,562 - FuncCalls = 3
+INFO  15:10:24,562 - FormalArg = 1
+INFO  15:10:24,563 - DefClass = 2
+INFO  15:10:24,563 - DefMClass = 1
+INFO  15:10:24,563 - DeclFClass = 2
+INFO  15:12:07,852 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:12:07,874 - #2 program
+INFO  15:12:07,874 - #44 MJProgram
+INFO  15:12:07,874 - #44 int
+INFO  15:12:07,874 - #44 x
+INFO  15:12:07,874 - #31 ;
+INFO  15:12:07,874 - Deklarisana promenljiva x na liniji 2
+INFO  15:12:07,874 - #44 int
+INFO  15:12:07,874 - #44 y
+INFO  15:12:07,874 - #31 ;
+INFO  15:12:07,875 - Deklarisana promenljiva y na liniji 2
+INFO  15:12:07,875 - #44 string
+INFO  15:12:07,875 - #44 s
+INFO  15:12:07,875 - #31 ;
+INFO  15:12:07,875 - Deklarisana promenljiva s na liniji 3
+INFO  15:12:07,875 - #4 class
+INFO  15:12:07,875 - #44 Klasa
+INFO  15:12:07,875 - #38 {
+INFO  15:12:07,875 - Deklarisana klasa Klasa na liniji 4
+INFO  15:12:07,875 - #44 int
+INFO  15:12:07,876 - #44 xx
+INFO  15:12:07,876 - #31 ;
+INFO  15:12:07,876 - Deklarisano polje xx na liniji 5
+INFO  15:12:07,876 - #38 {
+INFO  15:12:07,876 - #44 int
+INFO  15:12:07,876 - #44 k
+INFO  15:12:07,876 - #34 (
+INFO  15:12:07,876 - Obradjuje se metoda k na liniji 7
+INFO  15:12:07,876 - #35 )
+INFO  15:12:07,876 - #38 {
+INFO  15:12:07,876 - #11 return
+INFO  15:12:07,877 - #43 3
+INFO  15:12:07,877 - #31 ;
+INFO  15:12:07,877 - #39 }
+ERROR 15:12:07,877 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:12:07,877 - #39 }
+INFO  15:12:07,877 - #39 }
+INFO  15:12:07,877 - #4 class
+INFO  15:12:07,878 - #44 Pom
+INFO  15:12:07,878 - #38 {
+INFO  15:12:07,878 - Deklarisana klasa Pom na liniji 10
+INFO  15:12:07,878 - #44 Klasa
+INFO  15:12:07,878 - #44 tt
+INFO  15:12:07,878 - #31 ;
+INFO  15:12:07,878 - Deklarisano polje tt na liniji 11
+INFO  15:12:07,878 - #39 }
+INFO  15:12:07,878 - #44 Pom
+INFO  15:12:07,878 - #44 t
+INFO  15:12:07,879 - #31 ;
+INFO  15:12:07,879 - Deklarisana promenljiva t na liniji 13
+INFO  15:12:07,879 - #38 {
+INFO  15:12:07,879 - #44 int
+INFO  15:12:07,879 - #44 main
+INFO  15:12:07,879 - #34 (
+INFO  15:12:07,879 - Obradjuje se funkcija main na liniji 15
+INFO  15:12:07,879 - #44 int
+INFO  15:12:07,879 - #44 n
+INFO  15:12:07,879 - #35 )
+INFO  15:12:07,879 - Deklarisan formalni argument  n na liniji 15
+INFO  15:12:07,880 - #38 {
+INFO  15:12:07,880 - #9 print
+INFO  15:12:07,880 - #34 (
+INFO  15:12:07,880 - #43 1
+INFO  15:12:07,880 - #35 )
+INFO  15:12:07,880 - #31 ;
+INFO  15:12:07,880 - #9 print
+INFO  15:12:07,880 - #34 (
+INFO  15:12:07,880 - #43 2
+INFO  15:12:07,880 - #35 )
+INFO  15:12:07,881 - #31 ;
+INFO  15:12:07,881 - #44 x
+INFO  15:12:07,881 - #28 =
+INFO  15:12:07,881 - #44 t
+INFO  15:12:07,881 - #33 .
+INFO  15:12:07,881 - #44 tt
+INFO  15:12:07,881 - #33 .
+INFO  15:12:07,881 - #44 k
+INFO  15:12:07,881 - #34 (
+INFO  15:12:07,881 - #35 )
+INFO  15:12:07,881 - #31 ;
+INFO  15:12:07,882 - Pronadjen poziv f-je k na liniji 19
+INFO  15:12:07,882 - #11 return
+ERROR 15:12:07,882 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:12:07,882 - #43 0
+INFO  15:12:07,882 - #31 ;
+INFO  15:12:07,882 - #39 }
+ERROR 15:12:07,882 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:12:07,882 - #39 }
+INFO  15:12:07,882 - GlobalVar = 4
+INFO  15:12:07,883 - GlobalConst = 0
+INFO  15:12:07,883 - LocalMainVar = 0
+INFO  15:12:07,883 - GlobalArray = 0
+INFO  15:12:07,883 - FuncProg = 1
+INFO  15:12:07,883 - Blocks = 2
+INFO  15:12:07,883 - FuncCalls = 3
+INFO  15:12:07,883 - FormalArg = 1
+INFO  15:12:07,883 - DefClass = 2
+INFO  15:12:07,883 - DefMClass = 1
+INFO  15:12:07,883 - DeclFClass = 2
+INFO  15:12:45,218 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:12:45,238 - #2 program
+INFO  15:12:45,238 - #44 MJProgram
+INFO  15:12:45,238 - #44 int
+INFO  15:12:45,238 - #44 x
+INFO  15:12:45,239 - #31 ;
+INFO  15:12:45,239 - Deklarisana promenljiva x na liniji 2
+INFO  15:12:45,239 - #44 int
+INFO  15:12:45,239 - #44 y
+INFO  15:12:45,239 - #31 ;
+INFO  15:12:45,239 - Deklarisana promenljiva y na liniji 2
+INFO  15:12:45,239 - #44 string
+INFO  15:12:45,239 - #44 s
+INFO  15:12:45,239 - #31 ;
+INFO  15:12:45,239 - Deklarisana promenljiva s na liniji 3
+INFO  15:12:45,240 - #4 class
+INFO  15:12:45,240 - #44 Klasa
+INFO  15:12:45,240 - #38 {
+INFO  15:12:45,240 - Deklarisana klasa Klasa na liniji 4
+INFO  15:12:45,240 - #44 int
+INFO  15:12:45,240 - #44 xx
+INFO  15:12:45,240 - #31 ;
+INFO  15:12:45,240 - Deklarisano polje xx na liniji 5
+INFO  15:12:45,240 - #38 {
+INFO  15:12:45,240 - #44 int
+INFO  15:12:45,240 - #44 k
+INFO  15:12:45,241 - #34 (
+INFO  15:12:45,241 - Obradjuje se metoda k na liniji 7
+INFO  15:12:45,241 - #35 )
+INFO  15:12:45,241 - #38 {
+INFO  15:12:45,241 - #11 return
+INFO  15:12:45,241 - #43 3
+INFO  15:12:45,241 - #31 ;
+INFO  15:12:45,241 - #39 }
+ERROR 15:12:45,241 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:12:45,241 - #39 }
+INFO  15:12:45,242 - #39 }
+INFO  15:12:45,242 - #4 class
+INFO  15:12:45,242 - #44 Pom
+INFO  15:12:45,242 - #38 {
+INFO  15:12:45,242 - Deklarisana klasa Pom na liniji 10
+INFO  15:12:45,242 - #44 Klasa
+INFO  15:12:45,243 - #44 tt
+INFO  15:12:45,243 - #31 ;
+INFO  15:12:45,243 - Deklarisano polje tt na liniji 11
+INFO  15:12:45,243 - #39 }
+INFO  15:12:45,243 - #44 Pom
+INFO  15:12:45,243 - #44 t
+INFO  15:12:45,243 - #31 ;
+INFO  15:12:45,243 - Deklarisana promenljiva t na liniji 13
+INFO  15:12:45,243 - #38 {
+INFO  15:12:45,243 - #44 int
+INFO  15:12:45,244 - #44 main
+INFO  15:12:45,244 - #34 (
+INFO  15:12:45,244 - Obradjuje se funkcija main na liniji 15
+INFO  15:12:45,244 - #44 int
+INFO  15:12:45,244 - #44 n
+INFO  15:12:45,244 - #35 )
+INFO  15:12:45,244 - Deklarisan formalni argument  n na liniji 15
+INFO  15:12:45,244 - #38 {
+INFO  15:12:45,244 - #9 print
+INFO  15:12:45,244 - #34 (
+INFO  15:12:45,244 - #43 1
+INFO  15:12:45,244 - #35 )
+INFO  15:12:45,245 - #31 ;
+INFO  15:12:45,245 - #9 print
+INFO  15:12:45,245 - #34 (
+INFO  15:12:45,245 - #43 2
+INFO  15:12:45,245 - #35 )
+INFO  15:12:45,245 - #31 ;
+INFO  15:12:45,245 - #44 x
+INFO  15:12:45,245 - #28 =
+INFO  15:12:45,245 - #44 t
+INFO  15:12:45,245 - #33 .
+INFO  15:12:45,246 - #44 tt
+INFO  15:12:45,246 - #33 .
+INFO  15:12:45,246 - #44 k
+INFO  15:12:45,246 - #34 (
+INFO  15:12:45,246 - #35 )
+INFO  15:12:45,246 - #31 ;
+INFO  15:12:45,246 - Pronadjen poziv f-je k na liniji 19
+INFO  15:12:45,247 - #11 return
+ERROR 15:12:45,247 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:12:45,247 - #43 0
+INFO  15:12:45,247 - #31 ;
+INFO  15:12:45,247 - #39 }
+ERROR 15:12:45,248 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:12:45,248 - #39 }
+INFO  15:12:45,248 - GlobalVar = 4
+INFO  15:12:45,248 - GlobalConst = 0
+INFO  15:12:45,248 - LocalMainVar = 0
+INFO  15:12:45,248 - GlobalArray = 0
+INFO  15:12:45,248 - FuncProg = 1
+INFO  15:12:45,248 - Blocks = 2
+INFO  15:12:45,248 - FuncCalls = 3
+INFO  15:12:45,249 - FormalArg = 1
+INFO  15:12:45,249 - DefClass = 2
+INFO  15:12:45,249 - DefMClass = 1
+INFO  15:12:45,249 - DeclFClass = 2
+INFO  15:19:12,033 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:19:12,055 - #2 program
+INFO  15:19:12,055 - #44 MJProgram
+INFO  15:19:12,055 - #44 int
+INFO  15:19:12,056 - #44 x
+INFO  15:19:12,056 - #31 ;
+INFO  15:19:12,056 - Deklarisana promenljiva x na liniji 2
+INFO  15:19:12,056 - #44 int
+INFO  15:19:12,056 - #44 y
+INFO  15:19:12,056 - #31 ;
+INFO  15:19:12,056 - Deklarisana promenljiva y na liniji 2
+INFO  15:19:12,056 - #4 class
+INFO  15:19:12,056 - #44 Klasa
+INFO  15:19:12,057 - #38 {
+INFO  15:19:12,057 - Deklarisana klasa Klasa na liniji 3
+INFO  15:19:12,057 - #44 int
+INFO  15:19:12,057 - #44 xx
+INFO  15:19:12,057 - #31 ;
+INFO  15:19:12,057 - Deklarisano polje xx na liniji 4
+INFO  15:19:12,057 - #38 {
+INFO  15:19:12,057 - #44 int
+INFO  15:19:12,057 - #44 k
+INFO  15:19:12,057 - #34 (
+INFO  15:19:12,058 - Obradjuje se metoda k na liniji 6
+INFO  15:19:12,058 - #35 )
+INFO  15:19:12,058 - #38 {
+INFO  15:19:12,058 - #11 return
+INFO  15:19:12,058 - #43 3
+INFO  15:19:12,058 - #31 ;
+INFO  15:19:12,058 - #39 }
+ERROR 15:19:12,058 - Greska na liniji 6 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:19:12,058 - #39 }
+INFO  15:19:12,058 - #39 }
+INFO  15:19:12,059 - #4 class
+INFO  15:19:12,059 - #44 Pom
+INFO  15:19:12,059 - #38 {
+INFO  15:19:12,059 - Deklarisana klasa Pom na liniji 9
+INFO  15:19:12,059 - #44 Klasa
+INFO  15:19:12,060 - #44 tt
+INFO  15:19:12,060 - #31 ;
+INFO  15:19:12,060 - Deklarisano polje tt na liniji 10
+INFO  15:19:12,060 - #39 }
+INFO  15:19:12,060 - #44 Pom
+INFO  15:19:12,060 - #44 t
+INFO  15:19:12,060 - #31 ;
+INFO  15:19:12,060 - Deklarisana promenljiva t na liniji 12
+INFO  15:19:12,060 - #38 {
+INFO  15:19:12,061 - #44 int
+INFO  15:19:12,061 - #44 main
+INFO  15:19:12,061 - #34 (
+INFO  15:19:12,061 - Obradjuje se funkcija main na liniji 14
+INFO  15:19:12,061 - #44 int
+INFO  15:19:12,061 - #44 n
+INFO  15:19:12,061 - #35 )
+INFO  15:19:12,061 - Deklarisan formalni argument  n na liniji 14
+INFO  15:19:12,061 - #38 {
+INFO  15:19:12,061 - #9 print
+INFO  15:19:12,062 - #34 (
+INFO  15:19:12,062 - #43 1
+INFO  15:19:12,062 - #35 )
+INFO  15:19:12,062 - #31 ;
+INFO  15:19:12,062 - #9 print
+INFO  15:19:12,062 - #34 (
+INFO  15:19:12,062 - #43 2
+INFO  15:19:12,063 - #35 )
+INFO  15:19:12,063 - #31 ;
+INFO  15:19:12,063 - #44 x
+INFO  15:19:12,063 - #28 =
+INFO  15:19:12,063 - #44 t
+INFO  15:19:12,063 - #33 .
+INFO  15:19:12,063 - #44 tt
+INFO  15:19:12,064 - #33 .
+INFO  15:19:12,064 - #44 k
+INFO  15:19:12,064 - #34 (
+INFO  15:19:12,064 - #35 )
+INFO  15:19:12,065 - #31 ;
+INFO  15:19:12,065 - Pronadjen poziv f-je k na liniji 18
+INFO  15:19:12,065 - #11 return
+ERROR 15:19:12,065 - Greska na liniji 18 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:19:12,065 - #43 0
+INFO  15:19:12,065 - #31 ;
+INFO  15:19:12,065 - #39 }
+ERROR 15:19:12,066 - Greska na liniji 19 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:19:12,066 - #39 }
+INFO  15:19:12,066 - GlobalVar = 3
+INFO  15:19:12,066 - GlobalConst = 0
+INFO  15:19:12,066 - LocalMainVar = 0
+INFO  15:19:12,067 - GlobalArray = 0
+INFO  15:19:12,067 - FuncProg = 1
+INFO  15:19:12,067 - Blocks = 2
+INFO  15:19:12,067 - FuncCalls = 3
+INFO  15:19:12,067 - FormalArg = 1
+INFO  15:19:12,067 - DefClass = 2
+INFO  15:19:12,068 - DefMClass = 1
+INFO  15:19:12,068 - DeclFClass = 2
+ERROR 15:19:12,070 - Parsiranje nije uspesno
+INFO  15:22:23,522 - Compiling source file: C:\ppp1domaci\workspace\MJCompiler\test\program.mj
+INFO  15:22:23,544 - #2 program
+INFO  15:22:23,544 - #44 MJProgram
+INFO  15:22:23,544 - #44 int
+INFO  15:22:23,544 - #44 x
+INFO  15:22:23,544 - #31 ;
+INFO  15:22:23,544 - Deklarisana promenljiva x na liniji 2
+INFO  15:22:23,544 - #44 int
+INFO  15:22:23,545 - #44 y
+INFO  15:22:23,545 - #31 ;
+INFO  15:22:23,545 - Deklarisana promenljiva y na liniji 2
+INFO  15:22:23,545 - #44 string
+INFO  15:22:23,545 - #44 s
+INFO  15:22:23,545 - #31 ;
+INFO  15:22:23,545 - Deklarisana promenljiva s na liniji 3
+INFO  15:22:23,545 - #4 class
+INFO  15:22:23,545 - #44 Klasa
+INFO  15:22:23,545 - #38 {
+INFO  15:22:23,545 - Deklarisana klasa Klasa na liniji 4
+INFO  15:22:23,546 - #44 int
+INFO  15:22:23,546 - #44 xx
+INFO  15:22:23,546 - #31 ;
+INFO  15:22:23,546 - Deklarisano polje xx na liniji 5
+INFO  15:22:23,546 - #38 {
+INFO  15:22:23,546 - #44 int
+INFO  15:22:23,546 - #44 k
+INFO  15:22:23,547 - #34 (
+INFO  15:22:23,547 - Obradjuje se metoda k na liniji 7
+INFO  15:22:23,547 - #35 )
+INFO  15:22:23,547 - #38 {
+INFO  15:22:23,547 - #11 return
+INFO  15:22:23,547 - #43 3
+INFO  15:22:23,547 - #31 ;
+INFO  15:22:23,547 - #39 }
+ERROR 15:22:23,548 - Greska na liniji 7 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije k
+INFO  15:22:23,548 - #39 }
+INFO  15:22:23,548 - #39 }
+INFO  15:22:23,548 - #4 class
+INFO  15:22:23,548 - #44 Pom
+INFO  15:22:23,548 - #38 {
+INFO  15:22:23,548 - Deklarisana klasa Pom na liniji 10
+INFO  15:22:23,549 - #44 Klasa
+INFO  15:22:23,549 - #44 tt
+INFO  15:22:23,549 - #31 ;
+INFO  15:22:23,549 - Deklarisano polje tt na liniji 11
+INFO  15:22:23,549 - #39 }
+INFO  15:22:23,549 - #44 Pom
+INFO  15:22:23,549 - #44 t
+INFO  15:22:23,549 - #31 ;
+INFO  15:22:23,549 - Deklarisana promenljiva t na liniji 13
+INFO  15:22:23,549 - #38 {
+INFO  15:22:23,550 - #44 int
+INFO  15:22:23,550 - #44 main
+INFO  15:22:23,550 - #34 (
+INFO  15:22:23,550 - Obradjuje se funkcija main na liniji 15
+INFO  15:22:23,550 - #44 int
+INFO  15:22:23,550 - #44 n
+INFO  15:22:23,550 - #35 )
+INFO  15:22:23,550 - Deklarisan formalni argument  n na liniji 15
+INFO  15:22:23,550 - #38 {
+INFO  15:22:23,551 - #9 print
+INFO  15:22:23,551 - #34 (
+INFO  15:22:23,551 - #43 1
+INFO  15:22:23,551 - #35 )
+INFO  15:22:23,551 - #31 ;
+INFO  15:22:23,551 - #9 print
+INFO  15:22:23,551 - #34 (
+INFO  15:22:23,551 - #43 2
+INFO  15:22:23,551 - #35 )
+INFO  15:22:23,551 - #31 ;
+INFO  15:22:23,551 - #44 x
+INFO  15:22:23,552 - #28 =
+INFO  15:22:23,552 - #44 t
+INFO  15:22:23,552 - #33 .
+INFO  15:22:23,552 - #44 tt
+INFO  15:22:23,552 - #33 .
+INFO  15:22:23,552 - #44 k
+INFO  15:22:23,552 - #34 (
+INFO  15:22:23,552 - #35 )
+INFO  15:22:23,552 - #31 ;
+INFO  15:22:23,553 - Pronadjen poziv f-je k na liniji 19
+INFO  15:22:23,553 - #11 return
+ERROR 15:22:23,553 - Greska na liniji 19 nekompatibilni tipovi u dodeli vrednosti
+INFO  15:22:23,553 - #43 0
+INFO  15:22:23,553 - #31 ;
+INFO  15:22:23,553 - #39 }
+ERROR 15:22:23,553 - Greska na liniji 20 : tip izraza u return nardbi ne slaze se sa tipom povratne vrdnosti funkcije main
+INFO  15:22:23,553 - #39 }
+INFO  15:22:23,554 - GlobalVar = 4
+INFO  15:22:23,554 - GlobalConst = 0
+INFO  15:22:23,554 - LocalMainVar = 0
+INFO  15:22:23,554 - GlobalArray = 0
+INFO  15:22:23,554 - FuncProg = 1
+INFO  15:22:23,554 - Blocks = 2
+INFO  15:22:23,554 - FuncCalls = 3
+INFO  15:22:23,554 - FormalArg = 1
+INFO  15:22:23,554 - DefClass = 2
+INFO  15:22:23,554 - DefMClass = 1
+INFO  15:22:23,554 - DeclFClass = 2
+ERROR 15:22:23,555 - Parsiranje nije uspesno

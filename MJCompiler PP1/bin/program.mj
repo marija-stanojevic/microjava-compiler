@@ -1,21 +1,21 @@
-program MJProgram
-	int x; int y;
-{
-	
-	int k () int c; {
-		c = 0;
-		print(0);
-		return c+3;
-	}
-	
-	int main() {
-		x = 3;
-		print(1);
-		print(x);
-		k();
-		return 0;
-	}
+program Program
+
+class Klasa{
+
+int g;
 }
 
+class Pom extends Klasa{
+int s;
 
-// nemanja.kojic@etf.rs
+}
+Klasa k;
+Pom p;
+{
+void main(){
+k=new Klasa;
+p=new Pom;
+p.g = 5;
+print(p.g);
+}
+}
